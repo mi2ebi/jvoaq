@@ -1,11 +1,14 @@
 use itertools::Itertools;
 use latkerlo_jvotci::{get_veljvo, tarmi::is_consonant};
+use serde_json::Value;
 use std::{collections::HashMap, fs};
 
 fn main() {
     let jvs = fs::read_to_string("dictionary-counter/jvs.txt").unwrap();
     let jvs = jvs.lines().collect_vec();
     let mut tauste = vec![];
+    let lidysisku = fs::read_to_string("lidysisku/jvs-en.json").unwrap();
+    let defs = serde_json::from_str::<Vec<Value>>(&lidysisku).unwrap();
     for word in jvs {
         if !is_consonant(word.chars().last().unwrap()) {
             if let Ok(tanru) = get_veljvo(word) {
@@ -13,14 +16,16 @@ fn main() {
                     .iter()
                     .any(|valsi| valsi.contains('-') || ["nu", "ka"].contains(&valsi.as_str()))
                 {
-                    tauste.push(tanru);
+                    if let Some(def) = defs.iter().find(|def| def[0] == word) {
+                        tauste.push((tanru, word, def[4].to_string()));
+                    }
                 }
             }
         }
     }
     let orig_len = tauste.len();
     let mut freqs = HashMap::new();
-    for tanru in tauste.clone() {
+    for (tanru, _, _) in tauste.clone() {
         for valsi in tanru {
             if !freqs.contains_key(&valsi) {
                 freqs.insert(valsi, 1);
@@ -418,12 +423,12 @@ fn main() {
         ("troci", "leo"),
         ("zarci", "dıem"),
     ]);
-    for (i, tanru) in tauste.clone().into_iter().enumerate() {
+    for (i, (tanru, _, _)) in tauste.clone().into_iter().enumerate() {
         if tanru
             .iter()
             .all(|valsi| toaqizer.contains_key(&valsi.as_str()))
         {
-            tauste[i] = tanru
+            tauste[i].0 = tanru
                 .iter()
                 .map(|valsi| {
                     if let Some(toa) = toaqizer.get(&valsi.as_str()) {
@@ -434,19 +439,19 @@ fn main() {
                 })
                 .collect();
         } else {
-            tauste[i] = vec![];
+            tauste[i].0 = vec![];
         }
     }
     let metoame /* i guess */ = tauste
         .iter()
-        .filter(|tanru| !tanru.is_empty())
-        .map(|tanru| tanru.join(""))
+        .filter(|(metoa,_,_)| !metoa.is_empty())
+        .map(|(metoa, lujvo, def)| (metoa.join(""),lujvo,def))
         .collect_vec();
     let mut metoame_string = String::new();
-    for metoa in metoame.clone() {
-        metoame_string += &format!("{metoa}\r\n");
+    for (metoa, lujvo, def) in metoame.clone() {
+        metoame_string += &format!("{metoa}\t{lujvo}\t{def}\r\n");
     }
-    fs::write("metoame.txt", metoame_string).unwrap();
+    fs::write("metoame.tsv", metoame_string).unwrap();
     println!(
         "was able to toaqize \x1b[92m{}\x1b[m/{orig_len} lujvo",
         metoame.len()
