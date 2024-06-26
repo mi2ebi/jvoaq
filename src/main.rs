@@ -17,7 +17,7 @@ fn main() {
                     .any(|valsi| valsi.contains('-') || ["nu", "ka"].contains(&valsi.as_str()))
                 {
                     if let Some(def) = defs.iter().find(|def| def[0] == word) {
-                        tauste.push((tanru, word, def[4].to_string()));
+                        tauste.push((tanru, word, def[4].as_str().unwrap()));
                     }
                 }
             }
