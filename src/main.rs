@@ -1,7 +1,10 @@
 use itertools::Itertools;
 use latkerlo_jvotci::{get_veljvo, tarmi::is_consonant};
+use regex::Regex;
+use reqwest::blocking::Client;
+use serde::Deserialize;
 use serde_json::Value;
-use std::{collections::HashMap, fs};
+use std::{collections::HashMap, fs, time::Duration};
 
 fn main() {
     let jvs = fs::read_to_string("dictionary-counter/jvs.txt").unwrap();
@@ -460,5 +463,82 @@ fn main() {
     println!(
         "was able to toaqize \x1b[92m{}\x1b[m/{orig_len} lujvo",
         metoame.len()
-    )
+    );
+    // rust moment
+    let words = metoame
+        .iter()
+        .map(|(_, _, def)| def.to_lowercase())
+        .collect_vec()
+        .iter()
+        .flat_map(|def| def.split([' ', '/']).collect_vec())
+        .filter(|word| !word.contains('$'))
+        .map(|word| Regex::new(r"\W").unwrap().replace_all(word, "").to_string())
+        .sorted()
+        .dedup()
+        .collect_vec();
+    println!(
+        "found \x1b[92m{}\x1b[m unique words in the lojban definitions",
+        words.len()
+    );
+    let client = Client::builder()
+        .timeout(Duration::from_secs(60))
+        .build()
+        .unwrap();
+    let toadua = client
+        .post("https://toadua.uakci.pl/api")
+        .body(r#"{"action": "search", "query": ["scope", "en"]}"#)
+        .send()
+        .unwrap();
+    let nonletter = Regex::new(r"\W").unwrap();
+    let toadua = serde_json::from_reader::<_, Toadua>(toadua)
+        .unwrap()
+        .results
+        .iter()
+        .map(|toa| toa.body.clone().to_lowercase())
+        .collect_vec()
+        .iter()
+        .flat_map(|toa| toa.split([' ', '/']).collect_vec())
+        .map(|word| nonletter.replace_all(word, "").to_string())
+        .collect_vec();
+    let ohno = words
+        .iter()
+        .filter(|word| !toadua.contains(word))
+        .collect_vec();
+    println!("\x1b[92m{}\x1b[m of them aren't in toadua", ohno.len());
+    let html = format!(
+        "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" \
+         /><style>b{{color:red;}}th{{text-align:left;}}</style><h1>free calques of lujvo \
+         :3</h1><table>{}</table>",
+        metoame
+            .iter()
+            .map(|(metoa, lujvo, def)| format!(
+                "<tr><th>{metoa}</th><td>{lujvo}</td><td>{}</td></tr>",
+                def.split(' ')
+                    .map(|word| word
+                        .split('/')
+                        .map(|word2| {
+                            if !word2.contains('$')
+                                && ohno.contains(&&nonletter.replace_all(word2, "").to_string())
+                            {
+                                format!("<b>{word2}</b>")
+                            } else {
+                                word2.to_string()
+                            }
+                        })
+                        .join("/"))
+                    .join(" ")
+            ))
+            .join("")
+    );
+    fs::write("index.html", html).unwrap();
+}
+
+// saddest structs in the world
+#[derive(Deserialize)]
+struct Toadua {
+    results: Vec<Toa>,
+}
+#[derive(Deserialize)]
+struct Toa {
+    body: String,
 }
