@@ -442,10 +442,15 @@ fn main() {
             tauste[i].0 = vec![];
         }
     }
-    let metoame /* i guess */ = tauste
+    let metoame = tauste
         .iter()
-        .filter(|(metoa,_,_)| !metoa.is_empty())
-        .map(|(metoa, lujvo, def)| (metoa.join(""),lujvo,def))
+        .filter(|(metoa, _, _)| {
+            !metoa.is_empty() && {
+                let toadua = fs::read_to_string("dictionary-counter/toadua.txt").unwrap();
+                !toadua.lines().any(|toa| toa == metoa.join(""))
+            }
+        })
+        .map(|(metoa, lujvo, def)| (metoa.join(""), lujvo, def))
         .collect_vec();
     let mut metoame_string = String::new();
     for (metoa, lujvo, def) in metoame.clone() {
