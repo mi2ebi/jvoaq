@@ -506,9 +506,10 @@ fn main() {
         .collect_vec();
     println!("\x1b[92m{}\x1b[m of them aren't in toadua", ohno.len());
     let html = format!(
-        "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" \
-         /><style>b{{color:red;}}th{{text-align:left;}}</style><h1>free calques of lujvo \
-         :3</h1><table>{}</table>",
+        "<!doctype html><head><meta \
+         name=\"viewport\"content=\"width=device-width,initial-scale=1\"/><style>b{{color:red;\
+         }}th{{text-align:left;}}</style></head><body><h1>free calques of lujvo \
+         :3</h1><table>{}</table></body>",
         metoame
             .iter()
             .map(|(metoa, lujvo, def)| format!(
