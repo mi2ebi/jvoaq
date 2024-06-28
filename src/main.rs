@@ -512,7 +512,7 @@ fn main() {
          }}th{{text-align:left;}}span{{color:gray;}}@media(prefers-color-scheme:\
          dark){{html{{background:black;color:white;}}b{{color:orange;}}}}</style></\
          head><body><h1>free calques of lujvo :3 <span>{} of \
-         them</span></h1><table>{}</table></body></html>",
+         them</span></h1><table>\r\n{}\r\n</table></body></html>",
         metoame.len(),
         metoame
             .iter()
@@ -533,7 +533,7 @@ fn main() {
                         .join("/"))
                     .join(" ")
             ))
-            .join("")
+            .join("\r\n")
     );
     fs::write("index.html", html).unwrap();
 }
