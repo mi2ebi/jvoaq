@@ -464,6 +464,7 @@ fn main() {
         "was able to toaqize \x1b[92m{}\x1b[m/{orig_len} lujvo",
         metoame.len()
     );
+    let nonletter = Regex::new(r"\W").unwrap();
     // rust moment
     let words = metoame
         .iter()
@@ -472,7 +473,7 @@ fn main() {
         .iter()
         .flat_map(|def| def.split([' ', '/']).collect_vec())
         .filter(|word| !word.contains('$'))
-        .map(|word| Regex::new(r"\W").unwrap().replace_all(word, "").to_string())
+        .map(|word| nonletter.replace_all(word, "").to_string())
         .sorted()
         .dedup()
         .collect_vec();
@@ -489,7 +490,6 @@ fn main() {
         .body(r#"{"action": "search", "query": ["scope", "en"]}"#)
         .send()
         .unwrap();
-    let nonletter = Regex::new(r"\W").unwrap();
     let toadua = serde_json::from_reader::<_, Toadua>(toadua)
         .unwrap()
         .results
@@ -505,11 +505,15 @@ fn main() {
         .filter(|word| !toadua.contains(word))
         .collect_vec();
     println!("\x1b[92m{}\x1b[m of them aren't in toadua", ohno.len());
+    // why does rustfmt do this so weirdly
     let html = format!(
-        "<!doctype html><head><meta \
+        "<!doctype html><html><head><meta \
          name=\"viewport\"content=\"width=device-width,initial-scale=1\"/><style>b{{color:red;\
-         }}th{{text-align:left;}}</style></head><body><h1>free calques of lujvo \
-         :3</h1><table>{}</table></body>",
+         }}th{{text-align:left;}}span{{color:gray;}}@media(prefers-color-scheme:\
+         dark){{html{{background:black;color:white;}}b{{color:orange;}}}}</style></\
+         head><body><h1>free calques of lujvo :3 <span>{} of \
+         them</span></h1><table>{}</table></body></html>",
+        metoame.len(),
         metoame
             .iter()
             .map(|(metoa, lujvo, def)| format!(
