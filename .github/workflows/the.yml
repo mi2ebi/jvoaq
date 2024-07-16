@@ -7,7 +7,7 @@ on:
     - cron: 0 0 2 * *
 
 jobs:
-  jvs-update:
+  the:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
