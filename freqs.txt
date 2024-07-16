@@ -14,9 +14,9 @@ ke   78
 binxo   75
 traji   75
 ve   74
+barda   73
 tutci   73
 zmadu   73
-barda   72
 cmalu   72
 klama   72
 claxu   66
@@ -52,10 +52,10 @@ ciste   45
 citka   45
 kakne   45
 namcu   45
+clani   44
 lojbo   44
 mleca   44
 tarmi   44
-clani   43
 cmene   43
 jmive   43
 no   43
@@ -67,12 +67,12 @@ lerfu   41
 mei   41
 muvdu   41
 porsi   41
+rinka   41
 djica   40
 gusni   40
-rinka   40
 bongu   39
+mutce   39
 tumla   39
-mutce   38
 bakni   37
 bo   37
 mabla   37
@@ -117,18 +117,20 @@ cupra   29
 jibni   29
 jitro   29
 mintu   29
+pensi   29
 sutra   29
 vreji   29
 xukmi   29
 bevri   28
+carna   28
 darno   28
+denci   28
 ganse   28
 kerfa   28
-pensi   28
+pelji   28
 balvi   27
 bukpu   27
 calku   27
-carna   27
 certu   27
 ci   27
 dikca   27
@@ -145,11 +147,9 @@ vorme   27
 zenba   27
 zgike   27
 cipni   26
-denci   26
 kumfa   26
 milxe   26
 moklu   26
-pelji   26
 sidbo   26
 vasru   26
 xamgu   26
@@ -171,12 +171,14 @@ cpedu   24
 detri   24
 dunli   24
 no'e   24
+xarci   24
 zifre   24
 birka   23
 ckafi   23
 cuxna   23
 djuno   23
 jatna   23
+jdini   23
 jetnu   23
 joi   23
 katna   23
@@ -184,9 +186,7 @@ mitre   23
 trixe   23
 vecnu   23
 vimcu   23
-xarci   23
 zekri   23
-jdini   22
 kalri   22
 kantu   22
 logji   22
@@ -218,12 +218,14 @@ nelci   21
 nenri   21
 sepli   21
 terpa   21
+tubnu   21
 xlali   21
 bitmu   20
 crino   20
 dandu   20
 farlu   20
 farna   20
+fetsi   20
 finti   20
 galtu   20
 gunma   20
@@ -240,7 +242,6 @@ ro   20
 selfu   20
 slilu   20
 tavla   20
-tubnu   20
 xe   20
 xrula   20
 xunre   20
@@ -249,9 +250,9 @@ bandu   19
 cadzu   19
 cando   19
 cmavo   19
+dakfu   19
 djine   19
 du   19
-fetsi   19
 flecu   19
 fukpi   19
 gubni   19
@@ -265,11 +266,11 @@ nicte   19
 rectu   19
 solri   19
 spoja   19
+xabju   19
 basti   18
 betfu   18
 cecla   18
 cortu   18
-dakfu   18
 fanmo   18
 festi   18
 flalu   18
@@ -288,7 +289,6 @@ sorcu   18
 stedu   18
 vajni   18
 vo   18
-xabju   18
 cange   17
 canlu   17
 carvi   17
@@ -318,6 +318,7 @@ sudga   17
 tsali   17
 vanci   17
 xamsi   17
+xislu   17
 zanru   17
 benji   16
 besna   16
@@ -348,7 +349,7 @@ sonci   16
 srana   16
 tanbo   16
 tsiju   16
-xislu   16
+xusra   16
 bancu   15
 cilmo   15
 ckana   15
@@ -379,10 +380,10 @@ tirna   15
 tuple   15
 vacri   15
 vikmi   15
+vofli   15
 xadba   15
 xirma   15
 xruti   15
-xusra   15
 zutse   15
 bajra   14
 ciblu   14
@@ -416,7 +417,6 @@ sovda   14
 srasu   14
 trene   14
 vinji   14
-vofli   14
 voksa   14
 xrani   14
 zirpu   14
@@ -451,6 +451,7 @@ pacna   13
 pesxu   13
 preti   13
 ralju   13
+rebla   13
 roi   13
 sluni   13
 srera   13
@@ -459,6 +460,7 @@ tarci   13
 tcana   13
 tcika   13
 tcini   13
+tordu   13
 verba   13
 zarci   13
 bredi   12
@@ -484,10 +486,10 @@ maksi   12
 mapku   12
 minde   12
 mlana   12
+pleji   12
 prali   12
 purmo   12
 ratni   12
-rebla   12
 respa   12
 sakci   12
 skori   12
@@ -495,7 +497,6 @@ sraji   12
 sumji   12
 sumti   12
 tadji   12
-tordu   12
 tugni   12
 vanju   12
 vlile   12
@@ -516,6 +517,7 @@ dacti   11
 darxi   11
 denmi   11
 dzena   11
+flira   11
 fonxa   11
 frica   11
 gapci   11
@@ -532,7 +534,6 @@ mosra   11
 mrilu   11
 nirna   11
 panci   11
-pleji   11
 polje   11
 rango   11
 skicu   11
@@ -555,7 +556,6 @@ citri   10
 ckini   10
 cripu   10
 farvi   10
-flira   10
 gapru   10
 greku   10
 jalge   10
@@ -593,6 +593,7 @@ canre   9
 catke   9
 censa   9
 cerni   9
+cfila   9
 cigla   9
 cilre   9
 cizra   9
@@ -610,8 +611,10 @@ ganra   9
 jdima   9
 jesni   9
 judri   9
+jukni   9
 jungo   9
 junla   9
+kakpa   9
 kamni   9
 kancu   9
 karni   9
@@ -653,7 +656,6 @@ xarju   9
 ze   9
 briju   8
 cakla   8
-cfila   8
 cifnu   8
 cirko   8
 citsi   8
@@ -675,11 +677,10 @@ janco   8
 jbama   8
 jduli   8
 jirna   8
-jukni   8
-kakpa   8
 ke'e   8
 kicne   8
 kinli   8
+konju   8
 korcu   8
 minli   8
 misno   8
@@ -791,6 +792,7 @@ xebro   7
 xindo   7
 xlura   7
 baktu   6
+balre   6
 bargu   6
 bikla   6
 bilga   6
@@ -835,7 +837,6 @@ klaji   6
 klina   6
 kliru   6
 kluza   6
-konju   6
 lanli   6
 lanxe   6
 lebna   6
@@ -878,7 +879,6 @@ zbepi   6
 zunle   6
 badna   5
 bakri   5
-balre   5
 bebna   5
 bersa   5
 blaci   5
@@ -903,6 +903,7 @@ jalra   5
 janbe   5
 janli   5
 jaspu   5
+jbera   5
 jenca   5
 jendu   5
 jenmi   5
@@ -1063,6 +1064,7 @@ tirxu   4
 tsapi   4
 tsina   4
 tunba   4
+vindu   4
 virnu   4
 vitno   4
 xaksu   4
@@ -1081,6 +1083,7 @@ burna   3
 canti   3
 cfipu   3
 cimde   3
+cinta   3
 cinza   3
 civla   3
 ckasu   3
@@ -1183,7 +1186,6 @@ torni   3
 tunta   3
 vanbi   3
 vensa   3
-vindu   3
 vlagi   3
 xagji   3
 xasli   3
@@ -1203,7 +1205,6 @@ budjo   2
 bunda   2
 cfine   2
 cidro   2
-cinta   2
 cisma   2
 cmevo   2
 co   2
@@ -1222,7 +1223,6 @@ gugle   2
 jabre   2
 jakne   2
 jalna   2
-jbera   2
 jei   2
 jerna   2
 jersi   2

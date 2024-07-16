@@ -509,30 +509,39 @@ fn main() {
     let html = format!(
         "<!doctype html><html><head><meta \
          name=\"viewport\"content=\"width=device-width,initial-scale=1\"/><style>b{{color:red;\
-         }}th{{text-align:left;}}span{{color:gray;}}@media(prefers-color-scheme:\
-         dark){{html{{background:black;color:white;}}b{{color:orange;}}}}</style></\
-         head><body><h1>free calques of lujvo :3 <span>{} of \
-         them</span></h1><table>\r\n{}\r\n</table></body></html>",
+         }}th,td{{text-align:left;vertical-align:top;padding-top: \
+         0.3lh;}}.gray{{color:gray;}}@media(prefers-color-scheme:dark){{html{{background:black;\
+         color:white;}}b{{color:orange;}}}}</style></head>\r\n<body><h1>free calques of {} lujvo \
+         :3</h1><table>\r\n{}\r\n</table></body></html>",
         metoame.len(),
         metoame
             .iter()
-            .map(|(metoa, lujvo, def)| format!(
-                "<tr><th>{metoa}</th><td>{lujvo}</td><td>{}</td></tr>",
-                def.split(' ')
-                    .map(|word| word
-                        .split('/')
-                        .map(|word2| {
-                            if !word2.contains('$')
-                                && ohno.contains(&&nonletter.replace_all(word2, "").to_string())
-                            {
-                                format!("<b>{word2}</b>")
-                            } else {
-                                word2.to_string()
-                            }
-                        })
-                        .join("/"))
-                    .join(" ")
-            ))
+            .map(|(metoa, lujvo, def)| {
+                let bolded = def
+                    .split(' ')
+                    .map(|word| {
+                        word.split('/')
+                            .map(|word2| {
+                                if !word2.contains('$')
+                                    && ohno.contains(&&nonletter.replace_all(word2, "").to_string())
+                                {
+                                    format!("<b>{word2}</b>")
+                                } else {
+                                    word2.to_string()
+                                }
+                            })
+                            .join("/")
+                    })
+                    .join(" ");
+                format!(
+                    "<tr{}><th>{metoa}</th><td>{lujvo}</td><td>{bolded}</td></tr>",
+                    if bolded.contains("<b>") {
+                        ""
+                    } else {
+                        r#" class="gray""#
+                    }
+                )
+            })
             .join("\r\n")
     );
     fs::write("index.html", html).unwrap();
