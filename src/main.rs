@@ -6,7 +6,7 @@ use serde::Deserialize;
 use serde_json::Value;
 use std::{collections::HashMap, fs, time::Duration};
 
-fn main() {
+fn main() -> Result<(), ()> {
     let jvs = fs::read_to_string("dictionary-counter/jvs.txt").unwrap();
     let jvs = jvs.lines().collect_vec();
     let mut tauste = vec![];
@@ -490,6 +490,13 @@ fn main() {
         .body(r#"{"action": "search", "query": ["scope", "en"]}"#)
         .send()
         .unwrap();
+    if !toadua.status().is_success() {
+        println!(
+            "\x1b[91mtoadua is down :< status code {}\x1b[m",
+            toadua.status()
+        );
+        return Err(());
+    }
     let toadua = serde_json::from_reader::<_, Toadua>(toadua)
         .unwrap()
         .results
@@ -545,6 +552,7 @@ fn main() {
             .join("\r\n")
     );
     fs::write("index.html", html).unwrap();
+    Ok(())
 }
 
 // saddest structs in the world
