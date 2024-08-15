@@ -448,10 +448,11 @@ fn main() -> Result<(), ()> {
     let metoame = tauste
         .iter()
         .filter(|(metoa, _, _)| {
-            !metoa.is_empty() && {
-                let toadua = fs::read_to_string("dictionary-counter/toadua.txt").unwrap();
-                !toadua.lines().any(|toa| toa == metoa.join(""))
-            }
+            !metoa.is_empty()
+                && !fs::read_to_string("dictionary-counter/toadua.txt")
+                    .unwrap()
+                    .lines()
+                    .any(|toa| toa == metoa.join(""))
         })
         .map(|(metoa, lujvo, def)| (metoa.join(""), lujvo, def))
         .collect_vec();
