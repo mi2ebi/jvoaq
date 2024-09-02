@@ -487,7 +487,7 @@ fn main() -> Result<(), ()> {
         .build()
         .unwrap();
     let toadua = client
-        .post("https://toadua.uakci.pl/api")
+        .post("https://toadua.uakci.space/api")
         .body(r#"{"action": "search", "query": ["scope", "en"]}"#)
         .send()
         .unwrap();
