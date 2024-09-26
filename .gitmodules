@@ -4,3 +4,6 @@
 [submodule "lidysisku"]
 	path = lidysisku
 	url = https://github.com/lynn/lidysisku
+[submodule "temml"]
+	path = temml
+	url = https://github.com/ronkok/Temml

@@ -519,8 +519,12 @@ fn main() -> Result<(), ()> {
          name=\"viewport\"content=\"width=device-width,initial-scale=1\"/><style>b{{color:red;\
          }}th,td{{text-align:left;vertical-align:top;padding-top: \
          0.3lh;}}.gray{{color:gray;}}@media(prefers-color-scheme:dark){{html{{background:black;\
-         color:white;}}b{{color:orange;}}}}</style></head>\r\n<body><h1>free calques of {} lujvo \
-         :3</h1><table>\r\n{}\r\n</table></body></html>",
+         color:white;}}b{{color:orange;}}}}</style><script \
+         src=\"temml/dist/temml.min.js\"></script><script \
+         src=\"temml/contrib/auto-render/dist/auto-render.min.js\"></script></head>\r\\
+         n<body><h1>free calques of {} lujvo \
+         :3</h1><table>\r\n{}\r\n</table><script>renderMathInElement(document.body);</script></\
+         body></html>",
         metoame.len(),
         metoame
             .iter()
