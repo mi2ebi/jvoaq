@@ -4,21 +4,24 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    - cron: 0 0 2 * *
+    - cron: 0 0 2/14 * *
 
 jobs:
-  the:
+  jvs-update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           submodules: "true"
-
-      - uses: actions/checkout@v4
       - uses: dtolnay/rust-toolchain@stable
       - name: the
         run: cargo run --release
-
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: peter-evans/create-pull-request@v5
         with:
-          commit_message: update
+          commit-message: update
+          committer: GitHub <noreply@github.com>
+          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+          signoff: false
+          branch: update
+          delete-branch: true
+          title: 'update'
