@@ -7,7 +7,7 @@ use serde_json::Value;
 use std::{collections::HashMap, fs, time::Duration};
 
 fn main() -> Result<(), ()> {
-    let jvs = fs::read_to_string("dictionary-counter/jvs.txt").unwrap();
+    let jvs = fs::read_to_string("../dictionary-counter/jvs.txt").unwrap();
     let jvs = jvs.lines().collect_vec();
     let mut tauste = vec![];
     let lidysisku = fs::read_to_string("lidysisku/jvs-en.json").unwrap();
@@ -514,48 +514,48 @@ fn main() -> Result<(), ()> {
         .collect_vec();
     println!("\x1b[92m{}\x1b[m of them aren't in toadua", ohno.len());
     // why does rustfmt do this so weirdly
-    let html = format!(
-        "<!doctype html><html><head><meta \
-         name=\"viewport\"content=\"width=device-width,initial-scale=1\"/><style>b{{color:red;\
-         }}th,td{{text-align:left;vertical-align:top;padding-top: \
-         0.3lh;}}.gray{{color:gray;}}@media(prefers-color-scheme:dark){{html{{background:black;\
-         color:white;}}b{{color:orange;}}}}</style><script \
-         src=\"temml/dist/temml.min.js\"></script><script \
-         src=\"temml/contrib/auto-render/dist/auto-render.min.js\"></script></head>\r\\
-         n<body><h1>free calques of {} lujvo \
-         :3</h1><table>\r\n{}\r\n</table><script>renderMathInElement(document.body);</script></\
-         body></html>",
-        metoame.len(),
-        metoame
-            .iter()
-            .map(|(metoa, lujvo, def)| {
-                let bolded = def
-                    .split(' ')
-                    .map(|word| {
-                        word.split('/')
-                            .map(|word2| {
-                                if !word2.contains('$')
-                                    && ohno.contains(&&nonletter.replace_all(word2, "").to_string())
-                                {
-                                    format!("<b>{word2}</b>")
-                                } else {
-                                    word2.to_string()
-                                }
-                            })
-                            .join("/")
-                    })
-                    .join(" ");
-                format!(
-                    "<tr{}><th>{metoa}</th><td>{lujvo}</td><td>{bolded}</td></tr>",
-                    if bolded.contains("<b>") {
-                        ""
-                    } else {
-                        r#" class="gray""#
-                    }
-                )
-            })
-            .join("\r\n")
-    );
+    let html = "<!doctype html><html><head><meta \
+                name=\"viewport\"content=\"width=device-width,initial-scale=1\"/><style>b{color:\
+                red;}th,td{text-align:left;vertical-align:top;padding-top: \
+                0.3lh;}.gray{color:gray;}@media(prefers-color-scheme:dark){html{background:black;\
+                color:white;}b{color:orange;}}</style></head>\r\n"
+        .to_string()
+        + &format!(
+            "<body><h1>free calques of {} lujvo :3</h1><table>\r\n{}\r\n</table>",
+            metoame.len(),
+            metoame
+                .iter()
+                .map(|(metoa, lujvo, def)| {
+                    let bolded = def
+                        .split(' ')
+                        .map(|word| {
+                            word.split('/')
+                                .map(|word2| {
+                                    if !word2.contains('$')
+                                        && ohno.contains(
+                                            &&nonletter.replace_all(word2, "").to_string(),
+                                        )
+                                    {
+                                        format!("<b>{word2}</b>")
+                                    } else {
+                                        word2.to_string()
+                                    }
+                                })
+                                .join("/")
+                        })
+                        .join(" ");
+                    format!(
+                        "<tr{}><th>{metoa}</th><td>{lujvo}</td><td>{bolded}</td></tr>",
+                        if bolded.contains("<b>") {
+                            ""
+                        } else {
+                            r#" class="gray""#
+                        }
+                    )
+                })
+                .join("\r\n")
+        )
+        + "</body></html>";
     fs::write("index.html", html).unwrap();
     Ok(())
 }
