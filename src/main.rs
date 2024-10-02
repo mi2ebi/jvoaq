@@ -7,7 +7,7 @@ use serde_json::Value;
 use std::{collections::HashMap, fs, time::Duration};
 
 fn main() -> Result<(), ()> {
-    let jvs = fs::read_to_string("../dictionary-counter/jvs.txt").unwrap();
+    let jvs = fs::read_to_string("dictionary-counter/jvs.txt").unwrap();
     let jvs = jvs.lines().collect_vec();
     let mut tauste = vec![];
     let lidysisku = fs::read_to_string("lidysisku/jvs-en.json").unwrap();
