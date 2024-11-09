@@ -241,6 +241,7 @@ pruce   20
 ro   20
 selfu   20
 slilu   20
+spoja   20
 tavla   20
 xe   20
 xrula   20
@@ -265,7 +266,6 @@ nanba   19
 nicte   19
 rectu   19
 solri   19
-spoja   19
 xabju   19
 basti   18
 betfu   18
@@ -726,6 +726,7 @@ cimni   7
 clite   7
 co'u   7
 danmo   7
+daspo   7
 dicra   7
 dirce   7
 drudi   7
@@ -811,7 +812,6 @@ cunso   6
 cutne   6
 dapma   6
 daski   6
-daspo   6
 desku   6
 dilcu   6
 dimna   6
