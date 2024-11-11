@@ -1,0 +1,26 @@
+name: the
+permissions:
+  contents: write
+  pull-requests: write
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 1 */14 * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - name: the
+        run: cargo run --release
+      - uses: peter-evans/create-pull-request@v5
+        with:
+          commit-message: update
+          committer: GitHub <noreply@github.com>
+          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+          signoff: false
+          branch: update
+          delete-branch: true
+          title: 'update'
