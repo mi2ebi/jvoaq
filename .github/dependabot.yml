@@ -4,3 +4,4 @@ updates:
     schedule:
       interval: daily
     directory: /
+    assignees: mi2ebi
