@@ -434,7 +434,9 @@ fn main() -> Result<(), ()> {
             tauste[i].0 = tanru
                 .iter()
                 .map(|valsi| {
-                    toaqizer.get(&valsi.as_str()).map_or_else(String::new, ToString::to_string)
+                    toaqizer
+                        .get(&valsi.as_str())
+                        .map_or_else(String::new, ToString::to_string)
                 })
                 .collect();
         } else {
