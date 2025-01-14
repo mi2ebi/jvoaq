@@ -30,10 +30,10 @@ fn main() -> Result<(), ()> {
     let mut freqs = HashMap::new();
     for (tanru, _, _) in tauste.clone() {
         for valsi in tanru {
-            if !freqs.contains_key(&valsi) {
-                freqs.insert(valsi, 1);
-            } else {
+            if freqs.contains_key(&valsi) {
                 freqs.insert(valsi.clone(), freqs.get(&valsi).unwrap() + 1);
+            } else {
+                freqs.insert(valsi, 1);
             }
         }
     }
@@ -434,11 +434,7 @@ fn main() -> Result<(), ()> {
             tauste[i].0 = tanru
                 .iter()
                 .map(|valsi| {
-                    if let Some(toa) = toaqizer.get(&valsi.as_str()) {
-                        toa.to_string()
-                    } else {
-                        String::new()
-                    }
+                    toaqizer.get(&valsi.as_str()).map_or_else(String::new, ToString::to_string)
                 })
                 .collect();
         } else {
