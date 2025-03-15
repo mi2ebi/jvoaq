@@ -14,10 +14,24 @@ use std::{collections::HashMap, fs, str::FromStr, sync::LazyLock, time::Duration
 #[allow(clippy::too_many_lines)]
 fn main() -> Result<(), ()> {
     let settings = Settings::from_str("A1rgz").unwrap();
-    let jvs = fs::read_to_string("dictionary-counter/jvs.txt").unwrap();
+    let client = Client::builder()
+        .timeout(Duration::from_secs(60))
+        .build()
+        .unwrap();
+    let jvs = client
+        .get("https://github.com/mi2ebi/dictionary-counter/raw/refs/heads/master/jvs.txt")
+        .send()
+        .unwrap()
+        .text()
+        .unwrap();
     let jvs = jvs.lines().collect_vec();
     let mut tauste = vec![];
-    let lidysisku = fs::read_to_string("lidysisku/jvs-en.json").unwrap();
+    let lidysisku = client
+        .get("https://github.com/lynn/lidysisku/raw/refs/heads/gh-pages/jvs-en.json")
+        .send()
+        .unwrap()
+        .text()
+        .unwrap();
     let defs = serde_json::from_str::<Vec<Value>>(&lidysisku).unwrap();
     for word in jvs {
         if !is_consonant(word.chars().last().unwrap()) {
@@ -72,14 +86,16 @@ fn main() -> Result<(), ()> {
             tauste[i].0 = vec![];
         }
     }
+    let toadua = client
+        .get("https://github.com/mi2ebi/dictionary-counter/raw/refs/heads/master/toadua.txt")
+        .send()
+        .unwrap()
+        .text()
+        .unwrap();
     let metoame = tauste
         .iter()
         .filter(|(metoa, _, _)| {
-            !metoa.is_empty()
-                && !fs::read_to_string("dictionary-counter/toadua.txt")
-                    .unwrap()
-                    .lines()
-                    .any(|toa| toa == metoa.join(""))
+            !metoa.is_empty() && !toadua.lines().any(|toa| toa == metoa.join(""))
         })
         .map(|(metoa, lujvo, def)| (metoa.join(""), lujvo, def))
         .collect_vec();
@@ -109,10 +125,6 @@ fn main() -> Result<(), ()> {
         "found \x1b[92m{}\x1b[m unique words in the lojban definitions",
         words.len()
     );
-    let client = Client::builder()
-        .timeout(Duration::from_secs(60))
-        .build()
-        .unwrap();
     let toadua = client
         .post("https://toadua.uakci.space/api")
         .body(r#"{"action": "search", "query": ["scope", "en"]}"#)

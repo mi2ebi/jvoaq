@@ -30,7 +30,6 @@ suoıkuamarao	balkumdansu	$d_1$ (individual, mass) ballroom dances to accompanim
 suoıruaıcue	balnoltru	$t_1=n_1=b_1$ is the emperor/empress/kaiser/tsar of peoples/territories $t_2$.
 suoısoıche	balsoi	$s_1=b_1$ is a great soldier of army $s_2$ great in property $b_2$ (ka) by standard $b_3$.
 suoıdıem	balzai	$x_1$ is a supermarket selling $x_2$ operated by $x_3$
-zuzu	banbau	$b_1$ is a metalanguage used by $b_2$ to talk about object language $b_3$.
 zushodıu	banbixske	$s_1$ is historical/diachronic linguistics of/about subject matter $s_2$ based on methodology $s_3$.
 zufıeqme	banfingri	$g_1$ is a language-creation/conlanging society/group/club.
 zubeodıu	bangafske	$s_1$ is historical/diachronic linguistics of/about subject matter $x_2$ based on methodology $x_3$.
@@ -518,6 +517,7 @@ daoreaq	datnyvei	$x_1=v_1$ is a file consisting of information $x_2=d_1=v_2$ abo
 daoreaqlıaq	datnyveimei	$x_1$ is a folder of files $x_2$.
 heoshısejeseaqpoq	datpavycinglepre	$pr_1$ is (a) heterosexual.
 heohuıjaı	datxlagei	$x_1$ is happy about $x_2$, which is bad for $x_3$ by standard $x_4$, the sufferer differing from the enjoyer by standard $x_5$.
+heogua	datygu'e	$x_1$ (country) is a foreign country from the perspective of $x_2$.
 heoruoseje	datytracinse	$c_1=t_1=d_1$ is transgender in activity/state $c_2$, exhibiting/expressing/performing gender $c_3=t_2$ (ka) by standard $c_4$.
 deatoe	daxyka'a	$x_1$ chops $x_2$ into pieces $x_3$.
 cheınıaı	degda'u	$x_1$ is a tetrapod animal
@@ -603,6 +603,7 @@ jeqruoseje	duntracinse	$c_1=t_1=d_1$ is cisgender in activity/state $c_2$ and ex
 duılıe	dusfri	$x_1$ is satiated/overwhelmed by $x_2$ with property $x_3$ by standard $x_4$; $x_2$ is too much for $x_1$ in property $x_3$ by standard $x_4$.
 gıqseje	dutcinse	$c_1$ is heterosexual/bisexual in situation $c_2$ by standard $c_4$.
 gıqıq	dutkai	$x_1$ is characterized by the polar opposite of $x_2$ (ka) on scale $x_3$ (si'o)
+gıqsaı	dutmai	$x_1$ is a quantity of antimatter including $x_2$ in shape/form $x_3$
 gıqmaıseje	dutpamcinse	$c_1$ in activity/state $c_2$ exhibits a heteroromantic orientation by standard $c_4$.
 gıqreu	dutpi'i	$x_{1}$ is a product-opposite with multiplicand $x_{2}$ with multiplier $x_{3}$ with scale of opposites $x_{4}$.
 gıqceoq	dutydikca	$d_1$ is negative electric charge in $d_2$.
@@ -1009,7 +1010,7 @@ bıqroaıromtoaı	ki'orbivysamsle	$se1$ is (close to) a thousand of eight indivi
 bıqnıaq	ki'orna'a	$n1$ is $n2$ millennia (1000 years) in duration (default is 1 millennium) by standard $n3$.
 bıqmeta	ki'otre	$x_1$ is $x_2$ kilometres long in direction $x_3$ by standard $x_4$.
 zıqdo	kibdu'a	$d_1$ uploads $d_2$ to $d_3=k_1$.
-zıqcoe	kibjo'e	$x_1$ is online/connected to the internet with device $x_2$ via medium $x_3$
+zıqcoe	kibjo'e	$j_1$ is online, connected to $j_2$ via the internet
 zıqhuıdıeq	kibmalmri	$x_1$ sends spam (e-)mail $x_2$ to recipient [address] $x_3$ from mailbox address $x_4$ by network/system $x_5$
 zıqchuao	kibyca'o	$c_1$ is a web browser for retrieving/presenting/traversing information $k_1$.
 zıqnua	kibycpa	$c_1$ downloads $c_2$ from $c_3=k_1$.
@@ -1406,7 +1407,6 @@ bude	nalmle	$m_{1}$ is ugly to $m_{2}$ in aspect $m_{3}$ (ka) by aesthetic stand
 bumoaq	nalmo'i	$m_1$ forgets fact/memory $m_2$ about subject $m_3$.
 bumuo	nalmu'o	$x_1$ is incomplete/unfinished in property $x_2$ by standard $x_3$ .
 buzıu	nalna'u	$n_1$ is not a number
-buraq	nalra'a	$x_1$ is irrelevant/unrelated to $x_2$; $x_1$ is arbitrary in relation to $x_2$ [object of comparison; context or referent].
 bunueqchuq	nalre'ucti	$c_1$ does not eat meat $c_2=r_1$; $c_1$ is a (lacto-ovo-)vegetarian.
 bugureuzıu	nalrelpi'irna'u	$n_1$ (li) is an integer number that is not a multiple of two by an integer; $n_1$ is an odd number.
 buguruoseje	nalreltracinse	$c_1=t_1$ in activity/state $c_2$ exhibits/performs/expresses non-binary gender $c_3=t_2$ (ka) by standard $c_4$.
@@ -1623,7 +1623,7 @@ notuqbuo	pojbre	$b_1$ is ready for explosion/detonation; $b_1$ is armed.
 notuqbuotua	pojbregau	$g_1$ makes $b_1$ ready for explosion/detonation.
 notuqbuotao	pojbrezu'e	$g_1$ makes $b_1$ ready for explosion/detonation for goal $z_3$.
 notuqgıo	pojgu'i	$g_1=s_1$ is a flash of light at $g_2$ from source $g_3$
-notuqmeı	pojma'a	$x_{1}$ is an explode-mountain with mountainous $x_{2}$.
+notuqmeı	pojma'a	$x_1$ is a volcano projecting from land mass $x_2$.
 poaqlaq	popsna	$s_1$ is the sound of $p_1$ breaking/shattering/cracking/splintering into pieces $p_2$. 
 poaqtua	popygau	$g_1$ causes $p_1$ to break/fracture/shatter/[split/splinter/crack] into pieces $p_2$.   
 chuebeotua	porcnegau	$x_1$ reorders / changes the order of $x_2$
@@ -1898,7 +1898,6 @@ nıaosoı	si'erda'a	$x_1$ engages in a snowball fight with $x_2$ over issue $x_3
 nıaojıo	si'erdi'u	$d_1$ is an igloo for purpose $d_2$.
 nıaoroınaoruq	si'erjoijaucarvi	$c_1=s_1=d_1$ sleets [rain with snow] to $c_2$ from $c_3$.
 nıaofuaq	si'exra	$p_1=s_1$ is a snow sculpture/statue/[work of art made from snow] representing/depicting/showing $p_2$ made by artist $p_3$.
-sıomoı	sibypei	$x_1$ (agent) thinks idea $x_2$ (si'o abstract) about subject $x_3$
 dıemıu	sidysmu	$x_1$ is a figurative/metaphorical/non-literal meaning/interpretation of $x_2$ recognized/seen/accepted by $x_3$ .
 cheodıba	simbasti	$x_1$ trades places with $x_2$ in circumstance $x_3$.
 cheodıbatua	simbasygau	$x_1$ interchanges $x_2$ and $x_3$ in circumstance $x_4$.
