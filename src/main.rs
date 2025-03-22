@@ -1,9 +1,8 @@
 use itertools::Itertools;
 use latkerlo_jvotci::{
-    analyze_brivla,
+    Settings, analyze_brivla,
     katna::selrafsi_list_from_rafsi_list,
-    tarmi::{is_consonant, BrivlaType},
-    Settings,
+    tarmi::{BrivlaType, is_consonant},
 };
 use regex::Regex;
 use reqwest::blocking::Client;
@@ -12,6 +11,7 @@ use serde_json::Value;
 use std::{collections::HashMap, fs, str::FromStr, sync::LazyLock, time::Duration};
 
 #[allow(clippy::too_many_lines)]
+#[allow(clippy::format_push_string)]
 fn main() -> Result<(), ()> {
     let settings = Settings::from_str("A1rgz").unwrap();
     let client = Client::builder()
@@ -115,8 +115,7 @@ fn main() -> Result<(), ()> {
         .map(|(_, _, def)| def.to_lowercase())
         .collect_vec()
         .iter()
-        .flat_map(|def| def.split([' ', '/']).collect_vec())
-        .filter(|word| !word.contains('$'))
+        .flat_map(|def| def.split([' ', '/', '-']).collect_vec())
         .map(|word| nonletter.replace_all(word, "").to_string())
         .sorted()
         .dedup()
@@ -144,12 +143,16 @@ fn main() -> Result<(), ()> {
         .map(|toa| toa.body.clone().to_lowercase())
         .collect_vec()
         .iter()
-        .flat_map(|toa| toa.split([' ', '/']).collect_vec())
+        .flat_map(|toa| toa.split([' ', '/', '-']).collect_vec())
         .map(|word| nonletter.replace_all(word, "").to_string())
         .collect_vec();
+    let x_n = Regex::new(r"^[a-z]+_?\{?\d+\}?$").unwrap();
+    let cmavrnu_liho = Regex::new(r"^(nu|ka|(se)?duu|sio|lue|lii?|zo|jou)$").unwrap();
     let ohno = words
         .iter()
-        .filter(|word| !toadua.contains(word))
+        .filter(|word| {
+            !toadua.contains(word) && !x_n.is_match(word) && !cmavrnu_liho.is_match(word)
+        })
         .collect_vec();
     println!("\x1b[92m{}\x1b[m of them aren't in toadua", ohno.len());
     // why does rustfmt do this so weirdly
