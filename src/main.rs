@@ -1,4 +1,4 @@
-use itertools::Itertools;
+use itertools::Itertools as _;
 use latkerlo_jvotci::{
     Settings, analyze_brivla,
     katna::selrafsi_list_from_rafsi_list,
@@ -8,7 +8,7 @@ use regex::Regex;
 use reqwest::blocking::Client;
 use serde::Deserialize;
 use serde_json::Value;
-use std::{collections::HashMap, fs, str::FromStr, sync::LazyLock, time::Duration};
+use std::{collections::HashMap, fs, str::FromStr as _, sync::LazyLock, time::Duration};
 
 #[allow(clippy::too_many_lines)]
 #[allow(clippy::format_push_string)]
@@ -147,7 +147,7 @@ fn main() -> Result<(), ()> {
         .map(|word| nonletter.replace_all(word, "").to_string())
         .collect_vec();
     let x_n = Regex::new(r"^[a-z]+_?\{?\d+\}?$").unwrap();
-    let cmavrnu_liho = Regex::new(r"^(nu|ka|(se)?duu|sio|lue|lii?|zo|jou)$").unwrap();
+    let cmavrnu_liho = Regex::new("^(nu|ka|(se)?duu|sio|lue|lii?|zo|jou)$").unwrap();
     let ohno = words
         .iter()
         .filter(|word| {
