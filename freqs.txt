@@ -117,7 +117,7 @@ crida   15
 crino   21
 cripu   10
 ctuca   18
-cukla   27
+cukla   26
 cukta   31
 cumki   17
 cuntu   22
@@ -365,7 +365,7 @@ na   49
 na'e   104
 nakni   23
 nalci   10
-namcu   49
+namcu   48
 nanba   19
 nanca   21
 nandu   10
