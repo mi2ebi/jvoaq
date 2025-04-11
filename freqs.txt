@@ -33,7 +33,7 @@ blanu   15
 bliku   17
 bloti   64
 bo   41
-bolci   46
+bolci   47
 bongu   39
 botpi   13
 boxfo   11
@@ -141,7 +141,7 @@ dasri   16
 datni   16
 degji   34
 dekto   17
-denci   29
+denci   30
 denmi   11
 denpa   15
 dertu   14
