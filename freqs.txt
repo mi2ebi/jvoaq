@@ -101,7 +101,7 @@ cliva   15
 cmalu   73
 cmana   18
 cmavo   20
-cmene   43
+cmene   46
 cmila   12
 cmima   32
 cmoni   12
@@ -125,7 +125,7 @@ cupra   30
 curmi   17
 cusku   101
 cutci   13
-cuxna   25
+cuxna   26
 da   15
 dacti   11
 dakfu   19
@@ -167,7 +167,7 @@ fagri   27
 fanmo   19
 fapro   16
 farlu   20
-farna   20
+farna   21
 farvi   10
 fasnu   51
 fatne   13
@@ -177,7 +177,7 @@ festi   19
 fetsi   21
 finpe   31
 finti   20
-flalu   22
+flalu   25
 flecu   19
 fliba   19
 flira   12
@@ -188,8 +188,8 @@ frica   12
 friko   15
 frili   15
 fukpi   20
-fuzme   19
-gacri   31
+fuzme   20
+gacri   32
 galfi   13
 galtu   21
 ganse   28
@@ -229,7 +229,7 @@ jbena   19
 jbini   13
 jdari   12
 jdice   11
-jdika   13
+jdika   14
 jdini   23
 je   35
 jecta   12
@@ -253,7 +253,7 @@ jitfa   13
 jitro   31
 jivna   25
 jmive   48
-joi   23
+joi   24
 jorne   31
 judri   10
 jufra   10
@@ -278,7 +278,7 @@ kelci   55
 kensa   14
 kerfa   31
 kerlo   12
-kevna   33
+kevna   34
 kibro   17
 kilto   20
 klama   75
@@ -286,7 +286,7 @@ klani   27
 klesi   33
 korbi   12
 krasi   17
-krati   12
+krati   15
 krefu   19
 krici   18
 krinu   11
@@ -339,8 +339,8 @@ mikce   22
 milti   10
 milxe   27
 minde   16
-minji   41
-minra   10
+minji   42
+minra   11
 mintu   29
 mipri   13
 mitre   23
@@ -349,7 +349,7 @@ mlana   12
 mlatu   15
 mleca   47
 moi   41
-moklu   28
+moklu   29
 morji   32
 morna   16
 morsi   37
@@ -369,7 +369,7 @@ namcu   48
 nanba   19
 nanca   21
 nandu   10
-nazbi   14
+nazbi   15
 nelci   22
 nenri   22
 ni   40
@@ -391,7 +391,7 @@ pagre   17
 pajni   26
 palci   10
 panci   11
-panra   10
+panra   11
 panzi   12
 pe'a   25
 pelji   29
@@ -409,7 +409,7 @@ pixra   37
 platu   21
 pleji   12
 plini   22
-plipe   16
+plipe   17
 pluka   19
 pluta   17
 polje   11
@@ -418,7 +418,7 @@ porpi   10
 porsi   41
 prali   12
 prami   52
-prenu   108
+prenu   110
 preti   15
 pruce   20
 punji   22
@@ -428,7 +428,7 @@ rafsi   17
 ralju   13
 rango   13
 ratni   13
-re   56
+re   57
 rebla   13
 rectu   19
 remna   22
@@ -445,7 +445,7 @@ rupnu   17
 rutni   10
 sakci   12
 salci   20
-sance   54
+sance   55
 sanga   15
 sanji   14
 sanmi   16
@@ -462,7 +462,7 @@ senva   10
 sepli   21
 sevzi   64
 sidbo   26
-sidju   19
+sidju   20
 simlu   17
 simsa   41
 simxu   55
@@ -536,7 +536,7 @@ to'e   198
 tonga   28
 tordu   13
 traji   78
-trene   15
+trene   16
 tricu   27
 trixe   24
 tsali   19
@@ -549,12 +549,12 @@ turni   62
 tutci   76
 utka   20
 vacri   18
-vajni   18
+vajni   21
 valsi   94
 vanci   17
 vanju   12
 vasru   28
-vasxu   30
+vasxu   31
 ve   78
 vecnu   26
 verba   14
@@ -600,7 +600,7 @@ zbasu   32
 zdani   46
 zdile   22
 zekri   23
-zenba   27
+zenba   28
 zgana   22
 zgike   29
 zi'o   83
@@ -608,7 +608,7 @@ zifre   27
 zirpu   14
 zmadu   75
 zu'o   12
-zukte   61
+zukte   62
 zunti   10
 zutse   15
 zvati   25
