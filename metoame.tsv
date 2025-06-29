@@ -90,6 +90,7 @@ bıetaq	bavyse'i	$x_1$ is the future self/identity of $x_2$; $x_1$ is $x_2$ in t
 bıedıu	bavyske	$s_1$ is futurology/future studies of/about ideas of the future $b_1=s_2$ based on methodology $s_3$.
 bıeseo	bavyspe	$s_1$ is the fiancé(e)/betrothed of $s_2$ under law/custom/tradition/system/convention $s_3$.
 bıeruaq	bavyxusra	$x_1$ asserts/prophesies that $x_2=b_1$ is true about the future of $b_2$.
+bıaqpu	bazypru	$x_1=p_1$ is tentative for purpose / satisfier $x_2=b_2$ under conditions $x_3=b_3$, before sufficiency $x_4=p_2$; $x_1$ is a work-in-progress or placeholder; $x_1$ is not yet processed.
 hıepoq	beipre	$p_1=b_1$ is a carrier/porter/waiter, carrying $b_2$ to $b_3$ from $b_4$ over path $b_5$.
 kerakuoq	benbo'u	$x_1$ is a braincase or neurocranium of $x_2$.
 kerakuoqdea	benbogda'i	$x_1$ headbutts $x_2$.
@@ -129,7 +130,6 @@ kıeıbuaı	bisycla	Exact meaning uncertain, probably something like $b_1$ is/ar
 kıeınuıpıanete	bisycmaplini	$b_1=c_1=p_1$ is a comet revolving around $p_2$ with planetary characteristics $p_3$, orbital parameters $p_4$, with ice composition $b_2$.
 kıeınoaı	bisyladru	$x_1=b_1=l_1$ is ice cream/frozen yoghurt made from milk of source $x_2=l_2$.
 roaıjunatoaı	bivjetka'u	$k_1$ is a byte/octet.
-roaıgıuteı	bivli'itai	$x1$ is an octagon
 roaıkojoaq	bivmoija'a	$j_1$ has the rank of Lieutenant General/Vice Admiral/Air Marshal (equivalent of NATO OF-8) in military unit /organization $j_2$.
 roaıpıanete	bivyplini	$p_1$ is the eighth closest planet (default is Neptune if p2 is the Sun) revolving around $p_2$ (default is the Sun), with planetary characteristics $p_3$, orbital parameters $p_4$.
 roaıromtoaı	bivysamka'u	$k1$ is an amount of eight computer elementary particles/smallest measurable increments of computer property/activity $k2$; k1 is a byte(s)
@@ -236,7 +236,7 @@ naınıaq	cabna'a	$n_1$ is the current year by standard $n_3$, simultaneous with
 naıbujıq	cabnalza'i	$x_1$ is extinct/no longer existent.
 naıtuko	cabrolmoi	$x_1$ is the last one timewise to satisfy property $x_2$ among $x_3$.
 naıseum	cabvanci	$x_1=v_1=c_1$ is this evening; $x_1=v_1=c_1$ is the evening occuring at the same time as $x_2=v_2$ at location $x_3=v_3$.
-naıshotua	cabybixygau	cabybixygau: $x_1=g_1$ updates / makes current $x_2=b_1$ to $x_3=c_2$; $x_1$ makes $x_2$ catch up with $x_3$ at / under conditions / when $x_4=b_3$.
+naıshotua	cabybixygau	$x_1=g_1$ updates / makes current $x_2=b_1$ to $x_3=c_2$; $x_1$ makes $x_2$ catch up with $x_3$ at / under conditions / when $x_4=b_3$.
 naıdıo	cabydo'i	$d_1 = c_1 = x_1$ is the today daytime period of $c_2 = x_2$ at location $n_3 = x_3$.
 naıfaq	cabyfau	$c_1=f_1$ is live (experienced as it happens) to experiencer $c_2$.
 naıtue	cabytcini	$x_1$ is the status quo/current state of $x_2$
@@ -337,7 +337,7 @@ puaınıudueq	cicyspafoi	$f_{1}$ is a brush/shrubland [field of wild plants] wit
 puaınıushata	cicyspavi'u	$v_1$ weeds out plants $s_1=c_1$ of species $s_2$ from $v_3$ with/leaving result/remnant/remainder $v_4$.
 beakoı	cidydzu	$ca_1=ci_3$ crawls on surface $ca_2$.
 beatuı	cidytse	$t_1$ kneels on surface $t_2$ on limb $c_2=x_3$ of body $c_3=x_4$.
-cuaı'asaı	cimde'u	$d_1=c_1$ is a quantityof/contains/is made of mud from source $d_2$ of composition $d_3$, moist due to liquid $c_2$.
+cuaı'asaı	cimde'u	$d_1=c_1$ is a quantity of/contains/is made of mud from source $d_2$ of composition $d_3$, moist due to liquid $c_2$.
 cuaıshoemfuq	cimjirta'u	$t_1$ is a wet suit for wearing by $t_2=j_1=c_1$ in liquid $j_2=c_2$.
 cuaıca	cimri'a	$r_1$ (event/state) moistens $c_1$ with liquid $c_2$ under conditions $r_3$.
 cuaıdueq	cimtu'a	$t_1=c_1$ is a swamp/marsh/wetland at location $t_2$ with liquid $c_2$
@@ -414,7 +414,7 @@ nuıkue	cmacku	$cu_1$ is a booklet/brochure about $cu_2$, written by $cu_3$ for 
 nuınuı'aıpı	cmacmacrida	$cr_1$ is a fairy [tiny mythical humanoid] of mythos/religion $cr_2$
 nuı'aıpı	cmacrida	$x_{1}$ is a small-fairy with fairy mythos $x_{2}$.
 nuıkaqsıchuo	cmactatci	$t_1$ is a microscope used by $t_2=ca_1$ for looking at small things $t_2=ca_2=cm_1$ which are small in property/dimension(s) $cm_2$ (ka) as compared with standard/norm $cm_3$.
-nuılua	cmafi'a	f1=c1 is a short story about plot/theme/subject $c_2$ by author $c_3$.
+nuılua	cmafi'a	$f_1=c_1$ is a short story about plot/theme/subject $c_2$ by author $c_3$.
 nuıhıu	cmafle	$x_{1}$ is a small-flow with has flow $x_{2}$ with flow destination  $x_{3}$ with flow source  $x_{4}$ with smallness standard $x_{5}$.
 nuıguacue	cmagu'etru	$x_{1}$ is a govern with governed-country-small $x_{2}$.
 nuısoımeaq	cmajamblo	$b_1=c_1$ is a destroyer of type/carrying $b_2$, propelled by $b_3$.
@@ -475,6 +475,7 @@ shuaolabı	cpicinfo	$x_1$ is a gryphon/griffin/griffon.
 shuaoteatua	cpitepygau	$x_1$ is a scarecrow for scaring off birds $x_2$
 shuaobua	cpizda	$z_1$ is a nest of bird $z_2=c_1$ of genus/species/etc. $c_2$.
 bagaguobe	cpubakni	$b_1=l_1$ is/are (an) ox/oxen [cattle/beef-producer/bovine] for pulling/drafting $l_2$ by handle $l_3$ of species/breed $b_2$.
+bagakea	cpuca'a	$c_1$ is a winch for hauling/pulling $c_2$
 bagabeaqmeaq	cpuga'ablo	$x_1$ is a rowing boat or sculler, carrying $x_2$, pulled by $x_3$.
 bagabeaqfa	cpuga'ali'u	$x_1$ rows or sculls on route $x_2$ with boat, rowing boat or scull $x_3$.
 bagakea	cpumi'i	$l_1=m_1$ is a tractor pulling $l_2$.
@@ -600,12 +601,13 @@ heogua	datygu'e	$x_1$ (country) is a foreign country from the perspective of $x_
 heoruoseje	datytracinse	$c_1=t_1=d_1$ is transgender in activity/state $c_2$, exhibiting/expressing/performing gender $c_3=t_2$ (ka) by standard $c_4$.
 deatoe	daxyka'a	$x_1$ chops $x_2$ into pieces $x_3$.
 cheınıaı	degda'u	$x_1$ is a tetrapod animal
-cheı'ıjo	degja'o	$j_1=d_3$ points at / points to / shows the direction of $j_2$ (object/jevent) to audience $j_3$ with finger $d_1$
+cheı'ıjo	degja'o	$j_1=d_3$ points at / points to / shows the direction of $j_2$ (object/event) to audience $j_3$ with finger $d_1$
 cheıguoteı	degmo'a	$x_1=m_1$ is the fingerprint of person $x_2=m_2$ arranged according to structure $x_3=m_3$
 cheıpıu	degycalku	$c_1$ is a fingernail/toenail of finger/toe $c_2=d_1$ on limb/body site $d_2$ of body $d_3$.
 cheıbaga	degycpu	$l_1=d_3$ plucks $l_2$ at locus $l_3$.
 cheıtıe	degygai	$g_1$ is a thimble.
 cheılaı	degysni	$d_3$ points at $s_2$ so that $s_3$ will notice it.
+cheıpoıba	degysrasu	$s_1$ is crabgrass/finger-grass (Digitaria) of species $s_2$
 heınıo	dekci'o	$x_1=c_1$ is a teenager by standard $x_2=c_2$
 heınıaq	dekna'a	$n1$ is $n2$ decades (10 years) in duration (default is 1 decade) by standard $n3$.
 heıpoqheıpua	dekpredekpu'a	$x_0$: To each their own; everyone has their own varying tastes. (nullary predicate)
@@ -618,6 +620,7 @@ heıbıqteu	dekyki'otenfa	$x_1=t_1$ is the exponential result of base 10000 (myr
 heıbıqmeta	dekyki'otre	$d_1=k_1=m_1$ is $d_2=k_2=m_2$ (default 1) myriametre(s)/Scandinavian miles/tens of thousands of metre(s) [non-standard unit] in length (default 1) measured in direction $m_3$ by standard $m_4$.
 juıtaqruq	demcarvi	$c_1=d_1$ pours to $c_2$ from $c_3$. $c_1=d_1$ is torrential rainfall.
 juıtaqfahıu	demklafle	$x_1=d_1=k_1=f_1$ is a traffic jam of pedestrians/vehicles $x_2=f_2=k_5$ going to $x_3=f_3=k_2$ from $x_4=f_4=k_3$  at location/locus/route $x_5=d_3=k_4$.
+juıtaqpaq	dempau	$x_1=p_1=d_3$ is a dense part of $x_2=p_2=d_1$ selecting for highlights / in property $x_3=d_2$; $x_1$ is a concentration / thesis statement / [summary] / [overview] / [abstract] / [important component].
 juıtaqca	demri'a	$r_1$ (event/state) compacts/compresses/concentrates/packs/condenses $x_2=d_1$ in property $x_3=d_2$ (ka) at location/locus $x_4=d_3$.
 juıtaqnıu	demspa	$d_1=s_1$ is a bush of species/strain/cultivar $s_2$.
 juıtaqtuı	demtse	$z_1$ crouches/cowers/squats on surface $z_2$.
@@ -644,7 +647,7 @@ asaıguqtua	derni'agau	$x_{1}$ is a do with beneath $x_{2}$ with has underneath-
 asaıdıu	derske	$s_1=d_1$ is soil science [science about earth/soil] based on methodology $s_3$.
 daqchıudoem	detci'e	$x_1$ is a calendar with rules $x_2$, days/weeks/months/years $x_3$, and properties $x_4$.
 daqchıukopıshoe	detfukcru	$x_1$ allows copying/has copyright of $x_2$ under conditions $x_3$ dated $x_4$.
-daqchıuguo	detke'u	The date [day,week,month,year] $x_1=d_1=k_1$ is recurrence/repetition of the date [day,week,month,year] of the first event $x_2=d_2$, for the $x_3=k_3$'rd time, in system $x_3$.
+daqchıuguo	detke'u	The date [day,week,month,year] $x_1=d_1=k_1$ is recurrence/repetition of the date [day,week,month,year] of the first event $x_2=d_2$, for the $x_3=k_3$'rd time, in system $x_4$.
 daqchıujue	detma'i	$x_1$ is a calendar month/a month-long duration from the first day of a month to the first day of the next month
 daqchıunıaq	detna'a	$n_1=d_1$ is a calendar year according to calendar/standard $n_3=d_4$
 daqchıuchaq	detydei	$x_1$ is a calendar day/24-hour period from 0 to 0 o'clock
@@ -710,7 +713,7 @@ jeqbuhuaq	dubnalmau	$x_1$ (number/amount) is lesser or equal to $x_2$ (number/am
 jeqbukuoı	dubnalme'a	$x_1$ (number/amount) is greater or equal to $x_2$ (number/amount) with difference $x_3$ (number/amount)
 jeqsoq	dubrai	$x_1$ is the greatest number among $x_2$ (plural of numbers)
 jeqgaı	dubyfa'i	$x_1$ discovers that $x_2$ is identical to $x_3$; $x_1$ discovers $x_2$'s identity
-jeqrahuaq	dunjavzma	$x_1$ is greater than ot equal to / at least $x_2$ in property/quantity/dimension $x_3$ (ka/ni) by amount/potential excess $x_4$.
+jeqrahuaq	dunjavzma	$x_1$ is greater than or equal to / at least $x_2$ in property/quantity/dimension $x_3$ (ka/ni) by amount/potential excess $x_4$.
 jeqrıoq	dunlei	$x_1$ is an equivalence class within $x_2$ defined by equivalence relation $x_3$.
 jeqcheo	dunsi'u	$x_1=s_1=d_1=d_2$ (set) are equivalent in quantity $x_2=d_3$ (ni).
 jeqlaqtoaıdoem	dunto'aci'e	$x_1$ is an equal temperament dividing the interval $x_3$ (default: octave, 2/1) into $x_2$ (default twelve) equal parts, forming $x_4$ (default: equal tempered semitone) as the fundamental unit.
@@ -773,6 +776,7 @@ faqjeaq	faurze'a	$x_1$ (event) increases in intensity/amount
 faqmeoq	fausno	$f_1=s_1$ (event) happens slowly
 faqjaq	fautce	$x_1$ (event) happens intensely/in a great degree
 beotıao	favmapti	$f_1=m_1$ is homologous to $f_1=m_2$ in property/aspect $m_3$
+beoguo	favyke'u	$x_1=k_1$ is a redevelopment / replay of $x_2=k_2=f_1$ developing / evolving into $x_3=f_2$ from $x_4=f_3$ through stages $x_5=f_4$ for the $x_6=k_3$'rd time.
 feıshoı	fe'ucmo	$c_1=f_1$ growls/snarls/roars c2 [non-linguistic utterance] in anger at $f_2$ for $f_3$ (action/state/property).
 feıtuao	fegmli	$m_1=f_1$ is irritated/[mildly angry] at $f_2$ for $f_3$ (action/state/property)
 feıtuaochoa	fegmliba'u	$m_1=f_1=b_1$ grumbles with sound $b_2$ at $f_2$ because of $f_3$ (action/state/property).
@@ -879,7 +883,6 @@ tıejue	gairmasti	$x_1=m_1$ is December of year $x_2=m_2$ in calendar $x_3=m_3$.
 tıeheq	gairvau	$v_1$ is a chest containing $v_2=g_2$ with lid $g_1$.
 geagıe	galbirka	$g_1=b_1$ is a forearm of $b_2$.
 geakaqsı	galcatlu	$c_1$ looks up at $c_2=g_1$.
-geachıejıo	galckule	$x_1$ is a high school at $x_2$ teaching subject(s) $x_3$ to audience/community $x_4$ operated by $x_5$
 geatua	galgau	$gas_1$ elevates/raises $gal_1$ by height reference $gal_2$ and height standard $gal_3$.
 geadıa	galjdika	$x1=g1=j1$ sinks/descends in frame of reference $x2=g2$ by amount $x3=j3$
 geajıeq	galji'o	$g_1=j_1$ is the peak/summit of $j_2$ at location $j_3$ in frame of reference $g_2$
@@ -893,11 +896,14 @@ gaıkıaq	gaskre	 $k_1=g_3$ is a/are the whisker(s)/sensory hair(s) /vibrissa(e)
 gaıcheu	gastcica	$x_1$ (event) is an illusion that deceives/tricks $x_2$ into sensing $x_3$ using sense $x_4$ under conditions x5
 gaırugıamtue	gasyjvemu'utcini	$x_1$ is the sensori-motor stage as experienced by child $x_2$
 tuachoq	gaupli	$x_1$ uses $x_2$ for bringing about $x_3$ (event)
+tuadom	gaurcando	$x_1=c_1=g_1$ is passive / inactive / non-acting / [idle] of actions $x_2=g_2$.
 tuakuıca	gaurki'u	$x_1=k_1$ is person/agent $x_2=g_1$'s reason/motivation/purpose for doing/bringing about $x_3=g_2=k_2$.
 tuatue	gaurtcini	$t_1$ is an opportunity for $t_2=g_1$ to do $g_2$.
+tuagıqdom	gaurtolcando	$x_1=c_1=g_1$ is active / acting / taking action(s) $x_2=g_2$.
 tuatao	gaurzu'e	$x_1$ volitionally brings about $x_2$ (event) for purpose/goal $x_3$ (event)
 kunebua	ge'urzdani	$z_1$ is a doghouse for dog $z_2=g_1$.
 kunebua	ge'uzda	$z_1$ is a doghouse for dog $z_2=g_1$.
+jaıluaı	geirzdi	$x_1=z_1=g_1$ is fun, to $x_2=z_2=g_2$ in property / aspect $x_3=z_3$.
 jaıhuaq	gekmau	$x_1$ is happier than $x_2$ about $x_3$ by amount $x_4$
 zujuaogıqdue	gentoldra	$x_1$ is grammatically incorrect in situation $x_2$ according to grammar $x_3$
 zujuaotoatoaı	genvlasle	$s_1=g_1$ is a morpheme/most basic grammatical subunit of word, meaning/causing $v_2$ in language $v_3=g_2$ for language/text $g_3$.
@@ -990,6 +996,7 @@ naokıao	jacyvro	$x_1=v_1$ is a floodgate/stop gate between $x_2=v_2=d_1$ and $x
 jeoqca	jadykevri'a	$r_1$ makes a decorative/piercing hole in $k_2=j_2$.
 seca	jagri'a	$x_1=r_1$ is a factor in $x_2=r_2=j_1$ under conditions $x_3=r_3$
 jıaıbaga	jaicpu	$l_1=j_1$ picks at $l_2=j_2$ with $l_3=j_3$.
+jıaıkea	jairca'a	$c_1$ is a vise, clamp, clasp used for holding $c_2$
 jıaımuq	jairxa'e	$x_{1}$ is a hand-grasping appendage with has hand-grasp $x_{2}$.
 jıaıchuo	jaitci	$x_1=t_1=j_4$ is a handle to hold/grasp/carry $x_2=j_2$ used by $x_3=j_1$
 soımeaq	jamblo	$b_1$ is a warship of type/carrying $b_2$, propelled by $b_3$.
@@ -1012,7 +1019,7 @@ naohıuheq	jaurflevau	$v_1$ is a pipe carrying $v_2=f_2$ to $f_3$ from $f_4$
 naoshınakeade	jaurgacmi'imle	$x_1=m_1$ is steampunk to $x_2=m_2$ in aspect $x_3=m_3$ (ka).
 naoshına	jaurgapci	$x_1=g_1=d_1$ is steam/water vapor under conditions $x_2=g_3$.
 naomıe	jaurji'e	$x_1=jm_1$ is an organism living in water $x_2=dj_1$
-naomıetıaı	jaurji'eta'e	$x_1=t_1$ is an aquarium(container for aquatic beings)/fish tank for $x_2=t_2=jm_1$
+naomıetıaı	jaurji'eta'e	$x_1=t_1$ is an aquarium (container for aquatic beings)/fish tank for $x_2=t_2=jm_1$
 naoremmeaq	jaursfeblo	$x_1$ is an aquatic boat/ship/vessel for carrying $x_2$, propelled by $x_3$.
 naoheqmuoq	jaurvasmro	$m_1$ drowns in body of water $d_1$.
 naosıoqkea	jaurxilmi'i	$m_1$ is a water wheel for use/function $m_2$.
@@ -1152,7 +1159,7 @@ juaozujuao	jvage'a	$x1=g_2$ (language) has regular grammar
 juaotıao	jvamapti	$x_1=m_1$ conforms to/abides by/complies with rules/customs $x_2=m_2=j_1$
 juaode	jvamle	$x_1=m_1=j_2$ is beautiful because it follows rule $x_2=j_1=m_3$ to observer $x_3=m_2$; $x_1$ is symmetrical (generalized sense to anything that is beautiful due to having a pattern).
 soqluaqsue	jvicpe	$c_1=j_1$ wages a contest $c_2=j_3$ on $c_3=j_2$ for gain $j_4$.
-soqluaqluaq	jvikei	$k_1=j_1$ plays competively against opponent $j_2$ in game $k_2=j_3$ (event) for gain $j_4$.
+soqluaqluaq	jvikei	$k_1=j_1$ plays competitively against opponent $j_2$ in game $k_2=j_3$ (event) for gain $j_4$.
 soqluaqtıeq	jvilu'a	$x1=j3=p1$ is a course/[competition route] to $x2=p2$ from $x3=p3$ via points $x4=p4$
 soqluaq'eku	jvixi'a	$xi_1$ is a racehorse of breed $xi_2$ competing in race $j_3$.
 toekaqga	ka'arbatci	$b_1=k_1$ bites through $b_2=k_2$ (object) on/at specific locus $b_3$ with $b_4$ to pieces $k_3$.
@@ -1197,7 +1204,7 @@ guokuq	ke'usku	$x_1$ repeats  $x_2$ (sedu'u/text) to audience $x_3$ via expressi
 guogıaq	ke'uzgi	$x_1$ is a reprise / repeated musical passage produced by $x_2$ (event)
 luaqshao	keidji	$x_1=d_1=k_1$ wants to play with plaything $x_2=d_2=k_2$ for purpose $x_3=d_3$.
 luaqme	keigri	$k_1=g_1$ is a team / play group together playing / playing with plaything / toy / game $k_2=g_2$; members are from set $g_3$ linked by relations $g_4$.
-luaqsoqluaq	keijvi	keijvi — $x_1$ competes/vies with opponent $x_2$ in game $x_3$
+luaqsoqluaq	keijvi	$x_1$ competes/vies with opponent $x_2$ in game $x_3$
 luaqgıam	keirmu'u	$x_1$ is a moving piece used in a game $x_2$.
 luaqtoq	keirta'o	$x_1$ is a board used for playing the game $x_2$.
 luaqdoem	kelci'e	$x_1$ is a game played by $x_2$ governed by rules $x_3$ interrelating game parts (physical or conceptual) $x_4$.
@@ -1221,8 +1228,9 @@ jeoqbua	kevzda	$k_1=z_1$ is a cave for housing $x_2=z_2$, located in $x_3=k_2$.
 cuoıbeo	ki'icne	$x_1$ varies in what it is in relation $x_2$ to, transiting to a relation with $x_3$ from one with $x_4$
 cuoıkoe	ki'ijdi	$x_{1}$ is a decide with related $x_{2}$ with related to $x_{3}$ with relationship $x_{4}$ with matter decided $x_{5}$.
 cuoıtua	ki'irgau	$x_1$ makes $x_2$ and $x_3$ be related by binary relation $x_4$.
+cuoıtıao	ki'irmapti	$x_1=m_1=k_1$ corresponds to / is as $x_2=m_2=k_2$ in property / aspect $x_3=m_3=k_3$ by standard $x_4=m_4$.
 cuoıchue	ki'irpoi	In the sequence $x_1$, each nonfinal member is related to the next member by the relation $x_2$.
-cuoıruaq	ki'irxu'a	$x_1=xu_1$ assigns / attributes $x_2=k_1$ to $x_3=k_2$ with relationship $x_4=xu_2=k_3$; $x_1$ designates $x_3$ as $x_2$.
+cuoıruaq	ki'irxu'a	$x_1=xu_1$ assigns / attributes $x_2=c_1$ to $x_3=c_2$ with relationship $x_4=xu_2=c_3$; $x_1$ designates $x_3$ as $x_2$.
 bıqchaq	ki'odje	$d1$ is $d2$ full kilodays (thousand day unit) in duration (default is 1 kiloday) by standard $d3$
 bıqroaıromtoaı	ki'orbivysamsle	$se1$ is (close to) a thousand of eight indivisible, most basic computer subunits of computer $se2$; se1 is a kilobyte
 bıqnıaq	ki'orna'a	$n1$ is $n2$ millennia (1000 years) in duration (default is 1 millennium) by standard $n3$.
@@ -1626,6 +1634,7 @@ muozıutoaı	mulna'usle	$s_1=mn_1$ is an indivisible / prime number in integer d
 muosıahuaq	mulnonmau	$x_1$ is a positive integer
 muoreu	mulpi'i	$p_1$ is the integer result of multiplying integer $p_2$ by integer $p_3$.
 muotoaıchumıe	mulslemijyji'e	$x_1$ is a eukaryote of species $x_2$.
+muochıa	multcu	$x_1=n_1=m_1$ is to-do / needs completion in property $x_2=n_2=m_2$ by judge / standard $x_4=m_3$ for purpose / state $x_5=n_3$; $x_1$ is TODO.
 fechaq	mumdei	$x_1$ is a Friday of week $x_2$ in calendar $x_3$.
 fepıanete	mumplini	$p_1$ is the fifth closest planet (default is Jupiter if p2 is the Sun) revolving around $p_2$ (default is the Sun), with planetary characteristics $p_3$, orbital parameters $p_4$.
 feseum	mumvanci	$x_1$ is a Friday evening of week $x_2$ in calendar $x_3$.
@@ -1844,7 +1853,7 @@ maıruanıu	pamrulspa	$l_1$ is a lily of the Nile/African lily (genus Agapanthus
 maıcheo	pamsi'u	$x_1$ love each other; $x_1$ are in love
 maıpoıba	pamsrasu	$x_1$ is lovegrass of species/variety $x_2$.
 shısueq	pavbo'a	$x_{1}$ is a P-wave / primary wave in medium $x_{2}$, wave-form $x_{3}$, wave-length $x_{4}$, frequency $x_{5}$.
-shıjeq	pavdu'i	$d1$ is unique in property/dimension/quantity/aspect $d3$.
+shıjeq	pavdu'i	$x_1=d_1=d_2$ is unique in property / dimension / quantity / aspect $x_2=d_3$ among $x_3$; $x_1$ is the only / sole $x_2$ [property] among $x_3$.
 shıgıqseje	pavdutcinse	$c_1$ is strictly heterosexual in situation $c_2$ by standard $c_4$.
 shıraı'ıq	pavdzakai	$x_1$ is the only thing that $x_2$; $x_1$ is the sole $x_2$-er; only $x_1$ is $x_2$.
 shıhuaq	pavmau	$x_1$ is greater than the multiplicative identity; $x_1$ expands/dilates/scales up something when multiplying it.
@@ -1947,6 +1956,7 @@ pıanetepoaqtuakea	plinypo'igaumi'i	$x_1=m_1=g_1$ is a Death Star destroying pla
 pıanetedıu	plinyske	$x_1=s_1$ (mass of facts) is planetary science based on methology $x_2=s_3$.
 pıanetegıemrea	plinyxabykoi	$k_1$ is the equator of planet $x_2=p_1$ (default Earth) revolving around $p_2$
 pıanetegıem	plinyxadba	$x_1$ is a hemisphere of planet $x_2$ (default Earth) revolving around $p_2$
+choqtıdose	plipu'ija'e	$x_1=j_1=pu_1=pi_1=pi_3$ is the result / output of application of [function]/[selbri] $x_2=j_2=pu_2=pi_2$ to [input]/[sumti]/[application]/[termset] $x_3=pu_3$.
 choqca	pliri'a	$r_1=p_1$ applies $r_2=p_2$ to $r_3=p_3$.
 choqreaq	plivei	$v_1$ is a log/record of data $v_2$ (nu/du'u) about $v_3=p_1$'s use of resource $p_2$ for purpose $p_3$ recorded in medium $v_4$.
 choqgıraı	plixaudai	$x_1$ is an utility(something useful).
@@ -1962,6 +1972,8 @@ notuqbuotao	pojbrezu'e	$g_1$ makes $b_1$ ready for explosion/detonation for goal
 notuqgıo	pojgu'i	$g_1=s_1$ is a flash of light at $g_2$ from source $g_3$
 notuqmeı	pojma'a	$x_1$ is a volcano projecting from land mass $x_2$.
 poaqlaq	popsna	$s_1$ is the sound of $p_1$ breaking/shattering/cracking/splintering into pieces $p_2$. 
+poaqfuaq	popxra	$x_1$ is a puzzle (image) depicting $x_2$
+poaqfuaqtoq	popxrata'o	$x_1$ is a jigsaw puzzle made of $x_2$
 poaqtua	popygau	$g_1$ causes $p_1$ to break/fracture/shatter/[split/splinter/crack] into pieces $p_2$.   
 chuebeotua	porcnegau	$x_1$ reorders / changes the order of $x_2$
 chuefao	porfa'o	$x_1$ is a subsequence of $x_2$ located at the end of $x_2$ and $x_3$ elements long
@@ -2025,7 +2037,6 @@ sheaqtıdo	rajypu'i	$x_1$ sets up/puts up/places $x_2$ in a vertical position on
 joqtıeq	raldargu	$x_1$ is a highway to $x_2$ from $x_3$ with route $x_4$
 joqjaq	raljymutce	$x_1$ is pivotal, extremely important
 joqdueq	raltu'a	$x_1$ is the mainland of $x_2$
-roadıu	rarske	$s_{1}$ is natural science with subject $s_{2} =r_{1}$ with methodology $s_{3}$.
 roasheıjuao	rarzi'ejva	$z_1=r_1$ is a natural right for $z_1$ to do/be $z_2$ (event/state).
 nulıpoaı	rastsi	$t_1$ is/are oilseed of organism $t_2$ for offspring $t_3$.
 nulıshuao	rasycpi	$x_1$ is an oilbird of breed $x_2$.
@@ -2317,7 +2328,8 @@ mıugıq	smudukti	$d_1$ and $d_2=s_2$ are antonyms of each other.
 mıutua	smugau	$g_1$ refers to $s_1$ with expression $s_2$ recognized by $s_3$.
 mıujuı	smujbi	$x_1$ (symbol/text) is close to $x_2$ (symbol/text) in meaning, as seen by $x_3$.
 mıulım	smujmi	$x_1$ understands the meaning of $x_2$ that is introduced by $x_3$
-mıucuoıruaq	smuki'irxu'a	$x_1=xu_1=k_2=s_3$ defines / assigns meaning / attributes definition $x_2=k_1=s_1$ to $x_3=k_2=s_2$; $x_1$ defines $x_2$ to be $x_3$.
+mıucuoıruaq	smuki'irxu'a	
+mıucuoıruaq	smuki'ixu'a	$x_1=xu_1=c_2=s_3$ defines / assigns meaning / attributes definition $x_2=c_1=s_1$ to $x_3=c_2=s_2$; $x_1$ defines $x_2$ to be $x_3$.
 mıusıo	smusi'o	$sm_1=si_1$ is the abstract meaning of $sm_2$ recognized/seen/accepted by $sm_3$ 
 mıudıu	smuske	$sa_1$ is semantics with methodology $sa_3$.
 mıukuq	smusku	$x_1$ expresses meaning $x_2$ to addressee/audience $x_3$ by doing $x_4$ (property of $x_1$)
@@ -2340,6 +2352,7 @@ keoınua	snucpa	$x_1=s_1=c_1$ negotiates $x_2=s_2=c_2$ with $x_3=c_3$
 keoırıaq	snustu	$s_1$ is a forum for $c_1$ to discuss/talk about topic/subject $c_2$.
 hoechaq	soldei	$x_1$ is Sunday of week $x_2$ on calendar $x_3$.
 hoegıogıu	solgusli'i	$x1=l1$ is a sunbeam/sunray/[line of sunlight] illuminating $x2=g2$
+hoehoaq	soljelca	$j_1$ is sunburnt / tanned by the sun
 hoechea	solmapku	$x_1$ is a sun hat/sun bonnet
 hoenıu	solspa	$sp_1$ is a sunflower (genus Helianthus) of species/strain/cultivar $sp_2$.
 hoenıunulı	solspagrasu	$g_1$ is a quantity of/is made of/contains sunflower oil from sunflower $sp_1=g_2$.
@@ -2643,6 +2656,7 @@ suaosoıche	vairsoi	$s_1=v_1$ is a military officer in army $s_2$.
 suaochuadıa	vajme'ejdika	$z_1$ is demoted to the rank/grade/position $c_1$ in organization/heirarchy $c_3$
 suaochuajeaq	vajme'eze'a	$z_1$ is promoted to the rank/grade/position $c_1$ in organization/heirarchy $c_3$
 suaosoqjuao	vajraifla	$f_1=v_1=t_1$ is the constitution of $f_3=v_2$.
+suaosoqshıkochue	vajraipavmompoi	$x_1=p_1$ is a big-endian / most-significant-first sequence with ordering $x_2=p_2$ on set $x_3=p_3$, with most-significant item $x_4=t_1=v_1$ first, most important to $x_5=t_2=v_2$ in property / aspect $x_6=v_3$, towards extreme / as xth-most $x_7=t_3$ among $x_8=t_4$.
 suaocuoı	vajyki'i	$x_1$ is relevant to $x_2$ in way $x_3$
 toalaqtoaıguoteı	valtogmo'a	$t_1=m_1$ is the tone of word $v_1=m_2$ with characteristics $t_2=m_3$.
 rıodıbatua	varbasygau	$x_1=g_1$ ventilates fresh air $x_2=b_1$ for stale air $x_3=b_2$ in circumstances $x_4=b_3$
@@ -2740,6 +2754,7 @@ tuaınhuqgıam	xadypalmu'u	$x_1$ exercises / does physical activity
 tuaıpaq	xadypau	$x_1$ is a part of $x_2$'s body
 tuaıpaqdıba	xadypaurbasti	$x_1=b_1$ a prosthesis of $x_2=b_2=p_1$ in circumstance $x_3=b_3$
 tuaıchoqsoqluaq	xadyplijvi	$j_1=xa_2$ competes with opponent $j_2$ in sport/athletics $j_3$ for gain $j_4=p_3$.
+tuaıkuq	xadysku	$x_1=c_1$ gestures / gesticulates / non-verbally expresses / says $x_2=c_2$ to audience $x_3=c_3$ through body $x_4=c_4=xa_1$ of $x_5=xa_2$.
 tuaıgıem	xadyxadba	$x_{1}$ is exactly/approximately a quarter of $x_{2}$ by standard $x_{3}$.
 tuaıhıao	xadyxai	$x_1=xr_1$ assaults / causes bodily injury / harm / physical damage to the body / manifestation $x_2=xa_1$ of $x_3=xr_2=xa_2$ in property $x_4=xr_3$ resulting in injury $x_5=xr_4$; $x_1$ assaults $x_3$.
 tuaıbebaq	xadzu'i	$z_1$ is a disability affecting $z_2$ in manner/form $z_3$
@@ -2766,6 +2781,7 @@ aobızıu	xarna'u	$x_1$ is an imaginary number.
 aobıpaı	xarpe'o	$x_1$ is an imaginary friend of $x_2$.
 aobıpoq	xarpre	$xa_1=p_1$ is a character/role/imaginary person created by $xa_2$.
 aobıpoqsıuruo	xarpresmitra	$x_1=t_1=s_1$ acts like/pretends to be fictional/imaginary character $x_2=t_2=s_2=xa_1=p_1$ imaginary to $x_3=xa_2$, in property/way $x_4=s_3$ under conditions $x_5=t_3$.
+naomıreajıeq	xaskoiji'o	$x_1$ is a cape, a headland.
 naomıguq	xasni'a	$x_1$ is under sea $x_2$ in reference frame $x_3$.
 naomıpıusaoro	xasycakrespa	$x_1$ is a sea turtle of species $x_2$.
 naomıhaq	xasydja	$x_1$ is seafood of ingredients/contents $x_2$ of variety/type $x_3$ from sea/ocean/gulf/fluid body $x_4$
@@ -2801,6 +2817,7 @@ saımekea	xremi'i	$x_1=min_1$ is a blender/mixer for ingredients $x_2=mix_2$ to 
 rıuhıe	xrubei	$b_1=x_1$ takes/carries back $b_2=x_2$ to origin/earlier state $b_3=x_3$ from $b_4=x_4$ over path $b_5$.
 rıusue	xrucpe	$c_1$ requests/asks $c_2$ to go back/return to $x_2$ from $x_3$.
 rıuhaq	xrudja	$x_1$ is cud/cecotrope/re-eaten food for $x_2$ (ruminant/rabbit) that began as $x_3$
+ruaqmıu	xu'asmu	$x_1=s_1=xu_2$ is a definition of $x_2=s_2=xu_2$ given by / according to $x_3=s_3=xu_3$.
 seaobeoq	xu'icmu	$x_1$ is an element of compound $x_2$.
 seaolohacaramuıq	xumjimcelxa'i	$x_1 = c_1$ is a gun/chemically launched metal slug throwing weapon for use against $x_2$ by $x_3$; weapon fires metallic objects $x_4$ using chemical propellant $x_5$.
 seaotoaı	xumsle	$s_1$ is a molecule of chemical $x_2$.
@@ -2914,6 +2931,7 @@ huaqsoqtua	zmaraigau	$x_1=g_1$ maximizes $x_2=t_1=z_1$ in property $x_3=t_2=z_3$
 huaqsoqkuoızıu	zmaraimecna'u	$x_1$ (number) is the infimum of set $x_2$ under (partial) ordering $x_3$
 huaqgımıu	zmazau	$x_{1}$ is an approve with more-approved $x_{2}$ with exceeded $x_{3}$ with moreness margin $x_{4}$.
 taodoı	zuksi'a	$s_1=z_1$ honors $s_2$ with action $z_2$.
+taosıu	zuksmi	$x_1$ imitates/mimics/emulates $x_2$ in property $x_3$ (ka)
 taosuaı	zuksutra	$s_1=z_1$ hurries to do $z_2$ for purpose $z_3$
 taochase	zuktadji	$t_1$ is the manner of action $t_2=z_2$ under condition $t_3$.
 taojaq	zuktce	$m_1=z_1$ is [busy doing]/[working hard at] $z_2$ for purpose/goal $z_3$.
