@@ -22,7 +22,7 @@ benji   17
 berti   13
 besna   16
 betfu   18
-bevri   30
+bevri   31
 bi   15
 bilma   28
 binxo   84
@@ -40,7 +40,7 @@ botpi   13
 boxfo   11
 boxna   16
 bredi   12
-bridi   36
+bridi   38
 brife   13
 bukpu   29
 burcu   12
@@ -52,7 +52,7 @@ calku   27
 cando   24
 cange   17
 canko   14
-canlu   19
+canlu   20
 canpa   10
 canre   10
 carce   10
@@ -65,7 +65,7 @@ catni   11
 catra   15
 cecla   19
 cecmu   12
-cenba   15
+cenba   16
 censa   10
 certu   29
 cevni   24
@@ -152,7 +152,7 @@ dertu   14
 detri   25
 dikca   28
 dinju   30
-djacu   66
+djacu   67
 djedi   59
 djica   41
 djine   19
@@ -161,7 +161,7 @@ donri   16
 drani   17
 drata   22
 du   21
-dukse   32
+dukse   33
 dukti   16
 dunda   19
 dunli   28
@@ -200,9 +200,9 @@ ganse   28
 gapci   12
 gapru   10
 gasnu   307
-gerku   18
+gerku   19
 gerna   15
-girzu   35
+girzu   36
 gismu   10
 glare   29
 gleki   20
@@ -218,7 +218,7 @@ gundi   12
 gunka   16
 gunma   25
 gurni   12
-gusni   42
+gusni   43
 ja   15
 jadni   20
 jai   22
@@ -278,7 +278,7 @@ karda   12
 katna   24
 ke   86
 kei   21
-kelci   55
+kelci   56
 kensa   14
 kerfa   31
 kerlo   12
@@ -367,8 +367,8 @@ mulno   39
 munje   17
 mutce   40
 muvdu   42
-na   49
-na'e   107
+na   50
+na'e   108
 nakni   23
 nalci   10
 namcu   48
@@ -404,15 +404,15 @@ pe'a   25
 pelji   29
 pendo   20
 penmi   10
-pensi   30
+pensi   31
 pesxu   14
 pezli   14
 pikta   10
 pilji   19
 pilno   57
 pinji   16
-pinta   20
-pixra   40
+pinta   21
+pixra   41
 platu   21
 pleji   12
 plini   22
@@ -455,7 +455,7 @@ salci   24
 sance   56
 sanga   16
 sanji   17
-sanmi   16
+sanmi   17
 sarxe   11
 saske   115
 savru   10
@@ -469,7 +469,7 @@ senva   10
 sepli   21
 sevzi   64
 sidbo   26
-sidju   21
+sidju   22
 simlu   17
 simsa   42
 simxu   55
@@ -477,7 +477,7 @@ sinma   14
 sinxa   31
 sipna   20
 sisti   25
-skami   99
+skami   101
 skapi   10
 skari   35
 skicu   13
@@ -494,12 +494,12 @@ snidu   11
 snime   16
 so'i   38
 solri   24
-sonci   18
+sonci   19
 sorcu   18
 sovda   14
 spati   61
 speni   43
-spisa   10
+spisa   11
 spoja   20
 sraji   14
 srana   20
@@ -510,7 +510,7 @@ stali   10
 stani   10
 stedu   18
 stidi   14
-stodi   12
+stodi   13
 stuna   11
 stura   11
 stuzi   39
@@ -522,7 +522,7 @@ tabno   15
 tadji   12
 tamca   13
 tanbo   19
-tanru   11
+tanru   13
 tanxe   11
 tarbi   12
 tarci   13
@@ -536,7 +536,7 @@ tcica   18
 tcika   13
 tcini   14
 tcita   10
-te   244
+te   246
 temci   52
 tenfa   11
 terpa   22
