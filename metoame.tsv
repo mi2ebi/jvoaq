@@ -253,6 +253,7 @@ pıusoı	cakyda'a	$x_1=d_1$ is an armoured fighter protected by armuor/shell $x_
 pıuchao	cakykarce	$k_1=c_2$ is a tank/armored combat vehicle for carrying $k_2$, propelled by $k_3$, with armor-plating $c_1$.
 pıusaoro	cakyrespa	$x_1$ is a turtle of species $x_2$.
 goarudaq	caljvetei	$c_1=t_1$ is space-time occupied by $c_2$. 
+goaromfuaq	calsamxra	$x_1$ is a 3D model and "depicts" $x_2$.
 goatoaı	calsle	$x_1$ is a voxel of model/object $x_2$
 goateıkıoq	caltaiboi	$x_1=b_1=t_2$ is a sphere / ellipsoid with geometric shape $x_2=t_1=c_1$ occupied by / made of $x_3=b_2=c_2$.
 goateısıu	caltaismi	$x_1$ is shaped (physically/geometrically) like $x_2$, with shape $x_3$
@@ -687,6 +688,7 @@ shaorutua	djijevgau	$x_1$ (agent)'s action results in the intended result $x_2$
 shaorutua	djijvegau	$x_1$ (agent)'s action results in the intended result $x_2$
 shaokuq	djisku	$x_1$ expresses/says that they desire $x_2$ (nu/ka) to audience $x_3$ in medium $x_4$, desired for purpose $x_5$
 soajaı	djugei	$x_1=g_1=s_1$ is happy/merry/gay about helping/assisting/aiding object/person $x_2=s_2$ to do/achieve/maintain event/activity $x_3=s_3$
+soame	djugri	$g_1$ is a charity / aid organization helping $s_2$ with event/activity $s_3$
 soasıao	djukra	$x1=k1=d1$ is a resource for $x2=d2$ to use
 soajuo	djunoi	$n_1$ is an instruction/advice from $x_2=n_3$ to help/assist/aid $x_3=s_2=n_4$ do/achieve/maintain event/activity $x_4=s_3$.
 soacheo	djusi'u	$x_1$ (plural) help each other doing $x_2$
@@ -1925,6 +1927,7 @@ borepaq	pinpau	$x_1$ is a row/rank of table/chart $x_2$.
 borepaqjeq	pinpaudu'i	$d_1$ is in the same row(s) as $d_2$, row(s) $pa_1=pi_1$ is a part of whole/mass $pa_2$ in frame of reference $pi_2$.
 boretıdo	pinpu'i	$x_1$ lays down/places down/puts down $x_2$ in a horizontal position on/at $x_3$
 boredoı	pinsi'a	$s_1=p_1$ prostrates him/herself/itself before $s_2$.
+borehea	pinspi	$s_1$ is a flake / chip of substance $s_2$
 boredueq	pintu'a	$p_1=t_1$ is a plain/flatland at location $t_2$
 borezıulıaq	pinynacmei	$x_1$ is a row vector of dimension $x_2$ with coordinates $x_3$, $x_4$, ...
 lomamuoı	pipcarna	$c_1=p_1$ somersaults over $c_2$ in direction $c_3$ to $p_2$ from $p_3$.
