@@ -36,16 +36,15 @@ fn main() -> Result<(), ()> {
         .unwrap();
     let defs = serde_json::from_str::<Vec<Value>>(&lidysisku).unwrap();
     for word in jvs {
-        if !is_consonant(word.chars().last().unwrap()) {
-            if let Ok(tanru) = analyze_brivla(word, &settings) {
-                let veljvo = selrafsi_list_from_rafsi_list(&tanru.1, &settings).unwrap();
-                if [BrivlaType::ExtendedLujvo, BrivlaType::Lujvo].contains(&tanru.0)
-                    && !veljvo.iter().any(|valsi| valsi.contains('-'))
-                {
-                    if let Some(def) = defs.iter().find(|def| def[0] == word) {
-                        tauste.push((veljvo, word, def[4].as_str().unwrap()));
-                    }
-                }
+        if !is_consonant(word.chars().last().unwrap())
+            && let Ok(tanru) = analyze_brivla(word, &settings)
+        {
+            let veljvo = selrafsi_list_from_rafsi_list(&tanru.1, &settings).unwrap();
+            if [BrivlaType::ExtendedLujvo, BrivlaType::Lujvo].contains(&tanru.0)
+                && !veljvo.iter().any(|valsi| valsi.contains('-'))
+                && let Some(def) = defs.iter().find(|def| def[0] == word)
+            {
+                tauste.push((veljvo, word, def[4].as_str().unwrap()));
             }
         }
     }
