@@ -476,7 +476,7 @@ simxu   55
 sinma   14
 sinxa   31
 sipna   20
-sisti   25
+sisti   24
 skami   101
 skapi   10
 skari   35
@@ -550,7 +550,6 @@ traji   88
 trene   16
 tricu   27
 trixe   24
-troci   10
 tsali   19
 tsiju   17
 tubnu   25
