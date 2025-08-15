@@ -107,6 +107,7 @@ beroroınamıtıeq	berjoinandargu	$d_1$ is a north-south-running road to $d_2$ f
 berohuaq	bermau	$b_1=z_1$ is farther north than $b_2=z_1$ according to frame of reference $b_3$ by distance/gap/margin $z_4$.
 beronamıchıu	bernanjudri	$j_1$ is the latitude/declination of $j_2$ in system $j_3$.
 berohochuberobero	bersunberberti	$x_1$ is north by east of $x_2$ in frame of reference $x_3$.
+hıejıaı	bevjai	$x_1$ carries $x_2$ by holding with $x_3$
 hıechaonhe	bevma'elai	$k_1$ is $k_2$ (quantifier, default: one) truckloads/lorryloads in quantity.
 bıadu	bi'amlu	$s_1=b_1$ is sickly/appears ill with symptoms $s_2=b_2$ from disease $b_3$ to observer $s_3$.
 bıasho	bi'arbi'o	$bin_1$ develops illness $bin_2=bil_1$ with symptoms $bil_2$.
@@ -386,6 +387,7 @@ buaısaolaqtoaı	clabrato'a	$x1=c1=t1$ is a squeal/[long high-pitched sound] fro
 buaıcaramuıq	clacelxa'i	$x_1=ce_1=cl_1$ is a rifle for use against $x_2$ by $x_3$, launching projectile $c_2$ propelled by $c_3$.
 buaıtorea	cladakfu	$x_1$ is a long knife
 buaıtoreamuıq	cladakyxa'i	$xa_1=d_1=c_1$ is a sword / long knife weapon for use against $xa_2=d_2$ by $xa_3$ with blade of material $d_3$ long by standard $c_3$.
+buaıcıe	clafi'e	$x_1$ is an eel/lamprey/oarfish of species/variety $x_2$
 buaıgeajıo	clagaldi'u	$d_1=g_1=c_1$ is a tower for purpose $d_2$.
 buaıtua	clagau	$x1=g1$ lengthens $x2=c1$ in property/quantity $x3$ (ka/ni) by amount/excess $x4$
 buaıkurıtama	clajbatamca	$t_1$ is a grape tomato of variety/strain $t_2$.
@@ -839,7 +841,8 @@ juaocuedoem	flatruci'e	$c_1=t_1=f_5$ is the legislative branch of the government
 juaobua	flaxa'u	$x_1$ is a/are legal resident(s) of location/country $x_2$ according to law $f_1$ specifying $f_2$ (state/event) for community $f_3$.
 juaogımıucueme	flazautrugri	$g_1=t_1$ is the Upper House/Senate/House of Lords for territory $t_2$ with members $g_3=f_5=z_3$. 
 hıuruq	flecarvi	$c_1$ pours/intensely rains to $c_2$ from $c_3$.
-hıushua	flefa'u	$x_1$ is a fluid or fluid-like pouring to $x_2$ from $x_3$.
+hıushua	flefa'u	$x_1$ pours/spills to $x_2$ from $x_3$
+hıushuatua	flefalgau	$x_1$ (agent) pours/spills $x_2$ on/to $x_3$ from $x_4$
 hıufaobıu	flefamtu'u	$x_1$ is a faucet made of material $x_2$ with flow rate $x_3$ and water pressure $x_4$
 hıucaqkea	fletroca'a	$x_1$ is a valve, a device that controls the flow of $x_2$ through a pipe $x_3$
 hıucaqgıokea	fletrogusmi'i	$x_1$ is a traffic light
@@ -1097,6 +1100,7 @@ mıugom	ji'isre	$x_1$ mistakenly thinks/opines that $x_2$ (du'u) is true about s
 chetuasue	jibgaucpe	$x_1$ applies for job $x_2$ to $x_3$ in form $x_4$.
 chemuo	jibmu'o	$j_2=m_1$ quits/retires from job $j_1$
 chebuo	jibybre	$b_1=j_2$ is ready for the (paid) job/occupation/employment/vocation $j_1$.
+chejıam	jibycatra	$c_1$ is an assassin, that kills $c_2$ by action/method $c_3$
 chechıejıo	jibycu'e	$c_1$ is a trade/vocational school at $c_2$ teaching job skills $c_3=j_1$ to audience/community $c_4=j_2$ operated by $c_5$
 che'ıq	jibykai	$x_1$ does their job / works (activity done regularly for pay).
 chegaq	jibykansa	$k_1$ is a coworker/colleague of $k_2=j_2$ in job/occupation $j_1$
@@ -1485,6 +1489,7 @@ moıchupoetuadeq	menseigauka'e	$x_1=k_1$ is able to distinguish between $x_2=ms_
 moıchupoedeq	menseika'e	$x_1=k_1$ is able to distinguish between $x_2=ms_1$ and $x_3=ms_2$ under conditions $x_4=k_3$
 moıchudıuchoqcheu	menskeplitcica	$x_1$ uses reverse-psychology/psychologically-based trick $x_2$ (abstraction; instance or idea of the trick) against $x_3$ in order to effect $x_4$.
 moıchukuq	mensku	$x1=m2=c1$ thinks/[mentally says to oneself] $x2=c2$ (sedu'u/text/lu'e concept)
+moıchuhıao	menxai	$x_1$ psychologically harms/traumatizes $x_2$ in aspect/property $x_3$ resulting in trauma $x_4$
 moıchubua	menzda	$x_1=z_1$ is a brainhouse of $x_2=z_2=m_2$
 moıchuloa	menzi'u	$z_1$ is purple (mental combination of red and blue) [color adjective].
 usonazu	merbau	$m_1=b_1$ is the American English language used by $b_2$ to express/communicate $b_3$ (si'o/du'u, not quote).
@@ -2787,6 +2792,7 @@ naomıreajıeq	xaskoiji'o	$x_1$ is a cape, a headland.
 naomıguq	xasni'a	$x_1$ is under sea $x_2$ in reference frame $x_3$.
 naomıpıusaoro	xasycakrespa	$x_1$ is a sea turtle of species $x_2$.
 naomıhaq	xasydja	$x_1$ is seafood of ingredients/contents $x_2$ of variety/type $x_3$ from sea/ocean/gulf/fluid body $x_4$
+naomınao	xasyjau	$x_1$ is seawater from ocean/sea $x_2$.
 naomıdıu	xasyske	$s_1$ is the oceanography/marine science of planet $x_2$.
 naomıpoıba	xasysrasu	$s_1$ is a blade/expanse of seagrass (from families Posidoniaceae, Zosteraceae, Hydrocharitaceae, or Cymodoceaceae) of species/strain $s_2$.
 gıjaq	xautce	$x_1=m_1$ (object/event) is excellent/very good/beneficial for $x_2$ by standard $x_3$.
@@ -2854,6 +2860,7 @@ baıbeotue	zbafavycu'u	$c_1$ is/are the function/activities involving persons $c
 baılaıguoteı	zbalermorna	$x_1$ is a pattern of zbalermorna symbols $x_2$; $x_1$ represents the zbalermorna orthography
 baılojı	zbalogji	$x_1$ is intuitionistic logic / constructive logic for inferring/deducing $x_2$ (du'u)
 baıchase	zbatadji	$t_1$ [process] is a method/recipe for crafting/making/assembling/building/manufacturing/creating $z_2$ out of materials/parts/components $z_3$ under conditions $t_3$.
+baıdıem	zbazai	$x_1$ is a hardware store selling $x_2$ operated by $x_3$
 shımakuoq	zbibo'u	$b_1$ is a/the nasal bone (os nasale) performing function $b_2$ in body of $b_3$.
 shımagueq	zbibu'u	$b_1$ is a handkerchief of type/material $b_2$.
 shımajeoq	zbike'a	$k_1$ is/are nostril(s) of nose $k_2=n_1$.
@@ -2881,6 +2888,7 @@ luaıfa	zdili'u	$x_1$ travels/journeys for fun, via route $x_2$, using vehicle $
 luaıhıaı	zdimi'a	$x_1=c_1=z_2$ laughs about $x_2=z_1$ (abstract) in property/aspect $x_3=z_3$; $x_1=c_1=z_2$ is amused about $x_2=z_1$ (abstract) amusing in property/aspect $x_3=z_3$ which causes $x_1=c_1=z_2$ to laugh.
 luaıboremuoımoem	zdipincarcukla	$x_1$ is a merry-go-round.
 luaısheaqmuoımoem	zdirajycarcukla	$x_1$ is a Ferris wheel.
+luaıchue	zdire'e	$x_1$ is a roller coaster
 luaıdaqdoqdaq	zditeitortei	$x_0$: Time flies when you're having fun. (nullary predicate)
 jucıteseaq	zeigle	$x_1$ unlawfully copulates with $x_2$, unlawful according to $x_3$; $x_1$ fornicates / commits adultery with $x_2$.
 jeaqnua	zencpa	$x_1=c_1=z_1$ gains / obtains / increases in $x_2=c_2=z_2$ by amount / quality $x_3=z_3$ from source $x_4=c_3$; $x_1$ gains $x_2$.
