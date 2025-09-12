@@ -1,5 +1,7 @@
 #![allow(clippy::cargo)]
 
+use std::{collections::HashMap, fs, str::FromStr as _, sync::LazyLock, time::Duration};
+
 use itertools::Itertools as _;
 use latkerlo_jvotci::{
     Settings, analyze_brivla,
@@ -10,16 +12,12 @@ use regex::Regex;
 use reqwest::blocking::Client;
 use serde::Deserialize;
 use serde_json::Value;
-use std::{collections::HashMap, fs, str::FromStr as _, sync::LazyLock, time::Duration};
 
 #[allow(clippy::too_many_lines)]
 #[allow(clippy::format_push_string)]
 fn main() -> Result<(), ()> {
     let settings = Settings::from_str("A1rgz").unwrap();
-    let client = Client::builder()
-        .timeout(Duration::from_secs(60))
-        .build()
-        .unwrap();
+    let client = Client::builder().timeout(Duration::from_secs(60)).build().unwrap();
     let jvs = client
         .get("https://github.com/mi2ebi/dictionary-counter/raw/refs/heads/master/jvs.txt")
         .send()
@@ -71,17 +69,13 @@ fn main() -> Result<(), ()> {
     }
     fs::write("freqs.txt", freqs_string).unwrap();
     for (i, (tanru, _, _)) in tauste.clone().into_iter().enumerate() {
-        if tanru
-            .iter()
-            .all(|valsi| TOAQIZER.contains_key(&valsi.as_str()))
-        {
+        if tanru.iter().all(|valsi| TOAQIZER.contains_key(&valsi.as_str())) {
             tauste[i].0 = tanru
                 .iter()
                 .enumerate()
                 .map(|(j, valsi)| {
-                    let toaqized = TOAQIZER
-                        .get(&valsi.as_str())
-                        .map_or_else(String::new, ToString::to_string);
+                    let toaqized =
+                        TOAQIZER.get(&valsi.as_str()).map_or_else(String::new, ToString::to_string);
                     if toaqized.starts_with('\'') && j == 0 {
                         toaqized[1..].to_string()
                     } else {
@@ -111,10 +105,7 @@ fn main() -> Result<(), ()> {
         metoame_string += &format!("{metoa}\t{lujvo}\t{def}\r\n");
     }
     fs::write("metoame.tsv", metoame_string).unwrap();
-    println!(
-        "was able to toaqize \x1b[92m{}\x1b[m/{orig_len} lujvo",
-        metoame.len()
-    );
+    println!("was able to toaqize \x1b[92m{}\x1b[m/{orig_len} lujvo", metoame.len());
     let nonletter = Regex::new(r"\W").unwrap();
     // rust moment
     let words = metoame
@@ -127,20 +118,14 @@ fn main() -> Result<(), ()> {
         .sorted()
         .dedup()
         .collect_vec();
-    println!(
-        "found \x1b[92m{}\x1b[m unique words in the lojban definitions",
-        words.len()
-    );
+    println!("found \x1b[92m{}\x1b[m unique words in the lojban definitions", words.len());
     let toadua = client
         .post("https://toadua.uakci.space/api")
         .body(r#"{"action": "search", "query": ["scope", "en"]}"#)
         .send()
         .unwrap();
     if !toadua.status().is_success() {
-        println!(
-            "\x1b[91mtoadua is down :< status code {}\x1b[m",
-            toadua.status()
-        );
+        println!("\x1b[91mtoadua is down :< status code {}\x1b[m", toadua.status());
         return Err(());
     }
     let toadua = serde_json::from_reader::<_, Toadua>(toadua)
@@ -167,10 +152,10 @@ fn main() -> Result<(), ()> {
                 name=\"viewport\"content=\"width=device-width,initial-scale=1\"/><style>b{color:\
                 red;}th,td{text-align:left;vertical-align:top;padding-top: \
                 0.3lh;}.gray{color:gray;}@media(prefers-color-scheme:dark){html{background:black;\
-                color:white;}b{color:orange;}}</style></head>\r\n"
+                color:white;}b{color:orange;}}</style></head>\n"
         .to_string()
         + &format!(
-            "<body><h1>free calques of {} lujvo :3</h1><table>\r\n{}\r\n</table>",
+            "<body><h1>free calques of {} lujvo :3</h1><table>\n{}\n</table>",
             metoame.len(),
             metoame
                 .iter()
@@ -195,14 +180,10 @@ fn main() -> Result<(), ()> {
                         .join(" ");
                     format!(
                         "<tr{}><th>{metoa}</th><td>{lujvo}</td><td>{bolded}</td></tr>",
-                        if bolded.contains("<b>") {
-                            ""
-                        } else {
-                            r#" class="gray""#
-                        }
+                        if bolded.contains("<b>") { "" } else { r#" class="gray""# }
                     )
                 })
-                .join("\r\n")
+                .join("\n")
         )
         + "</body></html>";
     fs::write("index.html", html).unwrap();
@@ -230,7 +211,7 @@ static TOAQIZER: LazyLock<HashMap<&str, &str>> = LazyLock::new(|| {
         ("bandu", "leoq"),
         ("bangu", "zu"),
         ("banli", "suoı"),
-        // ("banro", "jeaq"),
+        ("banro", "jeaq"),
         ("banzu", "bıaq"),
         // ("bapli", "caıtua"),
         ("barda", "sao"),
@@ -262,7 +243,8 @@ static TOAQIZER: LazyLock<HashMap<&str, &str>> = LazyLock::new(|| {
         ("boxfo", "boe"),
         ("boxna", "sueq"),
         ("bredi", "buo"),
-        // ("bridi", ""), // ꝠAJUI BÁQ ZUDIUTOA MEOZUNO
+        ("bridi", "jabı"),
+        // ꝠAJUI BÁQ ZUDIUTOA MEOZUNO
         ("brife", "'ırue"),
         ("bukpu", "gueq"),
         ("burcu", "chuım"),
@@ -281,7 +263,7 @@ static TOAQIZER: LazyLock<HashMap<&str, &str>> = LazyLock::new(|| {
         ("carvi", "ruq"),
         ("casnu", "keoı"),
         ("catlu", "kaqsı"),
-        // ("catni", ""),
+        ("catni", "cue"),
         ("catra", "jıam"),
         ("cecla", "cara"),
         // ("cecmu", "mıeme"),
@@ -322,7 +304,7 @@ static TOAQIZER: LazyLock<HashMap<&str, &str>> = LazyLock::new(|| {
         ("cliva", "tıshaı"),
         ("cmalu", "nuı"),
         ("cmana", "meı"),
-        // ("cmavo", ""),
+        ("cmavo", "doetoa"),
         ("cmene", "chua"),
         ("cmila", "hıaı"),
         ("cmima", "mea"),
@@ -339,7 +321,7 @@ static TOAQIZER: LazyLock<HashMap<&str, &str>> = LazyLock::new(|| {
         ("crino", "rıq"),
         ("cripu", "coa"),
         ("ctuca", "gale"),
-        ("cukla", "moem"),
+        ("cukla", "feoq"),
         ("cukta", "kue"),
         ("cumki", "daı"),
         ("cuntu", "tue"),
@@ -373,7 +355,7 @@ static TOAQIZER: LazyLock<HashMap<&str, &str>> = LazyLock::new(|| {
         ("djacu", "nao"),
         ("djedi", "chaq"),
         ("djica", "shao"),
-        // ("djine", ""), // feoq?
+        ("djine", "feoq"),
         ("djuno", "dua"),
         ("donri", "dıo"),
         ("drani", "due"),
@@ -533,7 +515,7 @@ static TOAQIZER: LazyLock<HashMap<&str, &str>> = LazyLock::new(|| {
         ("logji", "lojı"),
         ("lojbo", "lojıbaq"),
         ("loldi", "deaq"),
-        // ("lujvo", ""),
+        ("lujvo", "metoa"),
         ("lumci", "sıqja"),
         ("mabla", "huı"),
         ("makcu", "koaq"),
@@ -590,7 +572,7 @@ static TOAQIZER: LazyLock<HashMap<&str, &str>> = LazyLock::new(|| {
         ("nelci", "cho"),
         ("nenri", "nıe"),
         // ("ni", ""),
-        // ("nibli", ""),
+        ("nibli", "she"),
         ("nicte", "nuaq"),
         ("nimre", "kero"),
         ("ninmu", "lıq"),
@@ -656,7 +638,7 @@ static TOAQIZER: LazyLock<HashMap<&str, &str>> = LazyLock::new(|| {
         ("rirni", "pao"),
         ("ritli", "rıtı"),
         ("ro", "tu"),
-        // ("roi", ""),
+        ("roi", "chıo"),
         ("rokci", "pıo"),
         ("rozgu", "barua"),
         // ("rupnu", ""),
@@ -722,7 +704,7 @@ static TOAQIZER: LazyLock<HashMap<&str, &str>> = LazyLock::new(|| {
         ("stuzi", "rıaq"),
         ("sudga", "gıao"),
         ("sumji", "neu"),
-        // ("sumti", ""),
+        ("sumti", "aqmı"),
         ("sutra", "suaı"),
         ("tabno", "kabo"),
         ("tadji", "chase"),
@@ -794,7 +776,7 @@ static TOAQIZER: LazyLock<HashMap<&str, &str>> = LazyLock::new(|| {
         ("xanri", "'aobı"),
         ("xarci", "muıq"),
         // ("xe", ""),
-        // ("xedja", ""),
+        ("xedja", "cheja"),
         ("xekri", "kuo"),
         ("xirma", "'eku"),
         ("xislu", "sıoq"),
