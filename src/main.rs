@@ -65,7 +65,7 @@ fn main() -> Result<(), ()> {
         .collect_vec();
     let mut freqs_string = String::new();
     for freq in freqs {
-        freqs_string += &format!("{}   {:?}\r\n", freq.0, freq.1);
+        freqs_string += &format!("{}   {:?}\n", freq.0, freq.1);
     }
     fs::write("freqs.txt", freqs_string).unwrap();
     for (i, (tanru, _, _)) in tauste.clone().into_iter().enumerate() {
@@ -101,8 +101,8 @@ fn main() -> Result<(), ()> {
         .map(|(metoa, lujvo, def)| (metoa.join(""), lujvo, def))
         .collect_vec();
     let mut metoame_string = String::new();
-    for (metoa, lujvo, def) in metoame.clone() {
-        metoame_string += &format!("{metoa}\t{lujvo}\t{def}\r\n");
+    for (metoa, lujvo, def) in &metoame {
+        metoame_string += &format!("{metoa}\t{lujvo}\t{def}\n");
     }
     fs::write("metoame.tsv", metoame_string).unwrap();
     println!("was able to toaqize \x1b[92m{}\x1b[m/{orig_len} lujvo", metoame.len());
@@ -113,7 +113,7 @@ fn main() -> Result<(), ()> {
         .map(|(_, _, def)| def.to_lowercase())
         .collect_vec()
         .iter()
-        .flat_map(|def| def.split([' ', '/', '-']).collect_vec())
+        .flat_map(|def| def.split([' ', '/', '-', ',', '=']).collect_vec())
         .map(|word| nonletter.replace_all(word, "").to_string())
         .sorted()
         .dedup()
@@ -132,7 +132,7 @@ fn main() -> Result<(), ()> {
         .unwrap()
         .results
         .iter()
-        .map(|toa| toa.body.clone().to_lowercase())
+        .map(|toa| toa.body.to_lowercase())
         .collect_vec()
         .iter()
         .flat_map(|toa| toa.split([' ', '/', '-']).collect_vec())
@@ -147,16 +147,38 @@ fn main() -> Result<(), ()> {
         })
         .collect_vec();
     println!("\x1b[92m{}\x1b[m of them aren't in toadua", ohno.len());
-    // why does rustfmt do this so weirdly
-    let html = "<!doctype html><html><head><meta \
-                name=\"viewport\"content=\"width=device-width,initial-scale=1\"/><style>b{color:\
-                red;}th,td{text-align:left;vertical-align:top;padding-top: \
-                0.3lh;}.gray{color:gray;}@media(prefers-color-scheme:dark){html{background:black;\
-                color:white;}b{color:orange;}}</style></head>\n"
-        .to_string()
+    #[allow(clippy::literal_string_with_formatting_args)]
+    let html = "<!doctype html><html><head>".to_string()
+        + "<meta name='viewport' content='width=device-width,initial-scale=1'/>"
+        + "<style>"
+        + "html{font-family:'fira sans','noto sans','stix two text',serif}"
+        + "a{color:blueviolet}"
+        + "b{color:red}"
+        + "th,td{text-align:left;vertical-align:top;padding-top:0.3lh}"
+        + ".gray{color:gray}"
+        + "math{font-family:'fira math','noto sans math','stix two math',math}"
+        + "p:has(#nogray:checked)~table .gray{display:none}"
+        + "@media(prefers-color-scheme:dark){"
+        + "html{background:black;color:white}"
+        + "b{color:orange}"
+        + "a{color:turquoise}"
+        + "}</style>"
+        + "<script src='temml/dist/temml.min.js'></script>"
+        + "</head>\n"
+        + &format!("<body><h1>free calques of {} lujvo!</h1>\n", metoame.len())
+        + "<p>"
+        + "made with jbovlaste "
+        + "(<a href='https://github.com/mi2ebi/dictionary-counter/blob/master/jvs.txt'>"
+        + "indirectly</a>), "
+        + "<a href='https://github.com/lynn/lidysisku'>lidysisku</a>, "
+        + "<a href='https://github.com/toaq/toadua'>toadua</a>, "
+        + "<a href='https://github.com/latkerlo/latkerlo-jvotci'>latkerlo-jvotci</a>, "
+        + "<a href='https://github.com/mi2ebi/jvoaq/blob/master/src/main.rs#L228'>"
+        + "a big hashmap</a>"
+        + "<br/>"
+        + "<input type='checkbox' id='nogray'/><label for='nogray'>hide gray entries</label></p>\n"
         + &format!(
-            "<body><h1>free calques of {} lujvo :3</h1><table>\n{}\n</table>",
-            metoame.len(),
+            "<table>\n{}\n</table>",
             metoame
                 .iter()
                 .map(|(metoa, lujvo, def)| {
@@ -180,11 +202,14 @@ fn main() -> Result<(), ()> {
                         .join(" ");
                     format!(
                         "<tr{}><th>{metoa}</th><td>{lujvo}</td><td>{bolded}</td></tr>",
-                        if bolded.contains("<b>") { "" } else { r#" class="gray""# }
+                        if bolded.contains("<b>") || def.is_empty() { "" } else { " class='gray'" }
                     )
                 })
                 .join("\n")
         )
+        + "<script>"
+        + "temml.renderMathInElement(document.body,{delimiters:[{left:'$',right:'$'}]})"
+        + "</script>"
         + "</body></html>";
     fs::write("index.html", html).unwrap();
     Ok(())
