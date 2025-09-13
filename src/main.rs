@@ -151,6 +151,7 @@ fn main() -> Result<(), ()> {
     let html = "<!doctype html><html><head>".to_string()
         + "<meta name='viewport' content='width=device-width,initial-scale=1'/>"
         + "<style>"
+        + "*{-webkit-text-size-adjust:100%}"
         + "html{font-family:'fira sans','noto sans','stix two text',serif}"
         + "a{color:blueviolet}"
         + "b{color:red}"
@@ -173,7 +174,7 @@ fn main() -> Result<(), ()> {
         + "<a href='https://github.com/lynn/lidysisku'>lidysisku</a>, "
         + "<a href='https://github.com/toaq/toadua'>toadua</a>, "
         + "<a href='https://github.com/latkerlo/latkerlo-jvotci'>latkerlo-jvotci</a>, "
-        + "<a href='https://github.com/mi2ebi/jvoaq/blob/master/src/main.rs#L228'>"
+        + "<a href='https://github.com/mi2ebi/jvoaq/blob/master/src/main.rs#L229'>"
         + "a big hashmap</a>"
         + "<br/>"
         + "<input type='checkbox' id='nogray'/><label for='nogray'>hide gray entries</label></p>\n"
