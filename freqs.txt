@@ -151,7 +151,7 @@ denpa   17
 dertu   14
 detri   25
 dikca   28
-dinju   30
+dinju   31
 djacu   69
 djedi   59
 djica   41
@@ -204,7 +204,7 @@ gerku   19
 gerna   15
 girzu   36
 gismu   10
-glare   29
+glare   30
 gleki   20
 gletu   47
 glico   16
@@ -240,7 +240,7 @@ jecta   13
 jeftu   14
 jelca   13
 jemna   12
-jesni   11
+jesni   12
 jetnu   23
 jgari   22
 jgina   16
@@ -256,7 +256,7 @@ jipno   22
 jitfa   13
 jitro   31
 jivna   25
-jmive   48
+jmive   49
 joi   24
 jorne   31
 judri   10
@@ -332,7 +332,7 @@ mamta   14
 mapku   12
 mapti   20
 marce   34
-marji   24
+marji   25
 masno   10
 masti   52
 mei   41
@@ -345,7 +345,7 @@ mikce   22
 milti   10
 milxe   27
 minde   16
-minji   44
+minji   45
 minra   11
 mintu   29
 mipri   13
@@ -412,7 +412,7 @@ pilji   19
 pilno   57
 pinji   16
 pinta   21
-pixra   41
+pixra   42
 platu   21
 pleji   12
 plini   22
@@ -554,12 +554,12 @@ tsali   19
 tsiju   17
 tubnu   25
 tugni   12
-tumla   42
+tumla   43
 tuple   16
 turni   62
 tutci   76
 utka   20
-vacri   18
+vacri   19
 vajni   28
 valsi   94
 vamji   10
@@ -584,9 +584,9 @@ vraga   11
 vreji   31
 xabju   20
 xadba   16
-xadni   29
+xadni   31
 xalka   10
-xamgu   29
+xamgu   30
 xamsi   20
 xance   49
 xanri   12
@@ -596,7 +596,7 @@ xedja   11
 xekri   12
 xirma   16
 xislu   17
-xlali   22
+xlali   23
 xrani   17
 xriso   13
 xrula   21
