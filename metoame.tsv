@@ -693,6 +693,7 @@ ceoqhıushoe	dicflecru	$c_1$ is a transistor / electrical regulator which allows
 ceoqjuodıeqbeaq	dicnoibejga'a	$g_1$ is a telegraph pole.
 ceoqchue	dicre'e	$t_1$ is an electric train [vehicle] of cars/units $t_2$ (mass) for rails/system/railroad $t_3$, propelled by electric motors/systems $t_4$
 ceoqjeaqtuakea	dicyba'ogaumi'i	$m_1=g_1$ is an electronic amplifier.
+ceoqcheoq	dicybo'i	$x_1$ is a lightbulb/light bulb made of $x_2$
 ceoqcıa	dicycau	$d_1=c_1$ is electrically uncharged.
 ceoqjıeq	dicyji'o	$x_1=j_1$ is an electrode of circuit/electric machinery/electronic component $x_2=j_2$ at locus $x_3=j_3$
 jıome	dijgunma	$x_1=g_1$ is a complex composed of buildings $x_2=g_2=d_1$ for purpose $x_3=d_2$
@@ -1153,6 +1154,7 @@ sahubudua	jifnarju'o	$x_1$ does not know that fact(s) $x_2$ (du'u), which are ab
 sahupaılaı	jifpedle'u	$x_1$ is a "false friend" (letter/symbol in a different writing system that looks similar, but differs significantly in meaning) to $x_2$, in alphabet/character-set $x_3$ representing $x_4$
 sahupaıtoa	jifpedvla	$x_1$ is a "false friend" (word in different language that looks or sounds similar, but differs significantly in meaning) to $x_2$, meaning $x_3$ in language $x_4$.
 sahuduaruaq	jifyjunxu'a	$x_1$ knowingly claims lie $x_2$ (du'u), false/untrue by standard/epistemology/metaphysics $x_3$
+sahugımoı	jifyzanpei	$x_1$ romanticizes $x_2$ (event/state). $x_1$ views/thinks of $x_2$ in a way that is unrealistically positive or idealized.
 soaopoe	jiksei	$s_1=j_1$ is aloof/alone/solitary/a hermit, separated from $s_2=j_1$.
 soaogom	jiksre	$s_1$ commits faux pas (social error) $s_2$, which is wrong under conditions $s_3$ according to standard $s_4$.
 soaoruo	jiktra	$x_1=t_1=j_1$ behaves/conducts themself as/in-manner $x_2=t_2$ when interacting/behaving socially with $x_3=j_2$
@@ -1268,6 +1270,7 @@ luaqsoqluaq	keijvi	$x_1$ competes/vies with opponent $x_2$ in game $x_3$
 luaqgıam	keirmu'u	$x_1$ is a moving piece used in a game $x_2$.
 luaqtoq	keirta'o	$x_1$ is a board used for playing the game $x_2$.
 luaqdoem	kelci'e	$x_1$ is a game played by $x_2$ governed by rules $x_3$ interrelating game parts (physical or conceptual) $x_4$.
+luaqkatame	kelkardygri	$x_1$ is deck of playing cards $x_2$.
 luaqgam	kelkubli	$ku_1$ is a die/are dice for game $x_2$ with surfaces/sides $ku_3$ (default 6).
 luaqmaı	kelpa'i	$k_1=p_1$ feels playful love towards $k_2=p_2$.
 moma'aıpı	kercrida	$x_{1}$ is a fairy with fairy mythos $x_{2}$.
@@ -1315,7 +1318,6 @@ fatua	klagau	$x_1$ brings $x_2$ to $x_3$
 fahuaq	klamau	$z_1$, more than $z_2$, goes to $k_2$ from $k_3$ via $k_4$ by means of $k_5$.
 fasue	klami'e	$m_1$ summons $m_2=k_1$ to $k_2$ from $k_3$ via route $k_4$.
 famuo	klamu'o	$x_1=k_1=m_1$ arrives at $x_2=k_2$ from $x_3=k_3$ by route $x_4=k_4$ with transportation means $x_5=k_5$ by completion standard $x_6=m_3$
-fasuaı	klasutra	$s_1=k_1$ scurries to $k_2$ from $k_3$ through $k_4$ by means $k_5$
 fachıa	klatcu	$x_1$ needs to go to location $x_2$ for purpose/action $x_3$
 cıaobuıshatı	klubarcreka	$c_1=b_1=k_1$ is a jumper of material $c_2$.
 cıaorıoq	klulei	$x_1=ku_1=kl_1$ is a cultural subset within a larger culture $x_2=kl_2$ with defining property $x_3=ku_2=kl_3$.
@@ -2069,6 +2071,7 @@ poqsheıtı	prezi'ezva	$j_1$ is a human right for $z_1=p_1$ to do $z_2$ (event/s
 pugaıcheu	prugastcica	$x_1$ (event) causes déjà-vu to $x_2$ (person) using sense $x_3$ under conditions $x_4$
 pujaı	prugei	$x_1$ looks forward, is in joyful anticipation of $x_2$ (proposition) being the case.
 puduatua	prujungau	$x_1$ predicts/foretells/anticipates to $x_2$ fact(s) $x_3$ (du'u) about subject $x_4$ by epistemology $x_5$.
+pu'ıq	prukai	$c_1$ is old-fashioned, outdated, antiquated in property $c_2$
 puleaq	prula'i	$p_1=l_1$ is preceding $p_2=l_2$ in sequence $l_3$.
 puleaqjue	prula'ima'i	$m_1=p_1=l_1$ is the previous month; $m_1=p_1=l_1$ is the month before $p_2=l_2$, month standard $m_3$.
 puleaqnuaq	prulamcte	$n_1=l_1=p_1$ is the night before $p_2=l_2$ at location $n_3$.
