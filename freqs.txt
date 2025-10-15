@@ -133,7 +133,7 @@ cuxna   29
 da   15
 dacti   11
 dakfu   19
-dakli   15
+dakli   18
 damba   20
 dandu   20
 danlu   38
@@ -184,10 +184,10 @@ finti   20
 flalu   25
 flecu   20
 fliba   19
-flira   12
+flira   13
 foldi   16
 fonxa   11
-frati   14
+frati   15
 frica   12
 friko   15
 frili   16
@@ -196,10 +196,10 @@ fuzme   20
 gacri   32
 galfi   13
 galtu   20
-ganse   28
+ganse   29
 gapci   12
 gapru   10
-gasnu   308
+gasnu   309
 gerku   19
 gerna   15
 girzu   37
@@ -207,8 +207,8 @@ gismu   10
 glare   30
 gleki   20
 gletu   47
-glico   16
-grana   42
+glico   17
+grana   43
 grasu   12
 greku   12
 grute   18
@@ -223,7 +223,7 @@ ja   15
 jadni   20
 jai   22
 jalge   11
-jamfu   18
+jamfu   20
 jamna   20
 jarco   11
 jatna   25
@@ -255,7 +255,7 @@ jinvi   20
 jipno   22
 jitfa   14
 jitro   31
-jivna   25
+jivna   26
 jmive   49
 joi   24
 jorne   31
@@ -310,7 +310,7 @@ lanme   11
 lanzu   19
 larcu   20
 lenku   10
-lerfu   41
+lerfu   42
 lidne   10
 lifri   28
 lijda   19
@@ -372,7 +372,7 @@ na'e   108
 nakni   23
 nalci   10
 namcu   48
-nanba   20
+nanba   21
 nanca   21
 nandu   10
 nazbi   16
@@ -388,7 +388,7 @@ nitcu   16
 no   46
 no'e   25
 nobli   27
-notci   27
+notci   28
 nu   127
 nupre   11
 pa   73
@@ -397,7 +397,7 @@ pagbu   60
 pagre   18
 pajni   28
 palci   10
-panci   11
+panci   12
 panra   11
 panzi   12
 pe'a   25
@@ -460,7 +460,7 @@ sarxe   11
 saske   115
 savru   10
 sazri   16
-se   643
+se   644
 sefta   15
 selci   66
 selfu   20
@@ -539,11 +539,11 @@ tcita   10
 te   247
 temci   52
 tenfa   11
-terpa   22
+terpa   23
 tirna   15
 tisna   10
 titla   11
-to'e   202
+to'e   203
 tonga   28
 tordu   13
 traji   88
@@ -574,7 +574,7 @@ vikmi   16
 vimcu   23
 vinji   16
 viska   25
-vlile   12
+vlile   13
 vlipa   10
 vo   19
 vofli   15
@@ -588,7 +588,7 @@ xadni   31
 xalka   10
 xamgu   30
 xamsi   20
-xance   49
+xance   50
 xanri   12
 xarci   24
 xe   20
@@ -621,7 +621,7 @@ zifre   27
 zirpu   14
 zmadu   80
 zu'o   12
-zukte   65
+zukte   66
 zunti   10
 zutse   15
 zvati   25
