@@ -844,7 +844,7 @@ lıqjaqsao	fetytcebra	$f_1=b_1=m_1$ is a huge/enormous/very big female being in 
 afarı'usona	fi'ormerko	$x_1$ pertains to African-American culture in aspect $x_2$.
 afarıdueq	fi'ortu'a	$f_1=t_1$ is Africa.
 heosho	ficybi'o	$b_1$ becomes different/changes/transforms from $f_2$ in property/dimension/quantity $f_3$ under conditions $b_3$.
-luakue	fikcku	$cu_1=cf_1$ is a fictional book about plot/theme/subject $cf_1$ by author $cu_3=cf_3$ for audience $cu_4$ preserved in medium $cu_5$.
+luakue	fikcku	$cu_1=cf_1$ is a book containing a work of fiction $cu_2=cf_1$ by author $cu_3=cf_3$ for audience $cu_4$ preserved in medium $cu_5$.
 fuıtua	filgau	$g_1$ [person/agent] causes $f_1$ to be easy for $f_2$ under condition(s) $f_3$.
 fuıhuaq	filmau	$z_1=f_1$ (action) is easier than $z_2$ (action) for $x_3=f_2$ (agent) by amount $z_4$ under conditions $x_5=f_3$.
 fuısoq	filrai	$x_1$ is the easiest among $x_2$
@@ -939,6 +939,7 @@ gaoguq'onuq	gapnitfa'e	$x_1$ is upside-down
 gaıfuı	gasfrili	$x_1$ is obvious/easy to notice for $x_2$
 gaıkıaq	gaskre	 $k_1=g_3$ is a/are the whisker(s)/sensory hair(s) /vibrissa(e) attached to $k_2=g_1$ at body part $k_3$ for the detection of stimuli $g_2$ under conditions $g_4$.
 gaıcheu	gastcica	$x_1$ (event) is an illusion that deceives/tricks $x_2$ into sensing $x_3$ using sense $x_4$ under conditions x5
+gaıbeaq	gasyga'a	$x_1$ is an antenna/antennae of creature $x_2$
 gaırugıamtue	gasyjvemu'utcini	$x_1$ is the sensori-motor stage as experienced by child $x_2$
 tuachoq	gaupli	$x_1$ uses $x_2$ for bringing about $x_3$ (event)
 tuadom	gaurcando	$x_1=c_1=g_1$ is passive / inactive / non-acting / [idle] of actions $x_2=g_2$.
@@ -1184,6 +1185,7 @@ shoemsıqja	jirlu'i	$l_1$ (agent) bathes $l_2=j_1$ in liquid $j_2=l_4$.
 shoemtaqsıqja	jirsezlu'i	$x_{1}$ is a wash-washed-immerse with removed by washing-immersed in $x_{2}$.
 mıusho	jivbi'o	$b_1=j_1$ comes to the conclusion that $j_2$ [opinion] (du'u) is true about subject/issue $j_3$ on grounds $j_4$, under conditions $b_3$.
 mıutua	jivgau	$x_1$ suggests that $x_2$ think $x_3$ (assertion); $x_1$ makes $x_2$ think $x_3$ (assertion)
+pueceasoqluaq	jmadaklyjvi	$j_1$ plays a game of footbag/hacky sack against $j_2$ in competition $j_3$ for gain/prize $j_4$
 puecheıpıu	jmadegycalku	$c_1$ is a toenail of toe $c_2=d_1$ of body $d_3$.
 pueseaq	jmagle	$g_1$ masturbates/fucks $g_2$ with her/his feet.
 pueguq	jmani'a	$j_1$ is a sole (part of foot) of $j_2$.
@@ -2650,6 +2652,7 @@ gıqfaqgıqdaı	tolfautolcu'i	under conditions $x_2$, it is not possible that $x
 gıqcuashına	tolfragapci	$x_1=t_1=g_1$ is inert gas of material/composition including $x_2=g_2$, under conditions $x_3=g_3$.
 gıqjaı	tolgei	$g_1$ is gloomy/downcast/unhappy about $g_2$ (event/state).
 gıqjaıjaq	tolgeitce	$m_1=g_1$ is miserable/in dispair about $g_2$ (event/state).
+gıq'ıqlı	tolgli	$x_1$ is related to Vötgil in aspect $x_2$
 gıqse	tolja'e	The negation of $x_1$ (event/state) is a result/outcome/conclusion of antecedent $x_2$ (event/state). $x_1$ is prevented by $x_2$.
 gıqjıaı	toljgari	j$_1$ lets go/releases $j_2$ from $j_3$ (part of j1) at locus $j_4$ (part of j2).
 gıqsı	tolju'i	$x_1$ avoids/ignores/directs attention away from object/affair $x_2$.
@@ -2872,6 +2875,7 @@ muqkıoq	xanboi	$x_{1}$ is a ball with ball material $x_{2}$.
 muqcheıjıeq	xandegji'o	$x_1$ is a fingertip of finger $x_2$ of hand $x_3$ of body $x_4$
 muqcheıpıu	xandegycalku	$c_1$ is a fingernail of finger $c_2=d_1$ of body $d_3$.
 muqnuaı	xandi'i	$x_1$ is cash
+muqshomcua	xanfirfra	$x_1$ facepalms in reaction to $x_2$
 muqjıaıcheo	xanjaisi'u	$s_1$ hold hands/are hand-in-hand.
 muqnhe	xanlai	$x_1$ is $x_2$ handfuls in volume/amount (default is 1) by standard $x_3$.
 muqlaılaı	xanle'ule'u	$xl_{1}$ (la'e zo BY/word-bu) is a fingerspelling sign in character-set of sign language/system of manual communication $xl_{2}$ representing letter/digit/symbol $xl_{3}$=$l_{1}$ in written alphabet/character-set $xl_{2}$ performed by hand(s) $xl_{4}$.
