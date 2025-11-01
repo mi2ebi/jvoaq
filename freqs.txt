@@ -102,7 +102,7 @@ cladu   10
 clani   46
 claxu   70
 cliva   16
-cmalu   74
+cmalu   76
 cmana   18
 cmavo   20
 cmene   46
@@ -146,7 +146,7 @@ datni   17
 degji   35
 dekto   17
 denci   30
-denmi   13
+denmi   12
 denpa   17
 dertu   14
 detri   25
@@ -477,7 +477,7 @@ sinma   14
 sinxa   32
 sipna   20
 sisti   24
-skami   101
+skami   102
 skapi   10
 skari   35
 skicu   13
@@ -568,7 +568,7 @@ vanju   12
 vasru   28
 vasxu   31
 ve   79
-vecnu   26
+vecnu   28
 verba   14
 vikmi   16
 vimcu   23
@@ -588,7 +588,7 @@ xadni   31
 xalka   10
 xamgu   30
 xamsi   20
-xance   50
+xance   49
 xanri   12
 xarci   24
 xe   20

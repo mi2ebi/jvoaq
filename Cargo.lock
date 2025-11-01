@@ -596,9 +596,9 @@ dependencies = [
 
 [[package]]
 name = "latkerlo-jvotci"
-version = "2.4.0"
+version = "2.4.2511"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "2434b8f077246d6304c1ad9df8daa3fb71eacd359a73be256265a582d0f5b51d"
+checksum = "81133e11712e836989be40f06db7bdc863b7bafb6175ea802a560208c0138abc"
 dependencies = [
  "indexmap",
  "itertools",
