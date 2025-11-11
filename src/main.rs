@@ -1,4 +1,4 @@
-#![allow(clippy::cargo)]
+// this code is horrible. beware
 
 use std::{collections::HashMap, fs, str::FromStr as _, sync::LazyLock, time::Duration};
 
@@ -61,7 +61,7 @@ fn main() -> Result<(), ()> {
         .iter()
         .map(|(valsi, n)| (valsi.clone(), *n))
         .sorted_by_key(|(valsi, _)| valsi.clone())
-        .filter(|(_, n)| n >= &10)
+        .filter(|(_, n)| *n >= 10)
         .collect_vec();
     let mut freqs_string = String::new();
     for freq in freqs {
@@ -139,7 +139,7 @@ fn main() -> Result<(), ()> {
         .map(|word| nonletter.replace_all(word, "").to_string())
         .collect_vec();
     let x_n = Regex::new(r"^[a-z]+_?\{?\d+\}?$").unwrap();
-    let cmavrnu_liho = Regex::new("^(nu|ka|(se)?duu|sio|lue|lii?|zo|jou)$").unwrap();
+    let cmavrnu_liho = Regex::new("^(nu|ka|(se)?duu|sio|lue|lii?|zo|jou|zei|kee)$").unwrap();
     let ohno = words
         .iter()
         .filter(|word| {
@@ -156,13 +156,14 @@ fn main() -> Result<(), ()> {
         + "a{color:blueviolet}"
         + "b{color:red}"
         + "th,td{text-align:left;vertical-align:top;padding-top:0.3lh}"
-        + ".gray{color:gray}"
+        + ".gray{opacity:50%}"
         + "math{font-family:'fira math','noto sans math','stix two math',math}"
         + "p:has(#nogray:checked)~table .gray{display:none}"
         + "@media(prefers-color-scheme:dark){"
         + "html{background:black;color:white}"
         + "b{color:orange}"
         + "a{color:turquoise}"
+        + ".gray{opacity:75%}"
         + "}</style>"
         + "<script src='temml/dist/temml.min.js'></script>"
         + "</head>\n"
@@ -178,36 +179,40 @@ fn main() -> Result<(), ()> {
         + "a big hashmap</a>"
         + "<br/>"
         + "<input type='checkbox' id='nogray'/><label for='nogray'>hide gray entries</label></p>\n"
-        + &format!(
-            "<table>\n{}\n</table>",
-            metoame
-                .iter()
-                .map(|(metoa, lujvo, def)| {
-                    let bolded = def
-                        .split(' ')
-                        .map(|word| {
-                            word.split('/')
-                                .map(|word2| {
-                                    if !word2.contains('$')
-                                        && ohno.contains(
-                                            &&nonletter.replace_all(word2, "").to_string(),
-                                        )
-                                    {
-                                        format!("<b>{word2}</b>")
-                                    } else {
-                                        word2.to_string()
-                                    }
-                                })
-                                .join("/")
-                        })
-                        .join(" ");
-                    format!(
-                        "<tr{}><th>{metoa}</th><td>{lujvo}</td><td>{bolded}</td></tr>",
-                        if bolded.contains("<b>") || def.is_empty() { "" } else { " class='gray'" }
-                    )
-                })
-                .join("\n")
-        )
+        + "<table>\n"
+        + &metoame
+            .iter()
+            .map(|(metoa, lujvo, def)| {
+                let bolded = def
+                    .split(' ')
+                    .map(|word| {
+                        word.split('/')
+                            .map(|word2| {
+                                if !word2.contains('$')
+                                    && ohno.contains(&&nonletter.replace_all(word2, "").to_string())
+                                {
+                                    format!("<b>{word2}</b>")
+                                } else {
+                                    word2.to_string()
+                                }
+                            })
+                            .join("/")
+                    })
+                    .join(" ");
+                "<tr".to_string()
+                    + if bolded.contains("<b>") || def.is_empty() { "" } else { " class='gray'" }
+                    + "><th>"
+                    + metoa
+                    + "</th><td><a href=\"https://xlasisku.github.io/?q="
+                    + lujvo
+                    + "\">"
+                    + lujvo
+                    + "</a></td><td>"
+                    + &bolded
+                    + "</td></tr>"
+            })
+            .join("\n")
+        + "\n</table>"
         + "<script>"
         + "temml.renderMathInElement(document.body,{delimiters:[{left:'$',right:'$'}]})"
         + "</script>"
