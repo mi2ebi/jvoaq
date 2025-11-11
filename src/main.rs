@@ -200,14 +200,13 @@ fn main() -> Result<(), ()> {
                     })
                     .join(" ");
                 "<tr".to_string()
-                    + if bolded.contains("<b>") || def.is_empty() { "" } else { " class='gray'" }
-                    + "><th>"
-                    + metoa
-                    + "</th><td>"
+                    + if bolded.contains("<b>") || def.is_empty() { ">" } else { " class='gray'>" }
+                    + &format!("<th>{metoa}</th>")
+                    + "<td>"
                     + &format!("<a href=\"https://xlasisku.github.io/?q={}\">{0}</a>", lujvo)
-                    + "</td><td>"
-                    + &bolded
-                    + "</td></tr>"
+                    + "</td>"
+                    + &format!("<td>{bolded}</td>")
+                    + "</tr>"
             })
             .join("\n")
         + "\n</table>"
