@@ -147,7 +147,7 @@ fn main() -> Result<(), ()> {
         })
         .collect_vec();
     println!("\x1b[92m{}\x1b[m of them aren't in toadua", ohno.len());
-    #[allow(clippy::literal_string_with_formatting_args)]
+    #[allow(clippy::literal_string_with_formatting_args, clippy::uninlined_format_args)]
     let html = "<!doctype html><html><head>".to_string()
         + "<meta name='viewport' content='width=device-width,initial-scale=1'/>"
         + "<style>"
@@ -203,11 +203,9 @@ fn main() -> Result<(), ()> {
                     + if bolded.contains("<b>") || def.is_empty() { "" } else { " class='gray'" }
                     + "><th>"
                     + metoa
-                    + "</th><td><a href=\"https://xlasisku.github.io/?q="
-                    + lujvo
-                    + "\">"
-                    + lujvo
-                    + "</a></td><td>"
+                    + "</th><td>"
+                    + &format!("<a href=\"https://xlasisku.github.io/?q={}\">{0}</a>", lujvo)
+                    + "</td><td>"
                     + &bolded
                     + "</td></tr>"
             })
