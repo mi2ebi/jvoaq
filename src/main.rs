@@ -235,7 +235,7 @@ static TOAQIZER: LazyLock<HashMap<&str, &str>> = LazyLock::new(|| {
         ("bajra", "jara"),
         ("bakni", "guobe"),
         ("balvi", "bıe"),
-        // ("bancu", ""),
+        ("bancu", "cuao"),
         ("bandu", "leoq"),
         ("bangu", "zu"),
         ("banli", "suoı"),
@@ -281,7 +281,9 @@ static TOAQIZER: LazyLock<HashMap<&str, &str>> = LazyLock::new(|| {
         ("cacra", "hora"),
         ("cadzu", "koı"),
         ("calku", "pıu"),
-        ("cando", "dom"), // suo, dom
+        ("cando", "suo"),
+        // suo: on but doing nothing
+        // dom: off
         // ("cange", ""),
         ("canko", "chuao"),
         ("canlu", "goa"),
@@ -821,7 +823,7 @@ static TOAQIZER: LazyLock<HashMap<&str, &str>> = LazyLock::new(|| {
         ("zarci", "dıem"),
         ("zasti", "jıq"),
         ("zbasu", "baı"),
-        ("zdani", "bua"),
+        ("zdani", "bue"),
         ("zdile", "luaı"),
         ("zekri", "jucıte"),
         ("zenba", "jeaq"),
