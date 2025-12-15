@@ -100,7 +100,7 @@ ckule   20
 ckunu   10
 cladu   10
 clani   46
-claxu   71
+claxu   70
 cliva   16
 cmalu   76
 cmana   18
@@ -453,7 +453,7 @@ rupnu   18
 rutni   10
 sakci   12
 salci   25
-sance   56
+sance   55
 sanga   16
 sanji   17
 sanmi   17
