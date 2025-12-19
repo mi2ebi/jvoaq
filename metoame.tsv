@@ -67,7 +67,7 @@ zusaıme	banxre	$x_1$ is a code-switched mixture of languages $x_2$, used by $x_
 zubarua	banzgu	Exact meaning uncertain, probably something like $b_1$ is a language-rose.
 buıhıe	barbei	$x_1$ exports $x_2$ to $x_3$ from $x_4$ via $x_5$.
 buıshatı	barcreka	$c_1=b_1$ is a jacket of material $c_2$.
-buı'onuq	barfa'e	$f_1$ is inside-out, with part(s) $b_1$ currently on the outside.
+buınuq'o	barfa'e	$f_1$ is inside-out, with part(s) $b_1$ currently on the outside.
 buıhıu	barfle	$x_1$ is a stream of $x_2$ flowing out of $x_3$.
 buıgaı	barga'e	$x_1$ (observer/perceiver) senses external stimulus $x_2$ via means $x_3$ (sense/sensor) under conditions $x_4$; $x_3$ is a sense organ/exteroperceptor used to observe $x_2$ which is outside the observer $x_1$ under conditions $x_4$.
 buırıa	barkalri	$x_1$ is an exit/outlet/way out of $x_2$ for $x_3$.
@@ -141,6 +141,7 @@ bıaleu	bi'arlitki	$l_1$ is pus of composition $l_2$ from disease $b_3$.
 bıamoıchudıu	bi'armenske	$s_1$ (mass of facts) is the psychiatry of subject matter $s_2$ based on methodolgy $s_3$.
 apıhaq	bicydja	$c_1$ is honey from bees $b_1$ of species $b_2$.
 apıtıuq	bicysakta	$x_1=s_1$ is honey from flower $x_2=s_2$ of composition $x_3=s_3$.
+ıruedem	bifca'e	$c_1=b_2$ (agent) blows $c_2$.
 ıruecıa	bifcau	$c_1$ is still/without wind.
 apıhaq	bifcycidja	$x_1$ is a bee food
 ıruehuao	bifkluza	$k_1$ (object) is fluttering on $k_2$ (object) at locus $k_3$.
@@ -183,6 +184,7 @@ gamgam	blikubli	$k_1=b_1$ is a regular polyhedron [3 dimensional] with sides/sur
 gamfuaq	blixra	$p_1$ is a relief/embossment representing/showing $p_2$, made by artist $p_3$, on material $b_2$.
 meaqmeaqmeaqmeaq	bloblobloblo	$x_0$: word used to test the efficiency of a lujvo-building computer program. (nullary predicate)
 meaqsueqnaotoq	blobonjacta'o	$t_1=d_1=bo_1=bl_2$ is a wakeboard  of material/property $t_2$.
+meaqdembeaq	bloca'ega'a	$g_1=c_2=b_3$ is a punting pole made of $g_2$ pushed by $c_2$ in boat $b_1$.
 meaqbagabeaq	blocpuga'a	$g_1=l_2=b_3$ is an oar made of $g_2$ pulled by $l_2$ in boat $b_1$.
 meaqshaq	blocra	$c_1$ is a prow of boat/ship $c_2=b_1$, boat for carrying $b_2$, propelled by $b_3$.
 meaqfeobeaq	blofarga'a	$g_1$ is the tiller made of $g_2$ of boat/ship $f_2=b_1$.
@@ -243,6 +245,7 @@ saokato	bramlatu	$x_1$ is a big cat of Family Felidae of species $x_2$
 saosokumnhe	bramuclai	$k_1$ is measured as $k_2=s_1=b_1$ (quantifier) tablespoon(s).
 saokero	branimre	$x_1$ is a grapefruit/shaddock/pomelo of variety $x_2$.
 saopaqmetoa	brapagjvo	$x_1$ (text) is a lujvo with meaning $x_2$ and arguments $x_3$, and which is constructed from tanru/veljvo $x_4$ such that at least one element of the veljvo is ultimately not a cmavo (including "{zei}", "{ke}"/"{ke'e}", "{bo}", etc.), gismu, or rafsi of such cmavo or gismu.
+sao'aomo	braplu	$d_1=b_1$ is a continent in ocean/on planet $d_3$.
 saosoq	brarai	$t_1=b_1$ is the biggest among set/range $t_4$ in property/dimension $b_2$ (ka).
 saopıo	braro'i	$r_1$ is a boulder/big rock of type/composition $r_2$ from location $r_3$, big as compared with standard/norm $b_3$.
 saojaqkepa	bratcesluni	$x_1$  is a Giant onion (Allium giganteum) of variety/breed $x_2$.
@@ -278,11 +281,15 @@ laıtoa	bu'ivla	$x_1$ (quoted text) is a “bu letteral” of character $x_2$ (z
 gueqbue	bu'uzda	$z_1$ is a tent inhabited by $z_2$, made of $b_2$.
 gueqshua	bukfa'u	$f_1$ parachutes to $f_2$ from $f_3$ using parachute of type/material $b_2$.
 gueqdeaqtıe	buklolgai	$g_1=b_1$ is a carpet/rug for covering floor $g_2=l_1$ of $x_3=l_2$, of type/material $x_4=b_2$.
+gueqmara	bukmapra	$x_1$ is a quantity of lint (short fluffy fibrous material) of composition $x_2$
 gueqjıo	bukydi'u	$z_1$ is a tent for purpose $z_2$, made of $b_2$.
 gueqlıaı	bukyvoi	$v_1$ paraglides, using paraglider of type/material $b_2$.
+tıaqnam	burnanba	$n_1$ is brown bread made from grains $n_2$.
 keasuotua	ca'arcadgau	$g_1$ (agent) turns device/apparatus $g_2=cab_1=can_1$ off.
 keasuo	ca'arcando	$cab_1=can_1$ (device/apparatus) is off / not operational.
 keacıa	ca'arcau	$cl_1$ is unaided by/without apparatus/mechanism/device/equipment $ca_1=cl_2$ for function $ca_2$ controlled/triggered by $ca_3$ (agent).
+dem'ırue	ca'erbi'e	$b_1=c_2$ is a wind from direction $b_2$ with speed $b_3$, shoving/pushing $c_2$ at locus $c_3$.
+demgıamtua	ca'ermuvgau	$g_1=c_1$ pushes $m_1=c_2$ to destination $m_2$ from origin $m_3$ over path/route $m_4$.
 cuesue	ca'icpe	$cp_1=ca_2$ demands $cp_2=ca_2$ from $cp_3$.
 cueshoe	ca'icru	$cu_1=ca_1$ (agent) permits/lets/allows $cu_2$ (event) under conditions $cu_3$, derived from authority on basis $ca_3$.
 cueboq	ca'irfanta	$f_1$ censors/suppresses event $f_2$ from occurring.
@@ -306,6 +313,7 @@ naıshotua	cabybixygau	$x_1=g_1$ updates / makes current $x_2=b_1$ to $x_3=c_2$;
 naıdıo	cabydo'i	$d_1 = c_1 = x_1$ is the today daytime period of $c_2 = x_2$ at location $n_3 = x_3$.
 naıfaq	cabyfau	$c_1=f_1$ is live (experienced as it happens) to experiencer $c_2$.
 naıtue	cabytcini	$x_1$ is the status quo/current state of $x_2$
+horamınudaqmoa	cacryme'utcika	$x_1$ (number) is the minute/minute notation of the hour, of event/state $x_2$, in system $x_3$.
 suotua	cadgau	$x_{1}$ is a do-idle.
 suokaqsı	cadycta	$cat_1=can_1$ is a lurker/inactively watches $cat_2$
 suoluaq	cadykei	$k_1=c_1$ (agent) idly plays with plaything/toy $k_2$.
@@ -327,6 +335,7 @@ pıusoı	cakyda'a	$x_1=d_1$ is an armoured fighter protected by armuor/shell $x_
 pıulıempıu	cakyjmepi'a	$p_1=j_3=c_3$ is mother of pearl from source $p_2=c_2$.
 pıuchao	cakykarce	$k_1=c_2$ is a tank/armored combat vehicle for carrying $k_2$, propelled by $k_3$, with armor-plating $c_1$.
 pıusaoro	cakyrespa	$x_1$ is a turtle of species $x_2$.
+goadesımeta	caldectre	$c_1=d_1=m_1$ (space/volume/region/room) is $d_2=m_2$ cubic decimetres/decimeters ($m^3$) measured in perpendicular directions (triple)/defined by set of points (set)/occupied by $c_2=m_3$ by standard $m_4$.
 goarudaq	caljvetei	$c_1=t_1$ is space-time occupied by $c_2$. 
 goaromfuaq	calsamxra	$x_1$ is a 3D model and "depicts" $x_2$.
 goatoaı	calsle	$x_1$ is a voxel of model/object $x_2$
@@ -335,6 +344,7 @@ goateısıu	caltaismi	$x_1$ is shaped (physically/geometrically) like $x_2$, wit
 goacheupamgıo	calticprigu'i	$p_1$ is a hologram/holograph on surface $p_2$ or projected from radiation source $g_3$ ; $p_1$ is holographic
 goameta	caltre	$c_1=m_1$ (space/volume/region/room) is $m_2$ cubic metres/meters ($m^3$) measured in perpendicular directions (triple)/defined by set of points (set)/occupied by $c_2=m_3$ by standard $m_4$.
 caıbao	camblabi	$x1$ is white
+caıruoı	camcinla	$x_{1}$ is a thin with thinness direction $x_{2}$ with thinness standard $x_{3}$ with find intense $x_{4}$.
 caınea	camganra	$g_1=c_1$ is vast/very wide in (2nd most significant) dimension $g_2=c_2$ with observer $g_3=c_3$.
 caıjaı	camgei	$g_1$ is intensely happy about $g_2$.
 caıcueqca	camgubri'a	$r_1$ hypes $r_2=g_1=c_1$.
@@ -439,6 +449,7 @@ bemguobe	cifybakni	$b_1=c_1$ is/are (a) calf/calves [infant cattle/beef-producer
 bemlua	cifylisri	$l_1$ is a children's story about plot/subject/moral $l_2$ by storyteller $l_3$ to audience $l_4$.
 shıetua	cikygau	$g_1$ (person/agent) wakes up $c_1$.
 cuaı'asaı	cimde'u	$d_1=c_1$ is a quantity of/contains/is made of mud from source $d_2$ of composition $d_3$, moist due to liquid $c_2$.
+cuaıpuao	cimdilnu	$x_{1}$ is a cloud with cloud material-moisture $x_{2}$ with cloudy $x_{3}$ with cloud base [elevation] $x_{4}$.
 cuaıshoemfuq	cimjirta'u	$t_1$ is a wet suit for wearing by $t_2=j_1=c_1$ in liquid $j_2=c_2$.
 cuaımetoa	cimjvo	$l_1$ is an implicitly metaphorical lujvo with meaning $l_2$ and arguments $l_3$ built from metaphor $l_4$.
 mıqdaq	cimnytei	$t_1=c_1$ is an eternity.
@@ -460,6 +471,8 @@ sejesoao	cinjikca	$j_1=c_1$ courts/flirts with $j_1$, exhibiting sexuality/gende
 chomchuq	cinkycti	$x_1$ eats/ingests/consumes insects/arthropods of species $x_2$.
 chomchuqnıu	cinkyctispa	$cit_1=s_1$ is a insectivorous plant of species $s_2$, eating insects/arthropods of species $cin_2=cit_2$.
 chomnueq	cinkyre'u	$r_1$ is arthropod meat (body-parts regarded as edible) from species/breed $r_2=c_2$.
+ruoınhoq	cinlysko	$s_1$ is a string of $s_2$ material.
+ruoıjeaq	cinlyze'a	$z_1=c_1$ becomes thinner in direction/dimension $c_2$ by amount $z_3$.
 sejede	cinmle	$m_1=c_1$ is sexy/hot/attractive to $m_2$ in aspect $m_3$ by standard $m_4=c_4$.
 sejemaı	cinpa'i	$x_1$ feels romantic/intimate/sexual love [eros] toward $x_2$
 sejemaıpaı	cinpampe'o	$x_1$ is a [significant other/boyfriend/girlfriend] to $x_2$
@@ -543,6 +556,7 @@ nuınaraqkero	cmanajnimre	$x_1$ is a Mandarin orange/tangerine/Citrus reticulata
 nuınam	cmananba	$n_1$ is a roll/bun/biscuit/bun made from grains $n_2$.
 nuıpaqmetoa	cmapagjvo	$x_1$ (text) is a lujvo with meaning $x_2$ and arguments $x_3$, and which is constructed from tanru/veljvo $x_4$ such that each element of the veljvo is ultimately only a cmavo (including "{zei}", "{ke}"/"{ke'e}", "{bo}", etc.), gismu, or rafsi of such cmavo or gismu.
 nuınıuboebarua	cmapezyzgu	$r_1$ is a  small-leafed/Baja rose (Rosa minutifolia) of species/strain $r_2$.
+nuıborecefa	cmapinflani	$x_{1}$ is a small-flute.
 nuısoq	cmarai	$t_1=c_1$ is the smallest among set/range $t_4$ in property/dimension $c_2 $(ka). 
 nuıhıu	cmari'e	$r_1$ is a creek/stream in land mass $r_2$, draining watershed $r_3$ into $r_4$/terminating at $r_4$.
 nuıpıo	cmaro'i	$c_1=r_1$ is a small rock of type $r_2$ from location $r_3$, small by standard $c_3$. $c_1$ is gravel.
@@ -575,6 +589,7 @@ beoqseao	cmuxu'i	$x_1$ is an element of kind $x_2$ with purity $x_3$.
 moemoe	cnicni	$x_1$ feels $x_2$ (ka) about $x_3$ feeling $x_4$ (ka) about $x_5$
 moejao	cnida'o	$d_1=c_1$ is far/distant from $d_2$ in feeling $d_3=c_2$.
 moe'ıjo	cnija'o	$j_1=c_1$ shows emotion $j_2=c_2$ (ka) about $c_3$ to audience $j_3$.
+moejueq	cnijicla	$j_1=c_3$ excites $j_2=c_1$.
 moechı	cnikri	$x_1$ emotionally believes $x_2$ (du'u) about subject $x_3$
 moelaıcua	cnilerfra	$x_1$ 'reacts' with emoji $x_2$ ({ci'e'u}) to message/post $x_3$
 moedoetoa	cnima'o	$v_1$ is an interjection/attitudinal meaning $v_2=c_1$ in language $v_3$.
@@ -680,6 +695,7 @@ soıpıu	dabycalku	$c_1$ is armor around $c_2$ composed of $c_3$ against opponen
 soısıufaq	dabysmifau	$f_1$ (event) is a wargame, simulating combat by $d_1$ against $d_2$ over issue $d_3$ (abstract).
 soıchase	dabytadji	$t_1$ is a fighting technique / martial art used under conditions $t_3$ by $d_1$.
 beaıtua	dadgau	$g_1$ hangs/suspends $d_1$ from $d_2$ with/by means  $d_3$.
+beaıgıuq	dadgenxu	$x_1$ is a hanger for hanging $x_2$
 beaıfuom	dadgreku	$x_{1}$ is a rack used to hang $x_{2}$.
 beaıboafuq	dadne'ota'u	$t_1$ is a necktie for wearing by $t_2=c_2$ serving purpose $t_3$.
 beaıjıam	dadycatra	$c_1$ hangs/lynches $c_2=d_1$ by hanging them from/on $d_2$ by means of $d_3$.
@@ -690,6 +706,7 @@ tıeqjeoq	dagyke'a	$k_1$ is a pothole in road $d_1=k_2$.
 tıeqchoq	dagypli	$p_1$ (person) is a road user using road/highway/street/path/(square) $d_1=p_2$ for purpose $p_3$.
 tıeqrem	dagysfe	$s_1$ is pavement of road/highway $x_2=d_1$.
 tıeqlaı	dagysni	$s_1$ is a road sign meaning $s_2$ to observer/driver/pedestrian $s_3$.
+ceacefa	daklyflani	$x_1$ is a bagpipe/set of bagpipes.
 ceatuım	daklystizu	$s_1$ is a bean bag chair filled with $d_2$ and of material $d_3$
 ceachaı	daklytcati	$t_1$ is made of/contains/is a quantity of tea brewed using tea bag(s) $d_1=t_2$.
 toreamuıq	dakyxa'i	$x_1=d_1$ is a dagger / knife weapon for use against $x_2=d_2$ by $x_3$ with blade of material $d_3$.
@@ -748,6 +765,9 @@ heoruoseje	datytracinse	$c_1=t_1=d_1$ is transgender in activity/state $c_2$, ex
 deatoe	daxyka'a	$x_1$ chops $x_2$ into pieces $x_3$.
 faseozeo	debgrute	$g_1$ is a pod/legume fruit with bean/pea/leguminous seed $d_1$, from plant [legume] $d_2$.
 faseonıu	debyspa	$s_1=d_2$ is a legume/plant in the family Fabaceae (or Leguminosae) with bean(s)/pea(s)/leguminous seed(s) $d_1$, of species/strain/cultivar $s_2$.
+desımılı	decmilti	$d_1=m_1$ is ten-thousandth of $d_2=m_2$ in dimension/aspect $d_3=m_3$ (default is units).
+desıchaq	decydje	$dj1$ is $dj2$ full decidays (tenth of a day unit) in duration (default is 1 deciday) by standard $dj3$; dj1 is a metric hour
+desıdo	decydu'a	$du_1$ tithes $de_2$ to $du_3$
 cheınıaı	degda'u	$x_1$ is a tetrapod animal
 cheı'ıjo	degja'o	$j_1=d_3$ points at / points to / shows the direction of $j_2$ (object/event) to audience $j_3$ with finger $d_1$
 cheıguoteı	degmo'a	$x_1=m_1$ is the fingerprint of person $x_2=m_2$ arranged according to structure $x_3=m_3$
@@ -759,6 +779,7 @@ cheılaı	degysni	$d_3$ points at $s_2$ so that $s_3$ will notice it.
 cheıpoıba	degysrasu	$s_1$ is crabgrass/finger-grass (Digitaria) of species $s_2$
 heınıo	dekci'o	$x_1=c_1$ is a teenager by standard $x_2=c_2$
 heınıaq	dekna'a	$n1$ is $n2$ decades (10 years) in duration (default is 1 decade) by standard $n3$.
+heınhanometa	deknavytre	$x_1=m_1=n_1$ is $x_2=m_2=n_2$ ångström(s) (Å) [length unit] in length (default 1) measured in direction $x_3=m_3=n_3$ by standard $x_4=m_3$.
 heıpoqheıpua	dekpredekpu'a	$x_0$: To each their own; everyone has their own varying tastes. (nullary predicate)
 heıteureu	dektefpi'i	$x_1$ is $x_2$ times the $x_3$th power of 10 // $x_1 = x_2 \times 10^{x_3}$
 heıteu	dektenfa	$t1$ is the exponential result of base 10, or $t2$ to power/exponent $t3$.
@@ -772,6 +793,7 @@ juıtaqruq	demcarvi	$c_1=d_1$ pours to $c_2$ from $c_3$. $c_1=d_1$ is torrential
 juıtaqfahıu	demklafle	$x_1=d_1=k_1=f_1$ is a traffic jam of pedestrians/vehicles $x_2=f_2=k_5$ going to $x_3=f_3=k_2$ from $x_4=f_4=k_3$  at location/locus/route $x_5=d_3=k_4$.
 juıtaqpaq	dempau	$x_1=p_1=d_3$ is a dense part of $x_2=p_2=d_1$ selecting for highlights / in property $x_3=d_2$; $x_1$ is a concentration / thesis statement / [summary] / [overview] / [abstract] / [important component].
 juıtaqca	demri'a	$r_1$ (event/state) compacts/compresses/concentrates/packs/condenses $x_2=d_1$ in property $x_3=d_2$ (ka) at location/locus $x_4=d_3$.
+juıtaqsırı	demsilka	$x1=d1=s1$ is velvet/[dense silk] produced by $x2=s2$
 juıtaqnıu	demspa	$d_1=s_1$ is a bush of species/strain/cultivar $s_2$.
 juıtaqtuı	demtse	$z_1$ crouches/cowers/squats on surface $z_2$.
 nıoqrıe	denbi'i	$x_1=j_1$ is interdental/between the upper and lower teeth of body/person $d_2$
@@ -842,6 +864,9 @@ haqcıamuoq	djacaumro	$m_1=c_2$ starves to death from lack of food/nutrition $c_
 haqshuao	djacpi	$cip_1=cid_1$ is an edible bird of species $cip_2$.
 haqguı	djagru	$g_1=c_1$ is grain from plant/species $g_2$, edible/giving nutrition to $x_3=c_2$.
 haqleu	djalitki	$x_1$ is a beverage consisting of $x_2$
+haqbefe	djarunta	$r_1=c_1$ (food) is digested in solvent $r_2$.
+haqbefetua	djaruntygau	$g_1=c_2$ digests food $x_2=r_1=c_1$ in solvent $x_3=r_2$.
+haqbefetuaı	djaruntyrango	$ra_1$ is a stomach/digestive organ of body/species $ra_2=c_2$ for digesting food/feed/nutriment $x_3=ru_1=c_1$.
 haqkepa	djasluni	$x_1$  is a common onion/bulb onion/garden onion (Allium cepa) of variety/breed $x_2$.
 haqhea	djaspi	$s_1$ is a morsel/piece of food $s_1=c_1$ for $x_3=c_2$.
 haqtıaı	djata'e	$x_1=t_1$ is a lunch/bento (portable) box/carrier containing food $x_2=c_1=t_2$, and made of material $x_3=t_3$
@@ -850,6 +875,7 @@ chaqhoradaqmoa	djecacrytcika	$x_1$ (number) is the hour/hour notation of the day
 shaocaı	djicai	$x_1=d_1=c_1$ intensely desires/craves/[needs] $x_2=d_2$ for purpose $x_3=d_3$ as seen/observed/measured by $x_4=c_3$.
 shaorutua	djijevgau	$x_1$ (agent)'s action results in the intended result $x_2$
 shaorutua	djijvegau	$x_1$ (agent)'s action results in the intended result $x_2$
+shaoboaı	djiranda	$r_1$ indulges in act/indulgence $r_2$ under conditions $r_3$
 shaochıo	djiroi	$x_1$ happens as often as $x_2$ desires/wants/wishes in interval $x_3$
 shaokuq	djisku	$x_1$ expresses/says that they desire $x_2$ (nu/ka) to audience $x_3$ in medium $x_4$, desired for purpose $x_5$
 soajaı	djugei	$x_1=g_1=s_1$ is happy/merry/gay about helping/assisting/aiding object/person $x_2=s_2$ to do/achieve/maintain event/activity $x_3=s_3$
@@ -912,8 +938,8 @@ nıachejakuoq	dzixejbo'u	$b_1$ is a mandible/jawbone (mandibula) performing func
 koıshuao	dzucpi	$x_1 = d_1 = c_1$ is a member of the class of birds which walk/run/hop as their characteristic/primary form of locomotion, of species/taxon $x_2 = c_2$
 koıtıeqchoq	dzudagypli	$c_1=p_1$ is a pedestrian walking on road/path/surface $c_2=d_1=p_2$.
 koıchue	dzupoi	$p_1$ is a procession with participation ordered/sequenced by rules $p_2$.
-onuqtua	fa'ergau	$g_1$ inverts/reverses/turns over $f_1$ into $f_3$.
-onuqcoe	fa'erjo'e	$x_1$ is joined to $x_2$ at/by joint/location $x_3$ such that it is backward from/relative to what should be the case $x_4$; $x_1$ is on/joined backward.
+nuq'otua	fa'ergau	$g_1$ inverts/reverses/turns over $f_1$ into $f_3$.
+nuq'ocoe	fa'erjo'e	$x_1$ is joined to $x_2$ at/by joint/location $x_3$ such that it is backward from/relative to what should be the case $x_4$; $x_1$ is on/joined backward.
 gaıtua	fa'irgau	$g_1$ reveals to $f_1$ $f_2$ (du'u) about subject/object $f_3$
 faodoetoa	fa'orma'o	$x_1$ is the terminator of structure originated by selma'o $x_2$ in language $x_3$.
 cemzem	fadnysau	$x_2$ is used to $x_1$ (note out-of-order places); $x_1$ has become normal or unremarkable to $x_2$
@@ -952,10 +978,11 @@ feo'ıjo	farja'o	$j_1$ shows the direction of $f_2$ (object/event) to audience $
 feogıam	farmu'u	$x_1$ moves towards $x_2$ from direction $x_3$
 feolaı	farsni	$s_1=f_3$ non-agentively/inanimately points at/indicates the direction of $s_2=f_2$ to observer $s_3$ as being in the direction $f_1$.
 feoruo	fartra	$x_1$ treats $x_2$ in way $x_3$ (ka)
-onuqbeo	fatfarvi	$x_1$ (object) regresses/declines/anti-develops towards/into $x_2$ (state) from $x_3$ (state) for reason/because of $x_4$ (fact, event) through stages $x_5$
-onuqdeq	fatka'e	$f_1 = k_1$ [sequence] is able to be / capable of being reversed from / into sequence $f_2$ by event $k_2$ under conditions $k_3$ (event / state).
-onuqzıu	fatna'u	$x_{1}$ is a number.
-onuqnotuq	fatpo'a	$s_1$ implodes into pieces/energy/fragments $s_2$.
+nuq'obeo	fatfarvi	$x_1$ (object) regresses/declines/anti-develops towards/into $x_2$ (state) from $x_3$ (state) for reason/because of $x_4$ (fact, event) through stages $x_5$
+nuq'odeq	fatka'e	$f_1 = k_1$ [sequence] is able to be / capable of being reversed from / into sequence $f_2$ by event $k_2$ under conditions $k_3$ (event / state).
+nuq'ojıoqtıem	fatkajyfancu	$x_1=fc_1$ is an inverse function from domain $x_2=fc_2$ to range $x_3=fc_3$ defined by original function $x_4=f_4$
+nuq'ozıu	fatna'u	$x_{1}$ is a number.
+nuq'onotuq	fatpo'a	$s_1$ implodes into pieces/energy/fragments $s_2$.
 faqbeo	faucne	$x_1$ (event) varies in intensity/amount
 faqtuao	faumli	$x_1$ (event) happens mildly/non-extremely/gently/somewhat
 faqdu	faumlu	$x_1$ (event) seems to happen/take place to observer $x_2$
@@ -994,6 +1021,7 @@ lıqpeso	fetpinji	$p_1$ is the clitoris of $p_2$.
 lıqjaqsao	fetytcebra	$f_1=b_1=m_1$ is a huge/enormous/very big female being in property/dimensions $b_2$ as compared with standard/norm $b_3$. $f_1=m_1=b_1$ is a giantess.
 afarı'usona	fi'ormerko	$x_1$ pertains to African-American culture in aspect $x_2$.
 afarıdueq	fi'ortu'a	$f_1=t_1$ is Africa.
+afarı'elu	fi'orxanto	$x_1$  is an African elephant (genus Loxodonta) of species/breed $x_2$.
 heosho	ficybi'o	$b_1$ becomes different/changes/transforms from $f_2$ in property/dimension/quantity $f_3$ under conditions $b_3$.
 luakue	fikcku	$cu_1=cf_1$ is a book containing a work of fiction $cu_2=cf_1$ by author $cu_3=cf_3$ for audience $cu_4$ preserved in medium $cu_5$.
 fuıtua	filgau	$g_1$ [person/agent] causes $f_1$ to be easy for $f_2$ under condition(s) $f_3$.
@@ -1034,6 +1062,7 @@ juaoca	flari'a	$r_1=f_5$ enacts $r_2=f_1$ (law/legislation/treaties/act) for com
 juaocuedoem	flatruci'e	$c_1=t_1=f_5$ is the legislative branch of the government of people/territory/domain/subjects $t_2$.
 juaobua	flaxa'u	$x_1$ is a/are legal resident(s) of location/country $x_2$ according to law $f_1$ specifying $f_2$ (state/event) for community $f_3$.
 juaogımıucueme	flazautrugri	$g_1=t_1$ is the Upper House/Senate/House of Lords for territory $t_2$ with members $g_3=f_5=z_3$. 
+hıudem	fleca'e	$x_1$ washes $x_2$ away and is a current/flow/river of/in $x_3$.
 hıuruq	flecarvi	$c_1$ pours/intensely rains to $c_2$ from $c_3$.
 hıushua	flefa'u	$x_1$ pours/spills to $x_2$ from $x_3$
 hıushuatua	flefalgau	$x_1$ (agent) pours/spills $x_2$ on/to $x_3$ from $x_4$
@@ -1103,7 +1132,7 @@ neadıa	ganjdika	$z_1$ narrows/contracts/is diminished in dimension $g_2$ by amo
 nealaqtoaı	ganto'a	$x_1$ is a note low in frequency/pitch produced by $x_2$
 neameta	gantre	$x_1=m_1=g_1$ measures $x_2=m_2$ meters in its second longest direction $x_3=m_3=g_2$ by measurement standard $x_4=m_4$.
 neajeaq	ganze'a	$z_1$ broadens/widens in dimension $g_2$ by amount $z_3$.
-gaoguq'onuq	gapnitfa'e	$x_1$ is upside-down
+gaoguqnuq'o	gapnitfa'e	$x_1$ is upside-down
 gaıfuı	gasfrili	$x_1$ is obvious/easy to notice for $x_2$
 gaıkıaq	gaskre	 $k_1=g_3$ is a/are the whisker(s)/sensory hair(s) /vibrissa(e) attached to $k_2=g_1$ at body part $k_3$ for the detection of stimuli $g_2$ under conditions $g_4$.
 gaıcheu	gastcica	$x_1$ (event) is an illusion that deceives/tricks $x_2$ into sensing $x_3$ using sense $x_4$ under conditions x5
@@ -1190,6 +1219,7 @@ menao	gumjau	$d_1=g_1$ is a pool of water.
 meshuaq	gumpra	$x_1$ mass produces $x_2$ [product] by process $x_3$
 guaıbuo	gunbre	$b_1=g_1$ is ready for work/labor $g_2$ with goal $g_3$.
 guaılıekao	gunfrivei	$x_1$ is a résumé / cv / curriculum vita, summarizing $x_2$'s work experience, in medium $x_3$.
+guaırıeqtao	gunrivzu'e	$x_1=z_1=r_1=g_1$ procrastinates/avoids doing work $x_2=r_2=g_2$ (ka), instead doing $x_3=r_3$ (ka).
 guaıcuesıo	guntrusi'o	$s_1$ is a communist ideology (default: Marxist-Leninist) as it applies to the governance of  people/territory/domain $t_2$ based on the works of thinker(s) $s_3$
 geoıtua	gurgau	$x_1=ga_1$ rolls object $x_2=gu_1$ on/against surface $x_3=gu_2$, with axis/ axle of rotation $x_4=gu_3$.
 geoıgıam	gurmu'u	$x_1$ rolls (moves via rolling) to destination $x_2$ from origin $x_3$ over path $x_4$
@@ -1316,6 +1346,7 @@ hoaqcheoq	jelbo'i	$x_1$ is a molotov's cocktail/bottle bomb containing $x_2$
 hoaqtua	jelgau	$g_1$ burns $j_1$.
 hoaqhaqbaıkea	jeljupmi'i	$x_1$ is a mechanical toaster for use/function $x_2$
 hoaqdeq	jelka'e	$x_1$ is flammable / inflammable under conditions $x_2$
+hoaqhaıda	jelspo	$d_1$ (event) burns down $x_2=j_1=d_2$.
 gıeqtea	jente'a	$x1=j2=t1$ is horrified of $x2=j1=t2$
 junaheo	jetfrica	$x_1$ and $x_2$ have a different truth value; only one of $x_1$ and $x_2$ is true
 junatoaı	jetka'u	$x_{1}$ is a quantum.
@@ -1469,6 +1500,7 @@ gaqbua	kanxa'u	$xa_1=k_1$ is a roommate of/lives with $k_2$ at location/habitat/
 rıapuefuq	karcutci	$c_1$ is a sandal for protecting feet $c_2$, and of material $c_3$.
 chaocaramuıq	karcycelxa'i	$x_1=c_1=k_2$ is a self-propelled artillery gun for use against $x_2$ by $x_3$, launching projectile $c_2$ propelled by $c_3$.
 chao'echı	karcyckiku	$c_1$ is a car key opening/unlocking a lock of car $c_2=k_1$, and having relevant properties $c_3$.
+chaocefa	karcyflani	$x_1$ is a vehicle horn, a klaxon
 chaobue	karcyzda	$z_1$ is a garage for car $z_2=k_1$
 kata'echı	kardyckiku	$x_1=k_1=c_1$ is a key card unlocking lock $x_2=c_2$ by property/card type $x_3=c_3$
 rıapoaq	karpo'i	$x_{1}$ is an open-break with broken piece $x_{2}$.
@@ -1493,6 +1525,7 @@ sheamıfadoem	kesli'uci'e	$x_1$ is a space program
 sheamıpoq	kespre	$x_1$ is an astronaut/cosmonaut, associated with astronomical body $x_2$.
 sheamımeaq	kesyblo	$x_1$ is a spaceship/starship/(outer)space vessel for carrying $x_2$ and propelled by $x_3$.
 sheamıraı	kesydai	$x_1$ is a celestial body/object with associated space/region $x_2$.
+sheamıpuao	kesydilnu	$x_1$ is a nebula of material $x_2$
 sheamıjunadıu	kesyjetske	$saske_1$ is astrology (mass of facts) of subject matter $saske_2$ based on methodology $saske_3=jetnu_1$ of celestial bodies
 sheamıdıu	kesyske	$x_1$ is astronomy based on methodology $x_2$.
 sheamıdıupoq	kesyskepre	$x_1$ is an astronomer.
@@ -1604,6 +1637,7 @@ baocıe	labyfi'e	$f_1=b_1$ is a whitefish of genus/species $f_2$.
 baoreo	labyska	$x_1$ is lightly colored with color $x_2$ [ka]
 noaıbaoruanıu	ladlabrulspa	$x_1$ is a snowdrop (genus Galanthus) of species/strain $x_2$.
 noaınualıq	ladycpani'u	$x_1$ is a milkmaid
+noaırujı	ladykruji	$k_1$ is made of/contains/is a quantity of cream [dairy product] of composition/from milk $k_2=l_1$.
 noaıpuo	ladypu'o	$p_1$ is a quantity of powdered milk made from milk $p_2=l_1$.
 nhedeq	lairka'e	$x_1$ is quantifiable by quantifier $x_2$ on scale $x_3$.
 nhejıe	lairpai	$x_{1}$ is a judge with quantity $x_{2}$ with quantifier $x_{3}$ with scale of quantity $x_{4}$.
@@ -1623,6 +1657,7 @@ leafıeq	larfi'i	$f_1$ is an artist creating work of art $f_2=l_1$ in medium $l_
 lea'ıjorıaq	larja'ostu	$x_1$ is an art gallery showing exhibition or art $x_2$
 learıoq	larlei	$k_1$ is an artistic class/category/subgroup/subset within art $k_2=l_1$ with defining property $k_3$. $k_1$ is a genre.
 leashuaq	larpra	$x_1$ is-an-artist/produces $x_2$ by artistic application of skill/craft $x_3$.
+leagıaıshuaq	laryrakpra	$c_1$ sculpts/carves $c_2=l_1$ from $s_2$ using tool $s_1$
 katoshoı	latcmo	$x_1=c_1=m_1$ meows expressing  $x_2=c_3$.
 katohako	latcribe	$x_1$ is a panda of genus/species $x_2$.
 katochebanıu	latfekspa	$x_1$ is catnip of species $x_2$.
@@ -1642,6 +1677,7 @@ teqchoq	le'ipli	$pi_1=pl_1$ employs $pi_2=pl_3$ for a payment/compensation/salar
 nuasuaı	lebysutra	$s_1=l_1$ grabs $l_2$ from $l_3$
 reoqdıo	lecydo'i	$d_1=l_1$ is the afternoon of day $d_2$ at location $d_3$.
 reoqhoedaq	lecysoltei	$x_{1}$ is a time interval with lateness standard $x_{2}$.
+lıaozeo	ledgrute	$g_1$ is a mushroom of species $g_2$.
 teqjuo	lejnoi	$x_1$ is an advertisement / sponsored message about $x_2$, that $x_3$ paid a fee $x_4$ to recipient $x_5$ for the service of showing it to demographic $x_6$
 teqkatakea	lejykardymi'i	$x_1=m_1$ is a payment card reader for use/function $x_2=m_2$, accepting card $x_3=k_1$
 laıdıbagom	lerbasysre	$s_1$ makes a typo, typing/writing letter $l_1=b_1$ in place of $l_1=b_2$ in word $b_3$ by standard $s_4$
@@ -1689,6 +1725,8 @@ deaqguqtıdo	lolni'apu'i	$p_1$ (agent) buries/puts underground $p_2=c_1$ under s
 deaqguqkua	lolnitku'a	$x_1$ is a cellar/basement in building $x_2$
 deaqpıokıoq	lolro'iboi	$b_1=r_1$ is a cobblestone of material $b_2=r_2$ in floor $l_1$.
 deaqkıaotıe	lolvrogai	$x_1$ is a trapdoor (panel/cover) in portal/doorway (opening) $x_2$ between $x_3$ and $x_4$, in structure $x_5$.
+hupımoma	lorkerlo	$x_1$ is a fox ear of $x_2$
+hupısımı	lorsmani	$s_1$ is a lemur of family/genus $s_2$
 meaqrıoq	lotkle	$k_{1}$ (mass/si'o) is a boat class with boats/defining property $b_{1}$=$k_{3}$ (ka).
 meaqrıoq	lotlei	$k_{1}$ (mass/si'o) is a boat class with boats/defining property $b_{1}$=$k_{3}$ (ka).
 pıaokuıcakuq	lujrinsku	$x_1=c_1$ (person) justifies/expresses justification $x_2=k_2$ for $x_3=p_1$'s complicated-ness in aspect $x_4=p_2$ to audience $x_5=c_3$ via expressive medium $x_6=c_4$.
@@ -1754,6 +1792,8 @@ mama'aba	mampa'u	$x_1$ is a maternal grandfather of  $x_2$.
 mamaseo	mamspe	$x_1$ is a step-parent via the mother of $x_2$ due to marriage with the latter's mother according to law/custom $x_3$, where said motherhood is not necessarily biological.
 mamamama	mamymamta	$x_1$ is a maternal grandmother of  $x_2$.
 chearuamuao	maprultricu	$x_1$ is eucalyptus of species/variety $x_2$.
+maraluaqchuo	maprykeitci	$x_1$ is a stuffed toy of material $x_2$
+maratıuq	maprysakta	$x_1=s_1=m_1$ is a quantity of fluffy-sugar/cotton candy/candy floss/fairy floss from source $x_2=s_2$ and composition $x_3=s_3=m_2$
 cheapoq	mapypre	$p_1$ is a hatter/millner /[hat maker] selling/making hats of material $m_2$.
 chaozıuchuadaocoe	marcynacme'etcita	$x1=t1$ is a vehicle registration plate of vehicle $x2=t2=c2=m1$ showing information $x3=t3=n1=c1$
 tıaofuı	matfrili	$f_1$ is convenient for $f_2$ (agent) under conditions $f_3$
@@ -1781,6 +1821,9 @@ kuoınuısoq	mecycmarai	$t_1=c_1$ is the biggest/[ least small] among set/range 
 kuoırajeq	mecyjavdu'i	$x_1$ is less than or equal to $x_2$ in property/quantity $x_3$ by amount $x_4$.
 kuoıgısoq	mecyxagrai	 $t_1=x_1$ is the worst among set/range $t_4$ for $x_2$ by standard $x_3$.
 kuoıhuısoq	mecyxlarai	$m_1=x_1$ is the best/[least bad] among set/range $t_4$ for $x_2$ by standard $x_3$.
+megaroaıromtoaı	megbivysamsle	$se1$ is (close to) a million of eight indivisible, most basic computer subunits of computer $se2$; se1 is a megabyte
+megachaq	megdje	$d1$ is $d2$ full megadays (million day unit) in duration (default is 1 megaday) by standard $d3$
+megagaram	megygra	$x_{1}$ is $x_{2}$ tonne(s) [metric unit] in mass (default is 1) by standard $x_{3}$.
 lıaqko	meirmoi	$x_1=moi_1$ is the $x_2$-th element out of $x_3$ elements from set $x_4=moi_2=mei_2$.
 lıaqhuaq	meizma	$x_1$ is more numerous than $x_2$; $x_1$ has a greater cardinality than $x_2$
 lıaqdıa	memjdika	$x_1$ decreases in number by amount $x_2$
@@ -1810,6 +1853,7 @@ usonajoaq	merja'a	$m_1=j_1$ is a president of the United States of America.
 usonaloha	merjinme	$x_1$ is a quantity of/contains/is made of americium [Am]
 usonacıao	merklu	$k_1=m_1$ is US culture.
 usonacue	mertru	$t_1$ is a government of the United States of America.
+mınusekuqdaqmoa	metnidytcika	$x_1$ (number) is the second/second notation of the minute, of event/state $x_2$, in system $x_3$.
 hıaıcua	mi'afra	$f_1$ laughs at $f_3$ under conditions $f_4$.
 hıaıtuao	mi'amli	$m_1=c_1$ titters/chuckles/giggles.
 hıaıpuaq	mi'arpe'u	$p_1$ (agent) tickles $p_2$ with $p_3$ (a locus on $p_1$ or an instrument) at $p_4$ (a locus on $p_2$).
@@ -1836,6 +1880,9 @@ goıseao	micyxu'i	$x_1$ is an instance/dose/quantity of medication/medicine/drug
 suejuo	midnoi	$n_1$ is an instruction for $n_2=m_3$ (event/state) to occur, issued by $n_3=m_1$ for intended recipient $n_4=m_2$.
 suetoa	midvla	$v_1$ is a command word/keyword ordering $v_2=m_3$ (event/state) in language $v_3$.
 chudoetoa	mijma'o	$x_1$ (text) is a particle connecting two parts of a construct and belonging to word class $x_2$
+umısekuq	miksnidu	$x_1$ is $x_2$ microseconds in duration.
+umıchaq	mikydje	$d1$ is $d2$ full microdays (millionth of a day unit) in duration (default is 1 microday) by standard $d3$
+umıgaram	mikygra	$g_1$ is $g_2$ micrograms in mass (default is 1) by standard $g_3$.
 mılıchaq	mildje	$d1$ is $d2$ full milidays (thousandth of a day unit) in duration (default is 1 miliday) by standard $d3$; d1 is a metric minute.
 mılıgaram	milgra	$g_1$ is $g_2$ milligrams in mass by standard $g_3$
 mılısekuq	milsnidu	$x_1$ is $x_2$ milliseconds in duration.
@@ -1856,7 +1903,7 @@ jeqsejemaı	mitcinpa'i	$x_1$ is homosexual/gay/lesbian;.
 jeqsejemaıpoq	mitcinpampre	$p_1$ is a non-heterosexual/queer/MOTSS.
 jeqseje	mitcinse	$c_1$ is homosexual/bisexual in situation $c_2$ by standard $c_4$.
 jeqchuapoq	mitcmepre	$x_{1}$ (person) is a/the namesake of $x_{2}$ (person).
-jeq'onuq	mitfa'e	$m_1=f_1$ is palindromic by standard $m_3$.
+jeqnuq'o	mitfa'e	$m_1=f_1$ is palindromic by standard $m_3$.
 jeqgaı	mitfa'i	$x_1$ discovers that $x_2$ is identical to $x_3$ by standard $x_4$; x1 discovers $x_2$'s identity
 jeqdu	mitmlu	$s_1=m_1$ seems to be the same as $m_2$ by standard $m_3$ to observer $s_3$ under conditions $s_4$.
 jeqguoteı	mitmo'a	$mo_1=mi_1$ follows the same pattern as $mi_2$ with respect to forms/events $mo_2$ arranged according to structure $mo_3$.
@@ -1952,6 +1999,7 @@ muaosaınıu	mudyspa	$s_1$ is a woody plant/(gnetophyta) of species/strain/culti
 muaosaınıudıu	mudyspaske	$s_1$ is dendrology/xylology about woody plant(s) $m_2=s_1=s_2$.
 muaosaıgoaqchuo	mudyxultci	$t_1$ is an adze
 jıaqgueqkıao	mujybukyvro	$v_1$ is a wormhole (physics)
+jıaqjıoq	mujykanji	$x_1$ simulates world $x_2$.
 muosho	mulbi'o	$x_1$ is completed in property $x_2$ according to standard $x_3$
 muonaı	mulcabna	$x_1$ (event) is after $x_2$ (event) concludes. $x_1$ is in the future when $x_2$ finishes
 muofao	mulfa'o	$f_1$ is the end/finish/completion of completed thing/process $f_2=m_1$.
@@ -2102,6 +2150,7 @@ bulıeı	nartinbe	$t_1$ disobeys/does not follow the command/rule $t_2$ made by 
 buhuodeq	nartinka'e	$k_1$ is deaf/unable to hear under conditions $k_3$ (event/state).
 bukaqdeq	narviska'e	$k_1$ is blind/unable to see under conditions $k_3$ (event/state).
 bureqnıaı	naryremda'u	$d_1=r_1$ is an animal of species $d_2$ and not a human; $d_1=r_1$ is a non-human animal.
+nhanometa	navytre	$m_1=n_1$ is $m_2=n_2$ nanometer(s) / billionth(s) of a meter [metric unit] in length (default 1) measured in direction $m_3=n_3$ by standard $x_4=m_3$.
 boakıaq	ne'okre	$x_1$ is a mane on $x_2$
 boabeaıshatı	nebdadycreka	$cr_1=d_1$ is a halter top of material $cr_2$.
 boatoe	nebyka'a	$k_1$ is a guillotine/executioner's axe for beheading $k_2$.
@@ -2109,7 +2158,7 @@ boatoekea	nebyka'aca'a	$x_{1}$ is an apparatus with apparatus operator $x_{2}$.
 boatıdujalıaıshuao	nebyplovoicpi	$ci_1=cn_2=v_1$ is a heron/egret/bittern of species $ci_2$
 chohuaq	neizma	$x_1=n_1=z_1$ likes $x_3=n_2$ more than $x_2=z_2$ does, by margin $x_4=z_4$.
 chohuaq	nelcymau	$z_1$, more than $z_2$, likes $n_2$ by amount $z_4$.
-nıebuı'onuq	nerbarfa'e	$x_1$ is inside out
+nıebuınuq'o	nerbarfa'e	$x_1$ is inside out
 nıehıe	nerbei	$x_1$ imports $x_2$ to $x_3$ from $x_4$ via $x_5$ .
 nıesho	nerbi'o	$x_1=b_1=n_1$ enters [becomes inside-of] $x_2=n_2$ under conditions $x_3=b_3$
 nıeshatı	nercreka	$c_1$ is a singlet/undershirt/vest of material $c_2$.
@@ -2203,6 +2252,7 @@ aba'aba	pafpa'u	$x_1$ is a paternal grandfather of  $x_2$.
 paqchuao	pagyca'o	$p_1=c_1$ is a tab (navigational widget) in $p_2=c_2$.
 paqdıem	pagzai	$x_1=z_1$ is a department store selling/trading (for) $x_2=z_2$, with departments $x_3=z_3=p_1$
 jıekoe	paijdi	$j_1=p_1$ gives a verdict $j_2$ (du'u) about matter $j_3=p_2$ (abstract).
+jıefıuq	paijgu	$x_1$ is a court of law with jurisdiction $x_2$
 jıefuaımea	pairkamnycmi	$c_1$ is a member of jury/judging panel $c_2=p_1=k_1$ deciding matter $p_2$ in court/judging body $k_3$.
 jıenhe	pairlai	$x_1=k_1=p_2$ has score / ranking / judgement $x_2=k_2=p_3$ according to judge / evaluator / ranking $x_3=k_3=p_1$; $x_2$ is the score / rank of $x_1$ according to judge $x_3$.
 jıecuedoem	pairtruci'e	$c_1=t_1=p_1$ is the judicial branch of the government of people/territory/domain/subjects $t_2$. 
@@ -2278,6 +2328,7 @@ aısahupaıtoa	pevjifpedvla	$x_1$ is a "false friend" (word in different languag
 aıshıe	pevycikna	$x_1=c_1$ is "woke" to/aware of $x_2$
 aıcuaımetoa	pevycimjvo	$l_1$ is an implicitly metaphorical lujvo with meaning $l_2$ and arguments $l_3$ built from metaphor $l_4$.
 aıbore	pevypinta	$x_1$ (organization/group/structure) is horizontal in metaphorical frame of reference $x_2$; $x_1$ lacks hierarchy/levels of membership of type $x_2$.
+aı'aomo	pevyplu	$x_1$ is like an island in a sea of $x_2$; $x_1$ is very distinct/foreign (in appearance, composition and/or behavior) from surroundings/environment/background $x_2$.
 aımuse	pevysmacu	$x_1$ is a computer mouse with button/buttons $x_2$.
 aımusesıoq	pevysmacyxi'u	$x_1$ is a mouse wheel of computer mouse $x_2$, and is made of materials/having properties $x_3$.
 aıhoelıem	pevysoljme	$j_1$ is a sunstone/aventurine feldspar [gem/polished stone] of type $j_2$ from source $j_3$.
@@ -2300,6 +2351,7 @@ boremuoıdıaqtua	pincardikygau	$g_1$ shakes $d_1=c_1$ from side to side, with p
 pıcıe	pincyfi'e	$x_1$ is a candirú of species/variety $x_2$.
 pıhıeq	pincyre'o	$x_1$ pisses on / excretes their urine at $x_2$
 pıcıuchıagaı	pincyvi'itcuga'e	$x_1$ feels the sensation of needing to urinate/pee, under conditions $x_2$.
+borecefa	pinflani	$x_{1}$ is a flute.
 boretua	pingau	$x_1$ places $x_2$ in a horizontal position by reference frame $x_3$; $x_1$ lays $x_2$ down
 pesokea	pinjyca'a	$x_{1}$ is an apparatus with apparatus operator $x_{2}$.
 pesoruq	pinjycarvi	$c_1$ is bukkake onto $c_2$ from $c_3=p_2$.
@@ -2359,6 +2411,7 @@ tıdujaboasaoro	plonebrespa	$x_1$ is a frill-necked lizard (Chlamydosaurus) of s
 tıdujarom	ploskami	$x_1$ is a laptop for purpose $x_2$ with hinge $x_3$
 notuqbuaq	po'afli	$f_1$ fails to explode; $f_1$ is a dud.
 notuqlaq	po'asna	$x_1$ is an explosion sound made by $x_2$
+notuqhaıda	po'aspo	$x_1=d_1$ (event) blows up/destroys  $x_2=s_2$ causing it to explode with result $x_3$
 boshoe	po'ecru	po'ecru: $x_1=c_1=p_1$ consents to / licenses / gives permission / consent for $x_2=c_2=p_2$ under conditions / terms $x_3=c_3$ under property rights standard / law / custom / system of private exclusion / system of negative rights / system of rights $x_4=p_3$; $x_1$ consents to / gives license for $x_2$.
 notuqbuo	pojbre	$b_1$ is ready for explosion/detonation; $b_1$ is armed.
 notuqbuotua	pojbregau	$g_1$ makes $b_1$ ready for explosion/detonation.
@@ -2434,6 +2487,8 @@ duotua	ra'irgau	$g_1$ maintains $g_2=r_1$ (event/state) over interval $r_2$.
 duoneu	ra'irsumji	$x_1$ is the integral of $x_2$ with respect to $x_3$ over $x_4$.
 duobebaqlaq	ra'irzunsna	$x_1$ is a sonorant consonant sound
 duolaq	ra'isna	$x_1$ is a sonorant (phonetic) sound
+boaımıu	radji'i	$x_1$ admits/accepts/acknowledges/allows/concedes/recognizes that $x_2$ is true about $x_3$ on grounds/under compelling evidence $x_4$
+boaıshoe	radycru	$x_1=r_1=c_1$ abandons / gives up $x_2$ under condition $x_3=r_3=c_3$
 tuaıdoem	ragyci'e	$c_1$ is a organ system with organs $c_2=r_1$ of body/species $r_2$ performing function $r_3$ 
 soqgua	rairgugde	$g_{1}$ is the superpower of peoples $g_{2}$ with land/territory $g_{3}$; (people/territory relationship).
 soqpaı	rairpe'o	$x_1=t_1=p_1$ is the best friend (/"bestie"/"BFF") of $x_2=p_2$ among set of friends $x_3=t_4$ in extreme $x_4=t_3$ (default ka zmadu).
@@ -2447,6 +2502,8 @@ sheaqbuaısoq	rajyclarai	$t_1=c_1=s_1$ is the tallest among set/range $t_4$.
 sheaqpaq	rajypau	$x_1$ is a column/file of table/chart $x_2$.
 sheaqpaqjeq	rajypaudu'i	$d_1$ is in the same column(s) as $d_2$, column(s) $pa_1=r_1$ is/are a part of whole/mass $pa_2$ in frame of reference $r_2$.
 sheaqtıdo	rajypu'i	$x_1$ sets up/puts up/places $x_2$ in a vertical position on/at $x_3$
+gıaınoı	rakcro	$x_1$ itches at locus $x_2$.
+gıaıchıagaı	raktcuga'e	$x_1$ feels an itch at locus $x_2$; $x_1$'s $x_2$ itches
 joqtıeq	raldargu	$x_1$ is a highway to $x_2$ from $x_3$ with route $x_4$
 joqjaq	raljymutce	$x_1$ is pivotal, extremely important
 joqdueq	raltu'a	$x_1$ is the mainland of $x_2$
@@ -2562,6 +2619,8 @@ paomama	rirmamta	$x_1$ is a grandmother of  $x_2$.
 pao'aba	rirpa'u	$x_1$ is a grandfather of  $x_2$.
 paoseo	rirspe	$x_1$ is the step-parent/step-mother/step-father of $x_2$ due to marriage with their parent according to law/custom $x_3$.
 paoteıruo	rirtaitra	$x_1$ patronizes $x_2$; $x_1=t_1=r_1$ acts towards $x_2=t_2=r_2$ by doing $x_3=t_3$ as if $x_1$ was $x_2$'s parent.
+rıeqtıshaı	rivli'a	$x_1$ escapes from $x_2$ by leaving via route $x_3$.
+rıeqtao	rivyzu'e	$r_1=z_1$ is a volitional entity in refusing to employ means/take action $r_2=z_2$ (ka or nu), for purpose/goal $z_3$/to end $z_3$
 tıashıaq	rixtu'e	$x_1$ is a hind leg or limb of $x_2$
 tıakuoq	rixybo'u	$x_{1}$ is a bone-behind with bone function  $x_{2}$.
 tıajaoshıaq	rixydartu'e	$x_1$ is the calf/lower back part of the leg (body-part) of $x_2$
@@ -2588,6 +2647,9 @@ tufuaqkoe	rolxracu'a	$c_1$ selects all images containing $p_2$; $x_1$ completes 
 tujıq	rolza'i	$x_1$ (plural) is everything that exists for $x_2$ (person) under metaphysics $x_3$
 casekea	rucyca'a	$c_1$ is a processor/processing unit for purpose $c_2$.
 casetao	rucyzu'e	$x1=z1$ processes $x2=pr2$ by process $x3=pr1$ for purpose/results $x4=z3=pr3$, passing through steps/stages $x5=pr4$
+koqpeq	rufple	$x_1$ is sandpaper made of $x_2$
+koqrem	rufsfe	$x_1$ is rough surface of object $x_2$
+koqfuq	rufta'u	$t_1=r_1$ is coarse clothing/sackcloth.
 rua'apı	rulbifce	$x_1$ is a bee
 ruanuınıuboe	rulcmapezli	$p_1=c_1$ is a sepal/part of the calyx of flowering plant/angiosperm $p_2=x_1$.
 ruanıuboe	rulpezli	$p_1$ is a petal on plant $p_2=x_2$.
@@ -2600,6 +2662,8 @@ baısekıaq	runkre	$r_1=k_1$ is a wig/toupee/mirkin worn by $k_2$  on body locat
 baısesoraq	runla'u	$l_1=r_1$ is an (artificial) pool at site/within land mass $l_2$.
 baısemoıchu	runmenli	$x_1$ is an artificial/man-made intelligence/consciousness/mind of/in/inhabiting body $x_2$
 baısepeso	runpinji	$p_1$ is a dildo/phallic object.
+ruıheıga	rusycindu	$x_1$ is a grey oak (Quercus grisea) of species/strain $x_2$.
+ruıseje	rusycinse	$c_1$ is graysexual in situation $c_2$ by standard $c_4$.
 zeopıu	rutcalku	$x1=c1$ is a husk of $x2=g1=c2$ of species $x3=g2$ composed of $x4=c3$
 zeodashı	rutpesxu	$p_1$ is a jam/jelly/confiture/marmalade made from fruit $g_2$ of species $g_2$.
 chıaqtua	sajgau	$x_1$=$g_1$ alerts $x_2$=$s_1$ to/about/concerning $x_3$=$s_2$; $x_3$ is brought to the attention of/is recognized/realized by $x_2$ by/with the help of/due to agent $x_1$
@@ -2626,6 +2690,7 @@ rombeoqbeo	samcmuga'i	$x_1=s_1$ is a port/conversion to operating system/archite
 rombeoqjoq	samcmuralju	$r_1$ is a kernel of operating system $j_1$ on computer $j_2=s_1$
 romkoe	samcu'a	$x_1$ clicks/selects $x_2$.
 rombuaq	samfli	$f_1=s_1$ crashes while doing $f_2$ (state / event)
+romꝡota	samgotro	$g_1$ is $2^{80}$ of $g_2$ in dimension/aspect $g_3$ (default is units).
 romcoe	samjo'e	Computer $j=1=s_1$ is connected to computer $j_2=s_1$ via medium $j_3$.
 romcoetua	samjongau	$g_1$ (agent) connects computer $j=1=s_1$ to computer $j_2=s_1$ via medium $j_3$.
 romchıu	samjudri	$j_1$ is an adress of / are co-ordinates of computer system / computerized thing $j_2=s_1$ in system $j_3$; computerized thing has purpose $s_2$.
@@ -2634,6 +2699,7 @@ rom'ıq	samkai	$c_1$ is characterized by computer properties; $c_1$ is digital.
 romluaq	samkei	$k_1$ plays with computer/gaming system/gaming console $s_1$.
 rombıq	samki'o	$k_1$ is 1024 ($2^{10}$) of $k_2$ in dimension/aspect $k_3$ (default is units).
 rombucuetua	samnarca'igau	$g_1=c_1$ logs out of computer $c_2$ as username $c_3$
+rompeta	sampetso	$p_1$ is $2^{50}$ of $p_2$ in dimension/aspect $p_3$ (default is units).
 rompeq	sample	$x_1$ is computer paper from source $x_2$ for computer/printer $x_3$.
 romchoq	sampli	$p_1$ is a computer user / user of computer $p_2=s_1$ for purpose $p_3=s_2$.
 rompoq	sampre	$x_1=s_1=p_1$ is a computer-person/robot with purpose $x_2=s_2$
@@ -2646,15 +2712,19 @@ romkeoı	samta'a	$t_1$ talks via computer to $t_2$ about $t_3$ in language $t_4$
 romchuo	samtci	$t_1$ is a computer program / tool / application for purpose $t_2=s_2$ on computer(s) including $s_1$.
 romchuofıeq	samtcifi'i	$f_1$ programs [writes computer program] $f_2=t_1$ for function/purpose $f_3=t_2=s_2$ from existing elements/ideas $f_4$; $f_1$ is a programmer
 romchuolueq	samtcise'u	$se_1=sk_1$ is a server [computer program] serving client(s) [computer program(s)] $se_2$ with service $se_3$ (activity).
+romtera	samterto	$t_1$ is $2^{40}$ of $t_2$ in dimension/aspect $t_3$ (default is units).
 romcaqchuo	samtrotci	$x1=tc1$ is a console for controlling computer $x2=s1=tr2$
 romjuo	samxa'a	$xa_1$ is an e-mail to intended audience $xa_2$ from author/originator $xa_3$ with content $xa_4$.
 rommuq	samxa'e	$xa_1$ is a pointing device for computer $xa_2=s_1$.
+rom'esa	samxexso	$xe_1$ is $2^{60}$ of $xe_2$ in dimension/aspect $xe_3$ (default is units).
 romfuaqtoq	samxrata'o	$x_1$ is a graphics tablet / digital drawing tablet for computer $x_2$
+rommega	samymegdo	$m_1$ is 1048576 ($2^{20}$) of $m_2$ in dimension/aspect $m_3$ (default is units).
 romsuechuo	samymi'etci	$x_1$ is a shell/REPL for controlling $x_2$.
 romkato	samymlatu	$x_1$ is a robot cat/doraemon
 rommoaq	samymo'i	$m_1=s_1$ (computer) loads [data] $m_2$.
 romdıeq	samymri	$m_1$ (agent) sends e-mail $m_2$ to person / computer $m_3$ from person / computer $m_4$ by computer network $m_5$.
 romjıq	samyza'i	$x_1$ exists for $x_2$ within computer $x_3$; $x_1$ is virtual reality.
+romseta	samyzetro	$z_1$ is $2^{70}$ of $z_2$ in dimension/aspect $z_3$ (default is units).
 romtı	samyzva	$z_1$ is logged on to computer $z_2=s_1$.
 shuaıhuaq	sapmau	$s_1=z_1$ is simpler than $z_2$ in property $s_2=z_3$ by amount $z_4$.
 shuaızıu	sapna'u	$x1$ is a scalar in structure/set $x2$ with properties (potentially including magnitude, etc. in a given metric and coordinate system) $x3$; $x1$ is a simple number; $x1$ is a number that lacks 
@@ -2692,6 +2762,10 @@ joqhuakıaqcıa	sedykrecau	$c_1=s_2=c_2$ is bald.
 joqhuafuq	sedyta'u	$x_1=t_1$ is a hat worn by/on the head of $x_2=t_2=s_2$ for purpose $x_3=t_3$.
 joqhuatıakuoq	sedyti'ebo'u	$b_1$ is a occipital bone (os occipitale) performing function $b_2$ in body of $b_3$.
 lueqtua	sefygau	$x_1$ enslaves $x_2$ to do service $x_3$
+cheocho	semnei	$x_1$ and $x_2$ are fond of each other
+cheomaı	sempa'i	$x_1$ and $x_2$ love each other
+cheopaı	sempe'o	$x_1$ and $x_2$ are friends / act friendly to each other
+cheoloı	semxei	$x_1$ and $x_2$ hate each other
 boepaqkıoq	sentyboi	$x_1$ is a bubble(layer-ball) with material $x_2$
 poecıa	sepcau	$s_1$ is immediately next to $x_2$.
 poebua	sepxa'u	$x_1$ lives alone in home $x_2$
@@ -2730,7 +2804,7 @@ taqruoseje	sezytracinse	$c_1=t_1=s_2$ in activity/state $c_2$ expresses gender i
 taqruaq	sezyxu'a	$s_2=x_1$ (agent) self-affirms/claims/declares $s_1=x_2$ (du’u) is true about ones identity/self.
 taqjeaq	sezyze'a	$s_1=z_1$ improves itself/is self-improving/augmenting/increasing in property/quantity $z_2$ by amount $z_3$.
 zoeqjıenhe	sfapailai	$x_1=k_1=p_2=s_2$ has penalty / is penalized with penalty / judgement $x_2=k_2=p_3=s_4$ for infraction $x_3=s_3$ by judge / evaluator / ranking $x_3=k_3=p_1=s_1$; $x_2$ is a penalty.
-rem'onuq	sfefa'e	$x_1$ is inside-out/wrong-side out by standard $x_2$
+remnuq'o	sfefa'e	$x_1$ is inside-out/wrong-side out by standard $x_2$
 doıhıao	si'arxai	$x_1$ (event) hurts/damages the respect/high regard/esteem for $x_2=s_2$  held by by $s_1$ with result $x_4$ (state).
 doırıaq	si'astu	$st_1$ is a place of honor/[shrine/podium/wall area/trophy case] for person/thing/[event] $st_2=si_2$ venerated/honored by $si_1$
 nıaoruq	si'ercarvi	$c_1=s_1$ snows to $c_2$ from $c_3$.
@@ -2745,6 +2819,7 @@ sıgagoqceu	sigdamva'u	$x_{1}$ is a breathe with smoke source-cigar $x_{2}$. (om
 sıgaceu	sigva'u	$v_1$ is a cigarette/cigar smoker; $v_1$ smokes cigarettes/cigars.
 sıgapeq	sigyple	$p_1$ is a / is a quantity of rolling paper from source $p_2$.
 sıgapeqboe	sigyplebo'o	$p_1$ is a piece of rolling paper from source $p_2$.
+sırıkoaı	sikyju'e	$x_1=j_1=s_1$ is a web / spider's web / network or interconnected structure resembling a web, produced by $x_2=s_2$, allowing passage of / including $x_3=j_2$, prohibiting passage of / excluding $x_4=j_3$, web properties $x_5=j_4$.
 cheodıba	simbasti	$x_1$ trades places with $x_2$ in circumstance $x_3$.
 cheodıbatua	simbasygau	$x_1$ interchanges $x_2$ and $x_3$ in circumstance $x_4$.
 cheosho	simbi'o	$x_1$ (plural) become mutual in property $x_2$ (ka).
@@ -2753,6 +2828,8 @@ cheoshe	simni'i	$x_1$ and $x_2$ entail each other.
 cheopaı	simpe'o	$x_{1}$ are friends [of each other].
 cheoneu	simsumji	$x_1$ is the sum of all of $x_2$ added together
 cheomıujeq	simtu'i	$x_1$ (set) agree with each other that $x_2$ (proposition) is true about matter $x_3$
+oguı'aıpı	sincycrida	$c_1$ is a dragon/lindworm of mythos/religion x2.
+oguı'ıqcıe	sincykaifi'e	$x_1$ is an eel of species $x_2$.
 nuobuaq	sipfli	$x_1$ fails at going to sleep; $x_1$ can't sleep; $x_1$ suffers from insomnia (currently)
 nuosue	sipmi'e	$m_1$ hypnotizes $m_2$ with hypnotic command $m_3$(event/state). $m_1$ is hypnotic
 nuonoqtua	sipsavgau	$g_1=s_1$ snores.
@@ -2825,6 +2902,7 @@ soꝡanao	sobjau	$s_1=d_1$ is made of/contains/is a quantity/expanse of soy milk
 hoechaq	soldei	$x_1$ is Sunday of week $x_2$ on calendar $x_3$.
 hoegıogıu	solgusli'i	$x1=l1$ is a sunbeam/sunray/[line of sunlight] illuminating $x2=g2$
 hoehoaq	soljelca	$j_1$ is sunburnt / tanned by the sun
+hoerujı	solkruji	$k_1$ is sunscreen/sunblock/sun lotion of composition $k_2$
 hoechea	solmapku	$x_1$ is a sun hat/sun bonnet
 hoenıu	solspa	$sp_1$ is a sunflower (genus Helianthus) of species/strain/cultivar $sp_2$.
 hoenıunulı	solspagrasu	$g_1$ is a quantity of/is made of/contains sunflower oil from sunflower $sp_1=g_2$.
@@ -2855,6 +2933,7 @@ puıteı	sortai	$x_1$ is polymorphic, has polymorphism
 puıshıaq	sortu'e	$x_1$ is a myriapod
 puıchıo	soryroi	$x_1$ happens many times in interval $x_2$.
 puıruabarua	soryrulzgu	$r_1$ is a  many-flowered/multiflora/baby/Japanese/seven-sisters/Eijitsu roserose (Rosa multiflora) of species/strain $r_2$.
+poaırujı	sovykruji	$k_1$ is made of/contains a quantity of custard.
 neıkojoaq	sozmoija'a	$j_1$ has the rank of General/Admiral/Air Chief Marshal (equivalent of NATO OF-9) in military unit /organization $j_2$.
 nıugoeq	spabi'u	$b_1$ is a hedge separating $b_2$ and $b_3$ in $b_4$ made of plants of species $s_2$.
 nıudueq	spafoi	$f_{1}$ is a brush/shrubland [field of plants] with predominant plant species/cultivar $s_{2}$.
@@ -2872,6 +2951,8 @@ seopao	sperirni	$x_1$ is the parent-/mother-/father-in-law (parent of spouse) of
 seocheo	spesi'u	$si_{1}$ is/are married couple(s) under law/custom/tradition/system/convention $sp_{3}$.
 seoshaı	spesti	$x1$=$sp1$=$st1$ is divorced from $x2$=$sp2$ by law/convention $x3$=$sp3$
 seopıa	spetunba	$x_1$ is a sibling-in-law (sibling of a spouse) of $x_2$ according to custom/law $x_3$.
+haıdatua	spogau	$g_1$ destroys, using/through event $d_1$, object/person $d_2$.
+haıdapueq	spostapa	$sp_1=st_1$ crushes/destroys by stomping $sp_2=st_2$ using limbs $st_3$.
 rıaıfeoq	sradjine	$x1=d1=s1$ is a bearing of material $x2=d2$, supporting $x3=s2$ against force/opposition $x4=s3$
 poıbadueq	srasyfoldi	$x_1$ is a lawn, meadow
 gomleoqbıa	srebadbi'a	$bi_1=ba_2$ is allergic to $ba_3$ with symptoms $bi_2$.
@@ -2993,6 +3074,8 @@ nuımdoem	tarci'e	$c_1$ is a solar/stellar system based on star(s) $t_1$ (defaul
 nuımsheamıdıu	tarkesyske	$x_1$ is stellar astronomy based on methodology $x_2$.
 nuımdıu	tarske	$s_1$ is astronomy based on methodology $s_3$.
 nuımpuılıaq	tarso'imei	$s_1$ is a/the galaxy (default is the Milky Way)
+teaqguele	tatycigla	$c_1$ is a/the mammary gland secreting milk $c_2$, of breast $t_1$.
+teaqnıoq'elu	tatydenxanto	$x_1=d_2$ is a mastodon of species $x_2$
 keoımuo	tavmu'o	$x_1$ has finished talking to $x_2$
 keoıcheo	tavysi'u	$x_1$ talk to each other about $x_2$ in language $x_3$
 doaqshuao	tcacpi	$c_1$ is a pigeon of subspecies $c_2$.                                                            
@@ -3021,6 +3104,9 @@ daocoetua	tcitygau	$g_1$ puts a label $t_1$ on $t_2$ showing information $t_3$.
 chuobaı	tcizba	$z_1$ makes tool $z_2=t_1$ for purpose $t_2$ out of $z_3$; $z_1$ implements $t_2$
 chıabıa	tcubi'a	$x_1$ is addicted to doing $x_2$ (property)
 chıamıe	tcuji'e	$n_1=j_1$ is a parasite on $n_2$.
+gajamıeq	tedmre	$m_1$ surveys $t_1$=$m_2$ as $m_3$ (map or measurements) in unit $m_4$ with accuracy $m_5$
+gajabeoq	tedycmu	$x_1$ is tellurium
+gajadıu	tedyske	$s_1$=$t_1$ is Earth science based on methodology $s_3$.
 teureu	tefpi'i	$x_1$ is $x_2$ times the $x_4$th power of $x_3$ // $x_1 = x_2 \times {x_3}^{x_4}$
 daqpu	teipru	$x_1$ is in the past of/earlier than/before $x_2$ in time sequence, separated by an interval of $x_3$
 daqchufaq	teirmijyfau	The elapsed time/duration between $x_1$ (nu, or time-/date-stamp) and $x_2$ (nu, or time-/date-stamp) is equal to the elapsed time/duration between $x_1$ and $x_3$ (nu, or time-/date-stamp), such that $x_2$ occurred no later than $x_3$ (thus, $x_1$ is also a temporal midpoint between them), in frame of reference $x_4$.
@@ -3034,6 +3120,7 @@ daqpu	tempru	$x_1$ is in the past of/earlier than/before $x_2$ in time sequence,
 daqpoecıa	temsepcau	$c_1=s_1$ is immediately next to $s_2$ in time.
 daqmıeq	temymre	$x_1=m_1$ is a timer measuring $x_2=m_2$ (e.g. event) as $x_3=m_3=t_1$ long / elapsed time units / time-duration / interval / period from time / event $x_4=t_2$ to time / event $x_5=t_3$ on scale $x_6=m_4$, with accuracy $x_7=m_5$; $x_1$ is a timer for $x_2$.
 teacıa	tepcau	$x_1$ is fearless/intrepid
+teraroaıromtoaı	tetybivysamsle	$se_1$ is (close to) a trillion ($10^12$) of eight indivisible, most basic computer subunits of computer $se_2$; $se_1$ is a terabyte
 tıafa	ti'ekla	$k_1$ withdraws to $k_2$ from origin $k_3=t_2$ via route $k_4$ using means/vehicle $k_5$.
 tıasho	ti'erbi'o	$b_1$ gets behind $t_2$.
 tıakıao	ti'evro	$v_1=c_1$ is a back door/gateway/access between $v_2$ and $v_3$ of structure $v_4$.
@@ -3148,6 +3235,7 @@ gıqsea	tolsurla	$s_1$ expends effort/is actively/effortfully involved in doing/
 gıqjaq	toltce	$x_1$ is little/limited in property $x_2$ towards $x_3$.
 gıqfoaı	toltcila	$x_1=tc_1$ is a summary / overview / abstract / brief / the big picture of $x_2=tc_2$.
 gıqtıoqtua	toltelgau	$g_1$ unlocks lock $s_1$ on $s_2$ by mechanism $s_3$.
+gıqlam	toltende	$x_1$ (entity) is disinclined to do/be $x_2$ (ka)
 gıqteu	toltenfa	$x_1$ is the exponential root of $x_2$ with exponent $x_3$ // $x_1$ is the $x_3$th root of $x_2$ // $x_1 = \sqrt[x_3]{x_2}$ 
 gıqmıujeq	toltu'i	$x_1$ disagrees with person(s)/position/side $x_2$ that $x_3$ (du'u) is true about matter $x_4$.
 gıqsuaoluaı	tolvaixajmi	$x_1$ is frivolous to observer[/by standard] $x_2$.
@@ -3380,6 +3468,7 @@ muqchuoqtua	xanjalgau	$g_1=x_2$ claps hands $j_1=j_2=x_1$.
 muqnhe	xanlai	$x_1$ is $x_2$ handfuls in volume/amount (default is 1) by standard $x_3$.
 muqlaılaı	xanle'ule'u	$xl_{1}$ (la'e zo BY/word-bu) is a fingerspelling sign in character-set of sign language/system of manual communication $xl_{2}$ representing letter/digit/symbol $xl_{3}$=$l_{1}$ in written alphabet/character-set $xl_{2}$ performed by hand(s) $xl_{4}$.
 muqfurı	xansli	$s_1=xa_2$ waves hand.
+elunıoqsaı	xantydenmai	$m_1$ is elephant/mammoth ivory from species/breed $xa_2$.
 muqnoqgımıu	xanvruzau	$z_1=x_2$ gives applause to plan/action $z_2$ (object/event).
 muqguq	xanyni'a	$x_1$ is the palm (body-part) of $x_2$
 muqkero	xanynimre	$x_1$ is a Buddha's hand (Citrus medica var. sarcodactylis) of type $x_2$
