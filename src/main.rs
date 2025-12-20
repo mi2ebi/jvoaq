@@ -181,7 +181,9 @@ fn main() -> Result<(), ()> {
         + "<a href='https://github.com/mi2ebi/jvoaq/blob/master/src/main.rs#L234'>"
         + "a big hashmap</a>"
         + "<br/>"
-        + "<input type='checkbox' id='nogray'/><label for='nogray'>hide gray entries</label></p>\n"
+        + "<input type='checkbox' id='nogray'/>"
+        + "<label for='nogray'>hide gray entries (might be slow)</label>"
+        + "</p>\n"
         + "<table>\n"
         + &metoame
             .iter()
