@@ -497,6 +497,8 @@ mıeqseao	cipxu'i	$x_1=xu_1$ is an instance of reagent $x_2=xu_2$ (individual or
 mıeqpeq	cipyple	$p_1$ is a test-paper from source $p_2$ for/proof of property/state $c_3$ in subject $c_4$.
 kuhatorea	cirlydakfu	$d_1$ is a cheese knife with a blade of material $d_3$.
 kuhanam	cirlynanba	$x_1$ is cheesebread (pão de queijo).
+nhamecua	cismyfra	$c_1=f_1$ smiles at $f_3$ under conditions $f_4$.
+nhameteı	cismytai	$x_1$ is a smile (facial expression)
 nıolıqguobe	citfe'ibakni	$b_1=f_1=c_1$ is a heifer [young female bovine/cow] of species/breed $b_2=f_2$ by standard $f_3=c_2$. 
 nıohuaq	citmau	$z_1=c_1$ is younger than $z_2$ by amount $z_4$.
 nıode	citmle	$m_1$ is cute to $m_2$ in aspect $m_3$.
@@ -644,6 +646,7 @@ joe'ıq	crekai	$x_1$ does $x_2$ in a skilled manner
 joenhe	crelai	$x_1$ (person) has rank/skill level $x_2$ (li) in discipline/game/activity $x_3$
 joeleashuaq	crelarpra	$x_1=ce_1=cu_1$ expertly produces artwork $x_2=cu_2$ of craft/skill $x_3=ce_2=l_2$ by process $x_4=cu_3$ expertly produced by standard $x_5=ce_3$.
 joedıe	creti'i	$x_1$ suggests/offers expert advice/protip $x_2$ (ka) to $x_3$.
+joebuoq	crexalbo	$c_1=xa_1$ is a geek/nerd of field $c_2=xa_2$ (event/activity) by standard $c_3$.
 joejeaqtao	crezenzu'e	$x_1$ practices/exercises/drills/trains in/for action/event/performance $x_2$.
 hakokurı	cribyjba	$x_1$ is bearberry of species/variety $x_2$.
 aıpıdıu	cridyske	$s_1$ (mass of facts) is the science of fairies/elves/pixies [mythical humanoid] of mythos/religion $c_2$ based on methodology $s_3$.
@@ -911,9 +914,11 @@ dıobusuo	dornalcando	$c_1$ is diurnal/active during the daytime $d_1$.
 duebeo	draga'i	$g_1$ (event) corrects $g_2$ into $g_3=d_1$, correct in property/aspect $x_4=d_2$ (ka) in situation $x_5=d_3$ by standard $x_6=d_4$.
 duebeotua	draga'igau	$x_{1}$ is a do with modify $x_{2}$ with changed $x_{3}$ with modified into-correct $x_{4}$ with correctness $x_{5}$ with correctness situation $x_{6}$ with correctness standard $x_{7}$.
 duetua	dragau	$g_1$ (person/agent) corrects $d_1$.
+duecuo	draru'a	$x_1$ assumes $x_2$ correctly; $x_1$ (agent) is correct about $x_2$
 meotua	drigau	$x_1$ (agent) makes $x_2$ sad about $x_3$ (abstraction)
 meojaı	drigei	$x_1$ feels bittersweet about $x_2$ (event/state)
 meodıatua	drijdikygau	$g_1$ comforts $j_1=b_1$ about $b_2$
+hıdokabo	drotabno	$x_1$ is a hydrocarbon (organic compound consisting entirely of hydrogen and carbon)
 dochua	du'acme	$c_1=d_2$ (quoted word(s)) is the given name (as opposed to the family name) of $c_2=d_3$, used by $c_3$ and given by namer $d_1$.
 duıshao	du'edji	$x_1=du_1=dj_1$ is greedy for/wants too much of $x_2=dj_2$ (event/state) for purpose $x_3=dj_3$, excessively greedy by standard $x_4=du_3$.
 duıjuoı	du'eski	$x_1=s_1$ exaggerates $x_2=s_2$ (object/event/state) to audience $x_3=s_3$ with description $x_4=s_4$ (property)
@@ -1057,6 +1062,7 @@ fıeqruo	fintra	$t_2$ is the style (in the sense of art/fashion/creative work/ob
 cıejue	fipma'i	$x_1$ is March of year $x_2$ in calendar $x_3$.
 cıenueqbeaq	fipre'uga'a	$x_1$ is stick-shaped fish meat [a fishstick] of fish type/species $x_2$
 cıepoaı	fipso'a	$x_1=s_1$ is a roe/spawn of fish $x_2=s_2=f_2$
+cıetuo'oguı	fiptulsince	$x_1$ is a water moccasin.
 cıegıe	fipybirka	$b_1$ is a fin of fish $x_2=f_1$ of species $x_3=f_2$.
 cıekuoq	fipybo'u	$b_1$ is a fish bone, performing function $b_2$ in body of fish $b_3$.
 cıehuoı	fipyrebla	$x_{1}$ is a tail with tailed-fish $x_{2}$.
@@ -1122,6 +1128,7 @@ beaqkıoqsoqluaq	ga'arboijvi	$j_1$ plays baseball against $j_2$ in competition $
 beaqmarao	ga'ardansu	$d_1$ (individual, mass) pole dances to accompaniment/music/rhythm $d_2$ using pole $g_1$.
 beaqfuom	ga'argreku	$x_1$ is a truss for supporting $x_2$
 beaqfuomcoa	ga'argrekycripu	$x_1$ is truss bridge a over/across $x_2$ between $x_3$ and $x_4$
+beaqmazı	ga'arpatlu	$x_1$ is a french-fried potato of variety/cultivar $x_2$ cooked in fat/oil $x_3$
 beaqkıao	ga'avro	$v_1$ is a grate between $v_2$ and $v_3$ of material $g_2=x_4$.
 gaısı	ga'ezga	$g_1=z_1$ perceives $z_2$ to have quality $g_2$ by means/sense $g_3=z_3$ under conditions $g_4=z_4$
 poaduopoaı	ga'onra'itsi	$t_1=g_1=r_1$ is an indehiscent fruit/seed-envelope (which remains closed/sealed and whole) of organism $t_2$ with potential to produce/containing/enclosing offspring $t_3=g_3$ preventing passage to $g_2$  (default: external environment)
@@ -1182,6 +1189,7 @@ kunenueq	geryre'u	$r_1$ is dog meat from species/breed $r_2=g_2$.
 kunebue	gerzda	$z_1$ is a doghouse for dog $z_2=g_1$.
 kunebue	gerzdani	$z_1$ is a doghouse for dog $z_2=g_1$.
 kunebarua	gerzgu	$r_1$ is a dog rose (Rosa canina) of species/strain $r_2$.
+gıgaroaıromtoaı	gigbivysamsle	$se_1$ is (close to) a billion ($10^9$) of eight indivisible, most basic computer subunits of computer $se_2$; $se_1$ is a gigabyte
 genealuo	ginlanzu	$x_1$ (mass) is a biological/genetic/'blood' family with members including $x_2$ bonded/tied/joined according to standard/'blood' relations $x_3$.
 genealuojeq	ginlazmi'u	$x_{1}$ is a genetic/biological/'blood' family member of $x_2$ via bonds/ties/standard/blood relations $x_3$.
 genealuopao	ginlazrirni	$x_1$ is the biological/full/genetic-familial/'blood' parent of $x_2$; $x_2$ is the biological offspring/direct and immediate genetic-familial descendant of $x_1$.
@@ -1386,6 +1394,8 @@ junasıu	jetsmi	$x_1$ seems to be the case to cognizer $x_2$.
 junamıeq	jetycipra	$x_1$ is a test for determining whether $x_2$ is the case.
 junajeq	jetydu'i	$x_1$ and $x_2$ have the same truth value; either both or none of $x_1$ and $x_2$ is true
 juna'ıjo	jetyja'o	$x_1$ proves / provides evidence for / demonstrates the truth of $x_2$ (du'u) to audience $x_3$
+majuna	jezyje'u	$x_1$ is the truth value / degree of truth of $x_2$ (bridi) by epistemology/metaphysics $x_3$
+mashaılaı	jezystisni	$sin_1$ signals whether $sin_3=sis_1$ should stop; $sin_1$ is a traffic light
 hıoqnoı	jgicro	$c_1=j_1$ is offended/[feels hurt pride] about $j_2$ (abstraction).                                                      
 hıoqduıkuq	jgidu'esku	$x1=j1=d1=c1$ boasts/brags $x2=j2=c2$ (text) to audience $x3=c3$ via medium $x4=c4$
 mıetoaıfuom	ji'erslegreku	$x_1$ is the cytoskeleton of cell $x_2$
@@ -1520,6 +1530,7 @@ kafehaqbaıjoe	kafyjupcre	$c_1$ is a barista skilled at making coffee beverages 
 ıqtuaı	kairxadni	$x_1=xa_1$ is an avatar/physical embodiment of property/force $x_2=c_2$ (ka); $x_1$ is $x_2$ incarnate.
 ıqchıa	kaitcu	$x_1$ needs to be/do $x_2$ (ka) for purpose $x_3$
 kaqkıoq	kalboi	$b_1=k_1$ is an eyeball (body part) of $k_2$.
+keqchom	kalcycinki	$c_1$ is a dung beetle [dung-eating arthropod] of species/breed $c_2$.
 kaqtıekıaq	kalgaikre	$ke_1$ is an eyelash (body part) of $ke_2=ka_2$.
 kaqtıefurıtua	kalgaisligau	$x_1=k_2=g_1$ winks/blinks
 kaqkurı	kaljba	$x_1$ is a longan berry (Dimocarpus longan) of type $x_2$
@@ -1675,6 +1686,7 @@ noaıpuo	ladypu'o	$p_1$ is a quantity of powdered milk made from milk $p_2=l_1$.
 nhedeq	lairka'e	$x_1$ is quantifiable by quantifier $x_2$ on scale $x_3$.
 nhejıe	lairpai	$x_{1}$ is a judge with quantity $x_{2}$ with quantifier $x_{3}$ with scale of quantity $x_{4}$.
 nhetuedıu	lairtcinyske	$x_1$ is statistics based on methodology $x_2$.
+geode	laldymle	$x_1$ is retro/vintage to $x_2$ by standard $x_3$
 leaqpeo	lamgre	$x_1$ passes by $x_2$ to $x_3$ from $x_4$
 leaqzeo	lamgrute	$g_1$ is an accessory fruit of $g_2$
 leaqpeo	lampagre	$p_1=l_1$ passes by $p_2$ to $p_3$ from $p_4$ by $l_2$.
@@ -1692,6 +1704,8 @@ lea'ıjorıaq	larja'ostu	$x_1$ is an art gallery showing exhibition or art $x_2$
 learıoq	larlei	$k_1$ is an artistic class/category/subgroup/subset within art $k_2=l_1$ with defining property $k_3$. $k_1$ is a genre.
 leashuaq	larpra	$x_1$ is-an-artist/produces $x_2$ by artistic application of skill/craft $x_3$.
 leagıaıshuaq	laryrakpra	$c_1$ sculpts/carves $c_2=l_1$ from $s_2$ using tool $s_1$
+ꝡachımcheoq	lasybo'i	$b_1$ is a plastic bottle/jar/urn/flask/closable container made of plastic for $b2_2$ with lid $b_4$.
+ꝡachımcea	lasydakli	$d_1=s_1$ is a plastic sack/bag with contents $d_2$.
 katoshoı	latcmo	$x_1=c_1=m_1$ meows expressing  $x_2=c_3$.
 katohako	latcribe	$x_1$ is a panda of genus/species $x_2$.
 katochebanıu	latfekspa	$x_1$ is catnip of species $x_2$.
@@ -2148,6 +2162,7 @@ busua	nalsa'u	$s_1$ is optional / not necessary for process $s_2$ under conditio
 busuarakukuqtea	nalsa'uslakyskute'a	$t_1=c_1$ is afraid of saying syllable(s) $c_2=sl_1$ of language $sl_2$ to $c_3$ via $c_4$ because they believe that saying them is not necessary for continuing state/process $sa_2$ under conditions $sa_3$
 buchıaq	nalsanji	$x_1$ is unconscious/not aware of $x_2$ (object/abstract).
 buseo	nalspe	$f_1=n_1$ is unmarried under law/custom/tradition $s_3$.
+burıem	nalstace	$s_1$ is dishonest/disingenuous to $s_2$ about $s_3$.
 bushaı	nalsti	$s_1$ (agent) is relentless/unceasing in activity/process/state $s_2$.
 bukeoımoe	nalta'acni	$c_1=t_1$ is withdrawn, feeling emotion $c_2$ about $c3=t_3$ from $t_2$.
 butıoqtua	naltelgau	$x_1=g_1$ unlocks lock $x_2=g_2=s_1$, a lock / seal of / for sealing $x_3=s_2$ with/by locking mechanism $x_4=s_3$.
@@ -2188,6 +2203,7 @@ buchoqhuı	narplixla	The use of $x_1$ for purpose $x_2$ is discouraged in favour
 bupugaıcheu	narprugastcica	$x_1$ (event) causes jamais-vu to $x_2$ (person) using sense $x_3$ under conditions $x_4$
 buromcoe	narsamjo'e	Computer $j=1=s_1$ is disconnected from [not connected to] computer $j_2=s_1$ via medium $j_3$.
 buromcoetua	narsamjongau	$g_1$ (agent) disconnects computer $j=1=s_1$ from computer $j_2=s_1$ in medium $j_3$.
+bushıqdeq	narsumnyka'e	$k_1$ is unable to smell/scent (transitive verb) under conditions $k_3$ (event/state).
 bulıeı	nartinbe	$t_1$ disobeys/does not follow the command/rule $t_2$ made by $t_3$; (adjective:) $t_1$ is disobedient.
 buhuodeq	nartinka'e	$k_1$ is deaf/unable to hear under conditions $k_3$ (event/state).
 bukaqdeq	narviska'e	$k_1$ is blind/unable to see under conditions $k_3$ (event/state).
@@ -2738,6 +2754,7 @@ rombeoqbeo	samcmuga'i	$x_1=s_1$ is a port/conversion to operating system/archite
 rombeoqjoq	samcmuralju	$r_1$ is a kernel of operating system $j_1$ on computer $j_2=s_1$
 romkoe	samcu'a	$x_1$ clicks/selects $x_2$.
 rombuaq	samfli	$f_1=s_1$ crashes while doing $f_2$ (state / event)
+romgıga	samgi'o	$g_1$ is $2^{30}$ of $g_2$ in dimension/aspect $g_3$ (default is units).
 romꝡota	samgotro	$g_1$ is $2^{80}$ of $g_2$ in dimension/aspect $g_3$ (default is units).
 romcoe	samjo'e	Computer $j=1=s_1$ is connected to computer $j_2=s_1$ via medium $j_3$.
 romcoetua	samjongau	$g_1$ (agent) connects computer $j=1=s_1$ to computer $j_2=s_1$ via medium $j_3$.
@@ -2868,6 +2885,7 @@ sıgagoqceu	sigdamva'u	$x_{1}$ is a breathe with smoke source-cigar $x_{2}$. (om
 sıgaceu	sigva'u	$v_1$ is a cigarette/cigar smoker; $v_1$ smokes cigarettes/cigars.
 sıgapeq	sigyple	$p_1$ is a / is a quantity of rolling paper from source $p_2$.
 sıgapeqboe	sigyplebo'o	$p_1$ is a piece of rolling paper from source $p_2$.
+loeıcheo	siktysi'u	$x_1$ (plurality) interacts in manner $x_2$
 sırıkoaı	sikyju'e	$x_1=j_1=s_1$ is a web / spider's web / network or interconnected structure resembling a web, produced by $x_2=s_2$, allowing passage of / including $x_3=j_2$, prohibiting passage of / excluding $x_4=j_3$, web properties $x_5=j_4$.
 cheodıba	simbasti	$x_1$ trades places with $x_2$ in circumstance $x_3$.
 cheodıbatua	simbasygau	$x_1$ interchanges $x_2$ and $x_3$ in circumstance $x_4$.
@@ -2875,6 +2893,7 @@ cheosho	simbi'o	$x_1$ (plural) become mutual in property $x_2$ (ka).
 cheosoı	simda'a	$x_{1}$ fight [each other] over issue $x_{2}$ (abstract).
 cheoshe	simni'i	$x_1$ and $x_2$ entail each other.
 cheopaı	simpe'o	$x_{1}$ are friends [of each other].
+cheoloeı	simsikta	$x_1$ interacts with $x_2$ in manner $x_3$
 cheoneu	simsumji	$x_1$ is the sum of all of $x_2$ added together
 cheomıujeq	simtu'i	$x_1$ (set) agree with each other that $x_2$ (proposition) is true about matter $x_3$
 oguı'aıpı	sincycrida	$c_1$ is a dragon/lindworm of mythos/religion x2.
@@ -2949,6 +2968,10 @@ keoınua	snucpa	$x_1=s_1=c_1$ negotiates $x_2=s_2=c_2$ with $x_3=c_3$
 keoırıaq	snustu	$s_1$ is a forum for $c_1$ to discuss/talk about topic/subject $c_2$.
 soꝡanulı	sobgrasu	$s_1=g_1$ is a quantity of soybean oil from soybeans of species/variety $s_2=g_2$.
 soꝡanao	sobjau	$s_1=d_1$ is made of/contains/is a quantity/expanse of soy milk/soya milk/soybean milk/soy juice/soy drink from soybeans of species/variety $s_2$.
+soꝡapuım	sobyxinmo	$s_1=x_1$ is a quantity of ink of color/pigment $x_2$ used by writing device $x_3$ from soybeans of species/variety $s_2$.
+tujuıbuchıaqsho	sojnalsajbi'o	$x_1$ becomes unconscious/loses consciousness.
+tujuıbuchıaq	sojnalsanji	$x_1$ is in the state of general unconsciousness/unawareness.
+tujuızaı	sojypa'a	$p_1$ expects $p_2$ (event); $p_1$ expects $p_2$ to happen.
 hoechaq	soldei	$x_1$ is Sunday of week $x_2$ on calendar $x_3$.
 hoegıogıu	solgusli'i	$x1=l1$ is a sunbeam/sunray/[line of sunlight] illuminating $x2=g2$
 hoehoaq	soljelca	$j_1$ is sunburnt / tanned by the sun
@@ -2983,6 +3006,8 @@ puıteı	sortai	$x_1$ is polymorphic, has polymorphism
 puıshıaq	sortu'e	$x_1$ is a myriapod
 puıchıo	soryroi	$x_1$ happens many times in interval $x_2$.
 puıruabarua	soryrulzgu	$r_1$ is a  many-flowered/multiflora/baby/Japanese/seven-sisters/Eijitsu roserose (Rosa multiflora) of species/strain $r_2$.
+keınuımteı	sostartai	$x_1 = $tai$_1$ is a constellation of stars $x_2 = $tar$_1$ (set, quantity, region), according to standard $x_3$.
+keıbue	sosyzda	$x_1$ is a hamlet/settlement with inhabitants $x_2$
 sımlıaq	sotmei	$x_1$ are few
 sımzaı	sotpa'a	$p_1$ wishes for $p_2$ (event); $p_1$ wishes that $p_2$ happened.
 sımchıo	sotroi	$x_1$ happens seldom/infrequently/is rare in interval $x_2$.
@@ -3052,6 +3077,7 @@ ekaceu	sukyva'u	$x1=v1$ gasps air $x2=v2$
 aqmısho	sumbi'o	$x_1$ fills selbri $x_2$ in terbri $x_3$.
 aqmıraı	sumdai	$x_1$ is an object (may or may not be material); any object that can be the subject of a noun or sumti; "object" in object-oriented programming
 aqmıcoq	sumka'i	$x_1$ is a pro-sumti/pronoun representing $x_2$ as argument of predicate/function $x_3$ filling place $x_4$.
+shıqdeq	sumnyka'e	$k_1$ is able to smell/scent (transitive verb) under conditions $k_3$ (event/state).
 aqmıchue	sumpoi	$x_1$ is a termset/set of arguments of predicate/function $x_2$ filling places $x_3$.
 aqmıteoq	sumrei	$p_1$ (text) is a question asking for an argument, asked by $p_3$ to $p_4$.
 aqmısıu	sumsmi	$x_1$ is a term (syntactic unit).
@@ -3188,6 +3214,7 @@ cheupoq	ticpre	$x_1$ is a humbug/trickster deceiving $x_2$
 cheufuq	ticta'u	$ta_1$ is a disguise/camouflage worn by $ta_2$ to deceive $tc_2$ into $tc_3$.
 cheu'ıjo	ticyja'o	$j_1=t_1$ stages, deceptively demonstrating $j_2$ to audience $j_3=t_2$.
 cheuteqdo	ticyve'u	$v_1$ fraudulently sells $v_2$ [goods/service/commodity] to buyer $v_3=t_2$ for amount/cost/expense $v_4$
+nı'ıq	tifkai	$x_1$ is the thing(s) shown/indicated/pointed to by the speaker when this word is used
 reummarao	tigdansu	$d_1$ (individual, mass) dances concert dance/performance dance to accompaniment/music/rhythm $d_2$, for/before audience $t_2$.
 tuoqkoı	tijdzu	$x1=t1=c1$ plods on surface $x2=c2$ with limbs $x3=c3$
 tuoqshua	tijyfa'u	$x1=t1=f1$ slumps to $x2=f2$ from $x3=f3$ in reference frame $x4=f4$
@@ -3228,6 +3255,7 @@ gıqkıe	tolckire	$x_1$ feels resentment/bitterness towards $x_2$ for action $x_
 gıqtıshaı	tolcliva	$x_1$ arrives at $x_2$ via route $x_3$
 gıqnua	tolcpa	$c_1$ leaves $c_2$, which they brought, at $c_3$
 gıqdaı	tolcu'i	$c_1$ (event/state/property) is impossible under condition $c_2$.
+gıqnıuq	tolcumla	$x_1=c_1$ is cocky/chesty/arrogant about $x_1=c_2$ (abstraction).
 gıqdıaqmoe	toldikcni	$x_1$ has an emotional see-saw involving emotion(s) $x_2$; $x_1$ experiences emotion $x_2$ irregularly.
 gıqshao	toldji	$x_1$ is reluctant/unwilling/disinclined to $x_2$ for purpose $x_3$.
 gıqsoa	toldju	$x_1$ frustrates / hinders $x_2$ from doing event/activity $x_3$; $x_1$ makes doing $x_3$ harder for $x_2$
@@ -3252,6 +3280,7 @@ gıqse	tolja'e	The negation of $x_1$ (event/state) is a result/outcome/conclusio
 gıqjıaı	toljgari	j$_1$ lets go/releases $j_2$ from $j_3$ (part of j1) at locus $j_4$ (part of j2).
 gıqsı	tolju'i	$x_1$ avoids/ignores/directs attention away from object/affair $x_2$.
 gıq'ıq	tolkai	$x_1$ is characterized by the polar opposite of $x_2$ (ka)
+gıqkoem	tolke'i	$x_1$ is callous/implacable/heartless/merciless/ruthless towards $x_2$ (person) about $x_3$ (abstraction).
 gıqkuıca	tolki'u	$x_1$ (event/state) is a reason/justification/explanation for/causing/permitting the negation of $x_2$ (event/state). $x_1$ prevents $x_2$.
 gıqchı	tolkri	$x_1$ disbelieves/rejects $x_2$ as false about $x_3$.
 gıqfoaq	tolkufra	$k_1$ feels discomfort/is uncomfortable with conditions/environmental property(ies) k2.
@@ -3290,6 +3319,7 @@ gıqshaı	tolsisti	$x_{1}$ [agent] begins activity/process/state $x_{2}$.
 gıqseo	tolspe	$x_1$ is a bachelor / single / unmarried.
 gıqzueq	tolspofu	$x_1$ is capable of performing functions/ready for use or service $x_2$; $x_1$ is operable, functional, operational, usable, unbroken, useable, utile
 gıqrıaı	tolsra	$x_1=s_1$ opposes / is contrary to / against / hinders / [resists] $x_2=s_2$ towards force / opposition / harm / resistance / goal (possibly indirect) $x_3=s_3$ with [direct] force / by means / with $x_4=s_4$.
+gıqrıem	tolstace	$x_1$ is dishonest to $x_2$ about matter/fact $x_3$
 gıqshaı	tolsti	$x_{1}$ [agent] begins activity/process/state $x_{2}$.
 gıqsea	tolsurla	$s_1$ expends effort/is actively/effortfully involved in doing/being $s_2$ (activity)
 gıqjaq	toltce	$x_1$ is little/limited in property $x_2$ towards $x_3$.
@@ -3362,6 +3392,7 @@ pıamaı	tubypa'i	$x_1$ feels brotherly/sisterly/fraternal love [philia] toward 
 pıaseo	tubyspe	$s_1$ is a brother/sister-in-law (brother's/sister's spouse) of $m_2$ under law/custom/tradition/system/convention $sp_3$.
 mıujeqsho	tugbi'o	$x_1=b_1=t_1$ settles issue $x_2=t_4$ with person $x_3=t_2$, agreeing that $x_4=t_3$ (du'u) is true.
 mıujeqcheo	tugysi'u	$t_1=t_2=s_1$ are unanimous / sharing the same view on $t_3=s_2$ (du'u).
+tuochuq	tulcti	$c_1=t_1$ swallows $c_2$.
 dueqpıusaoro	tumcakrespa	$x1=s2=r1$ is a tortoise of species $x2=r2$
 dueqfurı	tumdesku	$x_1$ (land/ground) undergoes earthquake.
 dueqgaıfa	tumfakli'u	$l_1$ explores lands in $l_2=t_2$ discovering facts $f_2$ using means $l_3$
@@ -3371,6 +3402,7 @@ dueqrunaotıao	tumjvejaumapti	$x_1$ is amphibious (adapted for both land and wat
 dueqrem	tumsfe	$s_1$ is the ground of land $s_2=t_1$ at location $t_2$.
 dueqremguq	tumsfeni'a	$c_1$ is/are underground/subterranean beneath ground $t_1=s_1=c_2$ in frame of reference $c_3$.
 dueqnıu	tumspa	$s_1$ is a land plant/embryophyta/metaphyta/plantae sensu strictissimo of species/strain/cultivar $s_2$ at location $t_2$.
+dueqtetabo	tumtorka	$x_1$ is a tortoise/land turtle of species/variety $x_2$
 dueqmıeq	tumymre	$m_1$ surveys $t_1$=$m_2$ as $m_3$ (map or measurements) in unit $m_4$ with accuracy $m_5$
 shıaqpuefuq	tupcutci	$c_1$ is a boot for covering/protecting leg $c_2=t_1$, and of material $c_3$.
 shıaqshıo	tupyjanco	$j_1$ is a hip attaching leg $j_2=t_1$ to body $j_3=t_2$.
@@ -3542,6 +3574,7 @@ aobıpoq	xarpre	$xa_1=p_1$ is a character/role/imaginary person created by $xa_2
 aobıpoqsıuruo	xarpresmitra	$x_1=t_1=s_1$ acts like/pretends to be fictional/imaginary character $x_2=t_2=s_2=xa_1=p_1$ imaginary to $x_3=xa_2$, in property/way $x_4=s_3$ under conditions $x_5=t_3$.
 naomıreajıeq	xaskoiji'o	$x_1$ is a cape, a headland.
 naomıguq	xasni'a	$x_1$ is under sea $x_2$ in reference frame $x_3$.
+naomıtetabo	xastorka	$x_1$ is a sea turtle of species $x_2$.
 naomıpıusaoro	xasycakrespa	$x_1$ is a sea turtle of species $x_2$.
 naomınuq	xasycurnu	$c_1$ is a sea worm of species $c_2$.                                             
 naomıhaq	xasydja	$x_1$ is seafood of ingredients/contents $x_2$ of variety/type $x_3$ from sea/ocean/gulf/fluid body $x_4$
@@ -3604,6 +3637,7 @@ seaosuaıca	xumsutri'a	$r_1=x_1$ catalyzes chemical reaction $r_2=s_2$ under con
 kıabao	xunblabi	$b_1=x_1$ is pink.
 kıaheıga	xuncindu	$x_1$ is a northern red oak (Quercus rubra) of species/strain $x_2$.
 kıapuruq	xunsmela	$x_1$ is a cherry [berry] of species/variety $x_2$
+kıapuımpı	xunximpinca	$x_1$ is the beeturia/red-dyed urine of $x_2$ containing pigment/dye/coloring substance $x_3$.
 kıahaqkepa	xunydjasluni	$s_1$ is a red/purple onion (Allium cepa) of variety/strain $s_2$.
 ruaqlıemoaq	xusfrimo'i	$x_1$ remembers hearsay $x_2$
 ruaqlojı	xuslogji	$l_1$ [rules/methods] is a propositional logic for deducing/concluding/inferring/reasoning to/about $l_2$ (du'u) with propositions $xu_2$.
