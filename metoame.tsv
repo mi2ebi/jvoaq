@@ -31,6 +31,7 @@ jaraguobe	bajbakni	$x_1$ is an antelope (any of various bovids) of species $x_2$
 jaratıshaı	bajli'a	$b_1=c_1$ runs away from $c_2$ via route $c_3$ on surface $b_2$ using limbs $b_3$ with gait $b_4$.
 jarasoqluaq	bajyjvi	$b_1=j_1$ races against $j_2$ in race $j_3$ for prize $j_4$ on track $b_2$ with legs $b_3$ and gait $b_4$.
 jaralomahıeqsoqluaq	bajypipre'ojvi	$j_1=b_1=p_1=r_1$ compete(s) in a track and field athletics match against $j_2$ in competition $j_3$ for prize/title $j_4$.
+guobemuoıkaı	bakcarci'a	$c_1$ writes $c_2$ boustrophedon on $c_3$ with $c_4$
 guobejıam	bakcatra	$x_1$ kills bull/cow $x_2$ by method $x_3$.
 guobeshoı	bakcmo	$c_1=b_1$ moos expressing $c_3$ (property).
 guobehobı	baklanme	$l_1$ is a musk ox of breed $l_2$ belonging to herd $l_3$.
@@ -223,6 +224,7 @@ kıoqluaq	bolkei	$k_1$ plays ball with the ball $k_2=b_1$
 kıoqnuımme	boltargri	$x_1=g_1$ is a globular cluster showing common property (ka) $x_2=g_2$ due to set $x_3=g_3$ linked by relations $x_4=g_4$
 kıoqmuq	bolxa'e	$xa_1=b_1$ is the fist of $xa_2$.
 kıoqgıem	bolxadba	$xa_1$ is a hemisphere of sphere $b_1=xa_2$, of material $b_2$, halfness standard $xa_3$.
+kıoqmuqdea	bolxanda'i	$x_1$ punches/clobbers/wallops $x_2$ (strikes with closed fist) on/at $x_3$
 sueqnaotoq	bonjacta'o	$t_1=d_1=b_1$ is a surfingboard of material/property $t_2$
 sueqteınoapeq	bonjarple	$p_1=j_1$ is corrugated cardboard from source $p_2$.
 sueqmueı	bonmaksi	$m_1$ is an antenna emitting/receiving wave $b_2=m_2$ with wave-form $b_3$, wave-length $b_4$ and frequency $b_5$.
@@ -332,6 +334,7 @@ caısao	caibra	$b_1=c_1$ is huge/enormous/colossal in property $b_2=c_2$ to obse
 caıkaqsı	caicta	$cat_1$ stares at $cat_2$ as received by observer $car_3$.
 caıshao	caidji	$d_1$ craves/intensely wishes $d_2$ (event/state) for purpose $d_3$.
 caıgı	cairza'a	$x_1$ is an idol
+caıfurı	caisli	$s_1$ blinks/fades in an oscillating pattern at rate/frequency $s_2$ through set/sequence-of-states $s_3$ 
 caınoq	caivru	$s_1=c_1$ is roaring/blinding to $s_2$ via sensory channel $s_2=c_3$.
 pıunuq	cakcurnu	$x_1$ is a mollusk/clam/mussel/snail of species $x_2$.
 pıunuqdıu	cakcurske	$x_1$ is malacology based on methodology $x_2$.
@@ -570,6 +573,7 @@ nuınam	cmananba	$n_1$ is a roll/bun/biscuit/bun made from grains $n_2$.
 nuıpaqmetoa	cmapagjvo	$x_1$ (text) is a lujvo with meaning $x_2$ and arguments $x_3$, and which is constructed from tanru/veljvo $x_4$ such that each element of the veljvo is ultimately only a cmavo (including "{zei}", "{ke}"/"{ke'e}", "{bo}", etc.), gismu, or rafsi of such cmavo or gismu.
 nuınıuboebarua	cmapezyzgu	$r_1$ is a  small-leafed/Baja rose (Rosa minutifolia) of species/strain $r_2$.
 nuıborecefa	cmapinflani	$x_{1}$ is a small-flute.
+nuıpıe	cmapinxe	$x_1$ sips beverage/drink/liquid $x_2$ from source $x_3$
 nuısoq	cmarai	$t_1=c_1$ is the smallest among set/range $t_4$ in property/dimension $c_2 $(ka). 
 nuıhıu	cmari'e	$r_1$ is a creek/stream in land mass $r_2$, draining watershed $r_3$ into $r_4$/terminating at $r_4$.
 nuıpıo	cmaro'i	$c_1=r_1$ is a small rock of type $r_2$ from location $r_3$, small by standard $c_3$. $c_1$ is gravel.
@@ -831,7 +835,6 @@ laoca	depri'a	$x_1$ causes $x_2$ to wait for $x_3$ at $x_4$ before continuing $x
 laolaq	depsna	$s_1$ is a hesitation sound produced by $s_2=d_1$ while for/until $d_2$ at state $d_3$ before starting/continuing $d_4$ (activity/process).
 laorıaq	depstu	$s_1$ is a waiting room/place where $d_1$ waits for $d_2$.
 laoteınoa	depyjdari	$j_1=d_1$ is patient, unyielding to force $j_2=d_2$ under condition $j_3=d_3$.
-laochue	depypoi	$p_1$ is a waiting queue ordered by rules $p_2$ on unordered set $p_3$ waiting for $x_4=d_2$.
 asaıjeaq	derba'o	$b_1$ initially grows $b_2$ beyond the soil; $b_1$ sprouts $b_2$ from the ground.
 asaıchaq	derdei	$x_1$ is Saturday of week $x_2$ on calendar $x_3$.
 asaıfaseo	derdembi	$x_1$ is a peanut of variety $x_2$.
@@ -918,7 +921,6 @@ duecuo	draru'a	$x_1$ assumes $x_2$ correctly; $x_1$ (agent) is correct about $x_
 meotua	drigau	$x_1$ (agent) makes $x_2$ sad about $x_3$ (abstraction)
 meojaı	drigei	$x_1$ feels bittersweet about $x_2$ (event/state)
 meodıatua	drijdikygau	$g_1$ comforts $j_1=b_1$ about $b_2$
-hıdokabo	drotabno	$x_1$ is a hydrocarbon (organic compound consisting entirely of hydrogen and carbon)
 dochua	du'acme	$c_1=d_2$ (quoted word(s)) is the given name (as opposed to the family name) of $c_2=d_3$, used by $c_3$ and given by namer $d_1$.
 duıshao	du'edji	$x_1=du_1=dj_1$ is greedy for/wants too much of $x_2=dj_2$ (event/state) for purpose $x_3=dj_3$, excessively greedy by standard $x_4=du_3$.
 duıjuoı	du'eski	$x_1=s_1$ exaggerates $x_2=s_2$ (object/event/state) to audience $x_3=s_3$ with description $x_4=s_4$ (property)
@@ -1013,10 +1015,10 @@ faqdu	faumlu	$x_1$ (event) seems to happen/take place to observer $x_2$
 faqbıaq	faurbanzu	$x_1$ (nu) is a sufficient condition/is enough for $x_2$ (nu) to happen
 faqduı	faurdu'e	the amount/intensity of event/state $x_1$ is too high for $x_2$ to happen; $x_1$ happens too much for $x_2$ to happen
 faqdıa	faurjdika	$x_1$ (event) decreases in intensity/amount
-faqsuaı	faursutra	$f_1=s_1$ (event) happens swiftly/quickly/rapidly
+faqsuaı	faursutra	Process, event $x_1$ unfolds quickly, rapidly, relatively to similarly-structured events $x_2$.
 faqdaq	faurtei	$f_1$ is an event that has time/temporal duration $t_1$ ranging from starting time/event $t_2$ to ending time/event $t_3$.
 faqjeaq	faurze'a	$x_1$ (event) increases in intensity/amount
-faqmeoq	fausno	$f_1=s_1$ (event) happens slowly
+faqmeoq	fausno	Process, event $x_1$ unfolds slowly, relatively to similarly-structured events $x_2$.
 faqjaq	fautce	$x_1$ (event) happens intensely/in a great degree
 beotıao	favmapti	$f_1=m_1$ is homologous to $f_1=m_2$ in property/aspect $m_3$
 beoguo	favyke'u	$x_1=k_1$ is a redevelopment / replay of $x_2=k_2=f_1$ developing / evolving into $x_3=f_2$ from $x_4=f_3$ through stages $x_5=f_4$ for the $x_6=k_3$'rd time.
@@ -1176,6 +1178,7 @@ kunebue	ge'urzdani	$z_1$ is a doghouse for dog $z_2=g_1$.
 kunebue	ge'uzda	$z_1$ is a doghouse for dog $z_2=g_1$.
 jaıshoı	geirki'a	$k_1=g_1$ cheers with sound $k_2$ about $g_2$ (event/state).
 jaıluaı	geirzdi	$x_1=z_1=g_1$ is fun, to $x_2=z_2=g_2$ in property / aspect $x_3=z_3$.
+jaıfeımeopua	gekfegdripu'a	$x_1$ feels the whole range of human emotions about $x_2$ (conflicted, mixed emotions, maybe an emotional rollercoaster)
 jaıhuaq	gekmau	$x_1$ is happier than $x_2$ about $x_3$ by amount $x_4$
 zujuaogıqdue	gentoldra	$x_1$ is grammatically incorrect in situation $x_2$ according to grammar $x_3$
 zujuaotoatoaı	genvlasle	$s_1=g_1$ is a morpheme/most basic grammatical subunit of word, meaning/causing $v_2$ in language $v_3=g_2$ for language/text $g_3$.
@@ -1249,6 +1252,7 @@ mesoı	gumda'a	$x_1$(mass) brawls with $x_2$(mass) over issue $x_3$ (abstract)
 metua	gumgau	$ga_1$ combines individual $gu_2$ into mass $gu_1$.
 menao	gumjau	$d_1=g_1$ is a pool of water.
 meshuaq	gumpra	$x_1$ mass produces $x_2$ [product] by process $x_3$
+menhoq	gumsko	$x_1$ is a yarn, rope, cord or cable, constituted of twisted strands $x_2$.
 guaıbuo	gunbre	$b_1=g_1$ is ready for work/labor $g_2$ with goal $g_3$.
 guaılıekao	gunfrivei	$x_1$ is a résumé / cv / curriculum vita, summarizing $x_2$'s work experience, in medium $x_3$.
 guaırıeqtao	gunrivzu'e	$x_1=z_1=r_1=g_1$ procrastinates/avoids doing work $x_2=r_2=g_2$ (ka), instead doing $x_3=r_3$ (ka).
@@ -1259,6 +1263,7 @@ gıotoaı	guska'u	$x_1$ is a photon.
 gıogıu	gusli'i	$x1=l1$ is a ray/beam/[line of light] illuminating $x2=g2$ from source $x3=g3$
 gıochuo	gustci	$x_1$ is a lamp
 gıosho	gusybi'o	$b_1=g_1$ brightens under conditions $x_2=b_3$.
+gıocheoq	gusybo'i	$x_1$ is a lightbulb/light bulb made of $x_2$
 gıocaı	gusycai	$x_{1}$ gleams/shines on to $x_{2}$, the light source being $x_{3}$.
 gıochom	gusycinki	$x_1$ is a lightning bug/glowworm/firefly of genus/species $x_2$.
 gıoshoem	gusyjinru	$x_1$ basks in light $x_2$.
@@ -1525,6 +1530,7 @@ kafehaqbaıjoe	kafyjupcre	$c_1$ is a barista skilled at making coffee beverages 
 ıqmıeq	kaimre	$x_1$ measures, determinates (by sensorial examination) that property $x_2$ is satisfied by $x_3$.
 ıqbeotua	kaircnegau	$x_1$ (agent) changes $x_2$ to state $x_3$ (ka) from state $x_4$ (ka).
 ıqmıu	kairji'i	$x_1$ thinks/opines that $x_2$ is/does $x_3$ (ka) under grounds $x_4$
+ıqshe	kairni'i	having property $x_1$ semantically entails having property $x_2$.
 ıqjıe	kairpai	$x_1$ considers $x_2$ to have quality $x_3$ (ka) ; $x_2$ qualifies as / counts as being $x_3$ according to $x_1$
 ıqpaq	kairpau	being $x_1$ (ka) is part of being $x_2$ (ka)
 ıqtuaı	kairxadni	$x_1=xa_1$ is an avatar/physical embodiment of property/force $x_2=c_2$ (ka); $x_1$ is $x_2$ incarnate.
@@ -1746,7 +1752,7 @@ leupıo	likro'i	$x_1=r_1=l_1$ is a quantity of lava/magma [liquid rock] of compo
 leupıopıo	likrokro'i	$x_1$ is a quantity of igneous rock of type/composition $x_2$ from location $x_3$
 leutua	likygau	$g_1$ (agent) causes $l_1$ to be a quantity of liquid of composition $l_2$ under conditions $l_3$.
 leuca	likyri'a	$r_1$ causes $l_1$ to be a quantity of liquid of composition $l_2$ under conditions $l_3$.
-lıaıgıe	limbirka	$x_1$ is a fin (body part) of $x_2$.
+lıaıgıe	limbirka	$x_1$ is a fin or flipper (body part) of $x_2$.
 lıaısoraq	limla'u	$la_1$ is a pool where $li_1$ swims in fluid $li_2$.
 chuı'ıqlı	lirgli	$g_1$ is Old English/pertains to Old English-speaking culture in aspect $g_2$, early by standard $x_3=c_2$.
 chuıhuaq	lirmau	$x_1$ is earlier than $x_2$ by amount of time $x_3$.
@@ -1966,6 +1972,7 @@ jeqmaıseje	mitpamcinse	$c_1$ in activity/state $c_2$ exhibits a homoromantic/bi
 jeqshısejeseaqpoq	mitpavycinglepre	$pr_1$ is (a) homosexual.
 jeqshısejemaıpoq	mitpavycinpampre	$pr_1$ is (a) homosexual.
 jeqmıutoa	mitsmuvla	$v_1=m_1$ is a synonym of $m_2$ by standard $m_3$ in language $v_3$.
+jeqmıutoamekao	mitsmuvlaste	$x_1$ is a thesaurus with words $x_2$ in order $x_3$, medium $x_4$ and language $x_5$
 jeqlaqtoa	mitsnavla	$x_1$ is a homophone to $x_2$, and means $x_3$ in language $x_4$
 jeqdıeqcheo	mitybe'isi'u	$s_1$ (set) mutually synchronize $b_2$ via transmission means/medium $b_5$
 jeqjoaı	mitysisku	$x_1$ seeks/searches/looks for something that has the same identity as $x_2$ among $x_3$
@@ -2073,6 +2080,7 @@ muochıa	multcu	$x_1=n_1=m_1$ is to-do / needs completion in property $x_2=n_2=m
 fegıenuq	mumbircurnu	$x_1$ is a starfish of species $x_2$.
 fechaq	mumdei	$x_1$ is a Friday of week $x_2$ in calendar $x_3$.
 fepıanete	mumplini	$p_1$ is the fifth closest planet (default is Jupiter if p2 is the Sun) revolving around $p_2$ (default is the Sun), with planetary characteristics $p_3$, orbital parameters $p_4$.
+fenuımteı	mumtartai	$x_1$ is a five-pointed star; $x_1$ is a pentagram.
 feseum	mumvanci	$x_1$ is a Friday evening of week $x_2$ in calendar $x_3$.
 fetoaroaıgıu	mumvlabivli'i	$x_1$ is wuyan lüshi with tone pattern $x_2$, rhyming at locus $x_3$.
 fetoajogıu	mumvlavonli'i	$x_1$ is wuyan jueju with tone pattern $x_2$, rhyming at locus $x_3$.
@@ -2531,6 +2539,8 @@ putoaıchumıe	pruslemijyji'e	$x_1$ is a prokaryote of species/defining property
 pusıu	prusmi	$x_1$ beats $x_2$ to doing/being $x_3$ (ka).  $x_1$ did/was $x_3$ before $x_2$ did, who was trying to do the same thing.
 puseo	pruspe	$s_1$ is the ex-wife/husband of $s_2$ under law/custom/tradition/system/convention $s_3$.
 soaqtıeq	pudlu'a	$pl_1$ is a garden path to $pl_2$ from $pl_3$ through garden $pu_1$.
+soaqtıeqkune	pudlu'aju'a	$x_1$ is a garden-path sentence about $x_2$ in language $x_3$.
+soaqtıeqtoa	pudlu'avla	$x_1$ is a garden-path word meaning $x_2$ in language $x_3$.
 soaqjıo	pudydi'u	$d_1$ is a garden building/cabana/gazebo/shed for purpose/storing of $d_2$ in garden/tended/cultivated field $p_1$
 soaqbarua	pudzgu	$r_1$ is a garden rose of species/strain $r_2$.
 pualıe	pukfri	$x1=p2=l1$ enjoys $x2=p1=l2$
@@ -2552,6 +2562,7 @@ duolaq	ra'isna	$x_1$ is a sonorant (phonetic) sound
 boaımıu	radji'i	$x_1$ admits/accepts/acknowledges/allows/concedes/recognizes that $x_2$ is true about $x_3$ on grounds/under compelling evidence $x_4$
 boaıshoe	radycru	$x_1=r_1=c_1$ abandons / gives up $x_2$ under condition $x_3=r_3=c_3$
 tuaıdoem	ragyci'e	$c_1$ is a organ system with organs $c_2=r_1$ of body/species $r_2$ performing function $r_3$ 
+soqchı	raikri	$k_1$ is an extremist holding views/beliefs $k_2$ about subject $k_3$
 soqgua	rairgugde	$g_{1}$ is the superpower of peoples $g_{2}$ with land/territory $g_{3}$; (people/territory relationship).
 soqpaı	rairpe'o	$x_1=t_1=p_1$ is the best friend (/"bestie"/"BFF") of $x_2=p_2$ among set of friends $x_3=t_4$ in extreme $x_4=t_3$ (default ka zmadu).
 sheaqtua	rajgau	$x_1$ erects/raises/stands up (transitive) $x_2$ by reference frame $x_3$
@@ -2568,6 +2579,7 @@ gıaınoı	rakcro	$x_1$ itches at locus $x_2$.
 gıaıchıagaı	raktcuga'e	$x_1$ feels an itch at locus $x_2$; $x_1$'s $x_2$ itches
 joqtıeq	raldargu	$x_1$ is a highway to $x_2$ from $x_3$ with route $x_4$
 joqjaq	raljymutce	$x_1$ is pivotal, extremely important
+joqsıo	ralsi'o	$x_1$ is a subject/topic/theme of $x_2$; $x_2$ is about $x_1$
 joqdueq	raltu'a	$x_1$ is the mainland of $x_2$
 chıojoejeaq	rapcreze'a	$z_1=c_1$ (experiencer) increases in skill / expertise at $z_2=c_2$ by amount $z_3$ by means of repeating action $r_1$ $r_2$ times.
 chıofıeq	rapfinti	$x_1$ is a remake/re-invention of $x_2$
@@ -2706,6 +2718,7 @@ turaıjıobuı	roldzadijbartu	$b_1$ is outdoors; $b_1$ is outside of all buildin
 turaımaı	roldzapa'i	$p_1$ loves everyone and everything.
 tumaıseje	rolpamcinse	$c_1$ in activity/state $c_2$ exhibits a panromantic orientation by standard $c_4$.
 tufuaqkoe	rolxracu'a	$c_1$ selects all images containing $p_2$; $x_1$ completes a CAPTCHA
+tulaıkune	rolylerju'a	$x_1$ is a pangram.
 tujıq	rolza'i	$x_1$ (plural) is everything that exists for $x_2$ (person) under metaphysics $x_3$
 moaıpuruq	rotsmela	$x_1$ is a hackberry/bird cherry of variety $x_2$
 casekea	rucyca'a	$c_1$ is a processor/processing unit for purpose $c_2$.
