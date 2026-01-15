@@ -205,6 +205,7 @@ meaqpuılıaq	blosormei	$s_1$ is a fleet (of ships).
 meaqjucıtenua	blozeile'a	$l_1=b_2$ is a pirate aboard pirate ship $b_1$, stealing $l_2$, which is wrong according to $z_2$.
 sıaırue	bluble	$x_1$ is anemic of type $x_2$ by standard $x_3$.
 sıaıhıu	blufle	$f_1$ is blood flow/circulation of vital fluid $f_2=c_1$ of organism $c_2$, flowing in direction to/towards $f_3$ from direction $f_4$.
+sıaıkoaıkea	bluju'emi'i	$x_1$ is a dialysis machine for use/function $x_2$
 boerıe	bofsru	$x_1$ is wrapped around $x_2$.
 boemuq	bofxa'e	$x_1$ is a hand of $x_2$ in joint fingers shape.
 kuoqlohapıo	bogjimro'i	$x_1$ is a quantity of/is made of/contains limestone from location $x_2$.
@@ -700,6 +701,7 @@ feoqfuaqchuo	cukyxratci	$x_1$ is a compass for drawing circles $x_2$.
 daıtua	cumgau	$x_1$ enables $x_2$ (event) to happen; $x_1$ makes $x_2$ possible
 daıjıaqlua	cumymu'efi'a	$cf_1$ is science fiction about possible universe $cu_1=m_1$ by author $cf_3$.
 neqnuaıluaq	cundinkei	$k_1$ gambles/plays the lottery $k_2$.
+nuqgumıe	curbanfi	$x_1$ is a caecilians amphibian (Gymnophiona order).
 nuqcıe	curfi'e	$c_1=f_1$ is an eel of species/breed $c_2=f_2$.                                           
 kuqcoq	cuska'i	$x_1=k_1$ is a spokesperson of/speaks on behalf of $x_2=k_2=c_1$, saying $x_3=c_2$ to $x_4=c_3$ via expressive medium $x_5=c_4$.
 kuqkıaı	cusku'i	$x_1$ edits/revises/adapts text $x_2$ by $x_3$ for audience $x_4$ in medium $x_5$.
@@ -1526,6 +1528,7 @@ kafehaqbaıjoe	kafyjupcre	$c_1$ is a barista skilled at making coffee beverages 
 ıqgam	kaibli	having property $x_1$ semantically entails having property $x_2$.
 ıqceo	kaicfa	$x_1$ starts/begins to have property $x_2$
 ıqbeo	kaicne	$x_1$ transitions to state $x_2$ from state $x_3$
+ıqfa	kaikla	$x_1$ goes to (the place to) have property $x_2$
 ıqmıeq	kaimre	$x_1$ measures, determinates (by sensorial examination) that property $x_2$ is satisfied by $x_3$.
 ıqbeotua	kaircnegau	$x_1$ (agent) changes $x_2$ to state $x_3$ (ka) from state $x_4$ (ka).
 ıqmıu	kairji'i	$x_1$ thinks/opines that $x_2$ is/does $x_3$ (ka) under grounds $x_4$
@@ -1589,7 +1592,7 @@ cuoıtua	ki'irgau	$x_1$ makes $x_2$ and $x_3$ be related by binary relation $x_4
 cuoıceme	ki'irgrafu	$x_1$ is a relation space formed from elements/nodes in set $x_2$ and relationship $x_3$ which connects them.
 cuoıtıao	ki'irmapti	$x_1=m_1=k_1$ corresponds to / is as $x_2=m_2=k_2$ in property / aspect $x_3=m_3=k_3$ by standard $x_4=m_4$.
 cuoıchue	ki'irpoi	In the sequence $x_1$, each nonfinal member is related to the next member by the relation $x_2$.
-cuoıruaq	ki'irxu'a	$x_1=xu_1$ assigns / attributes $x_2=c_1$ to $x_3=c_2$ with relationship $x_4=xu_2=c_3$; $x_1$ designates $x_3$ as $x_2$.
+cuoıruaq	ki'irxu'a	$x_1=xu_1$ assigns / attributes $x_3=c_1$ to $x_2=c_2$ with relationship $x_4=xu_2=c_3$; $x_1$ designates $x_2$ as $x_3$.
 bıqchaq	ki'odje	$d1$ is $d2$ full kilodays (thousand day unit) in duration (default is 1 kiloday) by standard $d3$
 bıqgaram	ki'ogra	$g_1$ is $g_2$ kilograms in mass by standard $g_3$.
 bıqroaıromtoaı	ki'orbivysamsle	$se1$ is (close to) a thousand of eight indivisible, most basic computer subunits of computer $se2$; se1 is a kilobyte
@@ -1673,6 +1676,7 @@ shearemgoa	kutsfeca'u	$x_1$ is a hole (allowing complete passage through it) in 
 shearaı	kutydza	$x_1$ is the null value/argument
 sheajuna	kutyje'u	$x_1$ a tautology by standard/epistemology/metaphysics $x_2$.
 sheadueq	kutytu'a	$t_1=k_1$ is a desert located in/at $t_2$
+sheagıaqkea	kutyzgimi'i	$m_1$ is a karaoke machine for playing $m_2$
 leaqjeaq	la'irze'a	$z_1=l_1$ gets closer to $l_2$ in property $l_3$ by amount $z_3$.
 soraqdıu	la'uske	$x_1=s_1$ (mass of facts) is limnology based on methology $x_2=s_3$.
 baohaqkepa	labdjasluni	$s_1$ is a white onion (Allium cepa) of variety/strain $s_2$.
@@ -1933,13 +1937,14 @@ jıfa	mibykla	$x1=k1$ comes to me from $x2=k3$ via route $x3=k4$ by means $x4=k5
 jıpoq	mibypre	$m_1=p_1$ is me.
 goıtoetua	micka'agau	$m_1=g_1$ uses surgical implement $k_1$ to operate on organ(s) $k_2$ of patient $m_2$, as a treatment for ailment $m_3$.
 goıtoekua	micka'aku'a	$k_1$ is an operating theatre in which to perform surgery $m_4$.
-goıjuo	micnoi	$n_1$ is a doctor's note prescribing treatment/drug $m_4$ to $m_2$ for ailment $m_3$
+goıjuo	micnoi	$n_1$ is a doctor's note prescribing treatment/drug $m_4$ to $m_2$ for ailment $m_3$.  $n_1$ is a prescription
 goıraq	micra'a	$x_1$ is related to medical treatment/science/practice, or is medicinal, or is medical, or is related to healthcare, or is related to the practice/occupation of medicine or being a medical practitioner (doctor, nurse, midwife, pharmacist, technician, etc.; also: psychologists, psychiatrists, physical therapists, physicians, veterinarians, hospital administrators, vel sim.), or pertains to hospitals or caregiving, concerning general class of subjects/patients $x_2$ or ailment/body-part $x_3$ or form of treatment/care $x_4$.
 goıkero	micynimre	$x_1$ is a citron (Citrus medica) of type $x_2$
 goıseao	micyxu'i	$x_1$ is an instance/dose/quantity of medication/medicine/drug $x_2$ for treating ailment $m_3$.
 suejuo	midnoi	$n_1$ is an instruction for $n_2=m_3$ (event/state) to occur, issued by $n_3=m_1$ for intended recipient $n_4=m_2$.
 suetoa	midvla	$v_1$ is a command word/keyword ordering $v_2=m_3$ (event/state) in language $v_3$.
 chudoetoa	mijma'o	$x_1$ (text) is a particle connecting two parts of a construct and belonging to word class $x_2$
+umırompaq	miksampau	 $x_1$ is a microchip of device/computer $x_2$
 umısekuq	miksnidu	$x_1$ is $x_2$ microseconds in duration.
 umıchaq	mikydje	$d1$ is $d2$ full microdays (millionth of a day unit) in duration (default is 1 microday) by standard $d3$
 umıgaram	mikygra	$g_1$ is $g_2$ micrograms in mass (default is 1) by standard $g_3$.
@@ -2600,6 +2605,7 @@ atomtoaı	ratsle	$s_1$ is a subatomic particle [proton, neutron or electron]/mos
 atomjam	ratyjunla	$x1=j1$ is an atomic clock measuring time units $x2=j2$ to precision $x3=j3$ by using atoms of element/atomic number $x4=r2$ of isotope number/atomic weight $x5=r3$
 reqbue	re'azda	$z_1$ is a house for human being $z_2=r_1$.
 huoıfurıtua	rebdesygau	$x_1$ wags their tail.
+huoıgumıe	rebybanfi	$x_1$ is a salamander.
 huoısaoro	rebyrespa	$r_1$ is a lizard of species $r_2$.
 nueqchuqnıu	recyctispa	$cit_1=s_1$ is a carnivorous plant of species $s_2$, eating meat from source/animal $r_2=cit_2$.
 guoceo	refcfa	$c_1=k_2$ restarts for the $k_3$rd time.
@@ -2955,7 +2961,7 @@ mıutua	smugau	$g_1$ refers to $s_1$ with expression $s_2$ recognized by $s_3$.
 mıujuı	smujbi	$x_1$ (symbol/text) is close to $x_2$ (symbol/text) in meaning, as seen by $x_3$.
 mıulım	smujmi	$x_1$ understands the meaning of $x_2$ that is introduced by $x_3$
 mıucuoıruaq	smuki'irxu'a	
-mıucuoıruaq	smuki'ixu'a	$x_1=xu_1=c_2=s_3$ defines / assigns meaning / attributes definition $x_2=c_1=s_1$ to $x_3=c_2=s_2$; $x_1$ defines $x_2$ to be $x_3$.
+mıucuoıruaq	smuki'ixu'a	$x_1=xu_1=c_2=s_3$ defines / assigns meaning / attributes definition $x_3=c_1=s_1$ to $x_2=c_2=s_2$; $x_1$ defines $x_2$ to be $x_3$.
 mıushe	smuni'i	$x_1$ semantically entails $x_2$; the latter has the former as one of its semantic consequences.
 mıusıo	smusi'o	$sm_1=si_1$ is the abstract meaning of $sm_2$ recognized/seen/accepted by $sm_3$ 
 mıudıu	smuske	$sa_1$ is semantics with methodology $sa_3$.
@@ -3194,6 +3200,7 @@ daqmoabeo	tcikyga'i	$x_1$ reschedules from time $x_2$[hours, {minutes}, {seconds
 daqmoatua	tcikygau	$g_1$ schedules time $t_1$ [hours, {minutes}, {seconds}] for state/event $t_2$ on day $t_3$ at location $t_4$.
 chuosue	tcimi'e	$x_1$ (agent) sets / configures $x_2$ (machine/tool) to do $x_3$ (state/event/ka-of-$x_2$)
 tuefurıtua	tcinysligau	$x_1$ toggles $x_2$ with value $x_3$ from possible states $x_4$
+tuejıq	tcinyza'i	$x_1=z_1=t_2$ (e.g. abstraction, energy) is potential / potentially real, made real when / under conditions $x_2=t_1$ for $x_3=z_2$ under metaphysics / conceptual framework / model $x_4=z_3$.
 daocoetua	tcitygau	$g_1$ puts a label $t_1$ on $t_2$ showing information $t_3$.
 chuobaı	tcizba	$z_1$ makes tool $z_2=t_1$ for purpose $t_2$ out of $z_3$; $z_1$ implements $t_2$
 chıabıa	tcubi'a	$x_1$ is addicted to doing $x_2$ (property)
@@ -3635,8 +3642,9 @@ saımekea	xremi'i	$x_1=min_1$ is a blender/mixer for ingredients $x_2=mix_2$ to 
 rıuhıe	xrubei	$b_1=x_1$ takes/carries back $b_2=x_2$ to origin/earlier state $b_3=x_3$ from $b_4=x_4$ over path $b_5$.
 rıusue	xrucpe	$c_1$ requests/asks $c_2$ to go back/return to $x_2$ from $x_3$.
 rıuhaq	xrudja	$x_1$ is cud/cecotrope/re-eaten food for $x_2$ (ruminant/rabbit) that began as $x_3$
-ruaqmıu	xu'asmu	$x_1=s_1=xu_2$ is a definition of $x_2=s_2=xu_2$ given by / according to $x_3=s_3=xu_3$.
+ruaqmıu	xu'asmu	$x_1=s_1=xu_2$ is a definition of $x_2=s_2=xu_2$ given by / according to $x_3=s_3=xu_1$.
 seaobeoq	xu'icmu	$x_1$ is an element of compound $x_2$.
+goaqgumıe	xulbanfi	$x_1$ is an amphibian of the Lissamphibia (“smooth amphibian”) subclass.
 goaqgueq	xulbu'u	$x_1$ is satin
 goaqgueqchuo	xulbuktci	$x_1=t_1$ is an iron for straightening cloths $x_2=b_1=xu_1$ of material $x_3=b_2$.
 goaqtua	xulgau	$x_1$ smooths/flattens/levels $x_2$
