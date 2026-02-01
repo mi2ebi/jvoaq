@@ -17,7 +17,7 @@ use serde_json::Value;
 #[allow(clippy::format_push_string)]
 fn main() -> Result<(), ()> {
     let settings = Settings::from_str("A1rgz").unwrap();
-    let client = Client::builder().timeout(Duration::from_secs(60)).build().unwrap();
+    let client = Client::builder().timeout(Duration::from_mins(1)).build().unwrap();
     let jvs = client
         .get("https://github.com/mi2ebi/dictionary-counter/raw/refs/heads/master/jvs.txt")
         .send()
@@ -51,7 +51,7 @@ fn main() -> Result<(), ()> {
     for (tanru, _, _) in tauste.clone() {
         for valsi in tanru {
             if freqs.contains_key(&valsi) {
-                freqs.insert(valsi.clone(), freqs.get(&valsi).unwrap() + 1);
+                freqs.insert(valsi.clone(), &freqs[&valsi] + 1);
             } else {
                 freqs.insert(valsi, 1);
             }
