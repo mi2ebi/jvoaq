@@ -427,7 +427,6 @@ doemluaq	ci'erkei	$k_1$ plays game $k_2=c_1$ governed by rules $c_2$ interrelati
 doemluaqnhe	ci'erkeilai	$ke_1=kl_1$ has score $kl_2$ in game $ke_2=c_1$ governed by rules $c_2$ interrelating game parts (physical or conceptual) $c_3$.
 sıgımaı	ci'irpa'i	$x_1$ [loves/takes great, passionate interest in] $x_2$
 sıgıhuaq	ci'izma	$c_1=z_1$ is more interesting than $z_2$ to $c_2$ in amount $z_4$.
-nıode	ci'omle	$x_1$ is cute to $x_2$ in aspect $x_3$.
 saqchaq	cibdei	$x_1$ is a Wednesday of week $x_2$ on calendar $x_3$.
 saqkojoaq	cibmoija'a	$j_1$ has the rank of Major/Lieutenant Commander/Squadron Leader (equivalent of NATO OF-3) in military unit /organization $j_2$.
 saqkomuqcheı	cibmoixandegji	$xa_1=d_1$ is the middle finger of hand $xa_2=d_2$ attached to body $d_3$.
@@ -505,7 +504,6 @@ nhamecua	cismyfra	$c_1=f_1$ smiles at $f_3$ under conditions $f_4$.
 nhameteı	cismytai	$x_1$ is a smile (facial expression)
 nıolıqguobe	citfe'ibakni	$b_1=f_1=c_1$ is a heifer [young female bovine/cow] of species/breed $b_2=f_2$ by standard $f_3=c_2$. 
 nıohuaq	citmau	$z_1=c_1$ is younger than $z_2$ by amount $z_4$.
-nıode	citmle	$m_1$ is cute to $m_2$ in aspect $m_3$.
 nıonaq	citnau	$n_1=c_1$ is a youth/young man by standard $c_2$.
 nıomaı	citpa'i	$p_1$ has a crush on/is infatuated with $p_2$
 nıosoq	citrai	$t_1=c_1$ is youngest among $t_4$.
@@ -907,7 +905,6 @@ soajaı	djugei	$x_1=g_1=s_1$ is happy/merry/gay about helping/assisting/aiding o
 soame	djugri	$g_1$ is a charity / aid organization helping $s_2$ with event/activity $s_3$
 soasıao	djukra	$x1=k1=d1$ is a resource for $x2=d2$ to use
 soajuo	djunoi	$n_1$ is an instruction/advice from $x_2=n_3$ to help/assist/aid $x_3=s_2=n_4$ do/achieve/maintain event/activity $x_4=s_3$.
-soacheo	djusi'u	$x_1$ (plural) help each other doing $x_2$
 soakuq	djusku	$c_1=s_1$ gives advice $c_2$ (sedu'u/text/lu'e concept) to $c_3=s_2$ about doing/achieving/maintaining $s_3$, on medium $c_4$.
 suqdoetoa	donma'o	$c_1$ is a second person pronoun in language $c_4$.
 suqkeoı	donta'a	$x_1$ talks to you (i.e. whoever $x_1$ is addressing) about $x_2$ in language $x_3$
@@ -1869,7 +1866,6 @@ otadashı	mavypesxu	$p_1$ is a quantity of oatmeal/porridge made from oat specie
 otatuze	mavystasu	$x1=s1$ is porridge of type $x2=m2$
 chueqkoı	maxydzu	$c_1=m_1$ stomps on surface $c_2$ using limbs $c_3$ crushing $m_2$ into pulp mass $m_3$.
 chueqnoq	maxyvru	$s_1$ is a crash (sound) produced by $m_1$ smashing into $m_2$.
-kuoıjuı	me'ajbi	$x_1$ is a little lesser than $x_2$ in dimension $x_3$; $x_1$ is almost as $x_3$ as $x_2$ is
 kuoı'ıq	meckai	$x_1$ is less $x_2$ (ka of $x_1$) than $x_3$ (ka of $x_1$)
 kuoıdesoq	mecmlerai	$me_1=t_1$ is least beautiful among set/range $t_3$ to $m_2$ in aspect $me_3$ (ka) by aesthetic standard $me_4$.
 kuoızıu	mecna'u	$m_1=n_1$ is a negative number relative to origo $m_2$.
@@ -2722,6 +2718,7 @@ turaıjıobuı	roldzadijbartu	$b_1$ is outdoors; $b_1$ is outside of all buildin
 turaımaı	roldzapa'i	$p_1$ loves everyone and everything.
 tumaıseje	rolpamcinse	$c_1$ in activity/state $c_2$ exhibits a panromantic orientation by standard $c_4$.
 tufuaqkoe	rolxracu'a	$c_1$ selects all images containing $p_2$; $x_1$ completes a CAPTCHA
+tulaıkune	rolylerju'a	$x_1$ is a pangram.
 tujıq	rolza'i	$x_1$ (plural) is everything that exists for $x_2$ (person) under metaphysics $x_3$
 moaıpuruq	rotsmela	$x_1$ is a hackberry/bird cherry of variety $x_2$
 casekea	rucyca'a	$c_1$ is a processor/processing unit for purpose $c_2$.
@@ -3030,7 +3027,6 @@ sımchıo	sotroi	$x_1$ happens seldom/infrequently/is rare in interval $x_2$.
 poaırujı	sovykruji	$k_1$ is made of/contains a quantity of custard.
 neıkojoaq	sozmoija'a	$j_1$ has the rank of General/Admiral/Air Chief Marshal (equivalent of NATO OF-9) in military unit /organization $j_2$.
 nıugoeq	spabi'u	$b_1$ is a hedge separating $b_2$ and $b_3$ in $b_4$ made of plants of species $s_2$.
-nıudueq	spafoi	$f_{1}$ is a brush/shrubland [field of plants] with predominant plant species/cultivar $s_{2}$.
 nıunulı	spagrasu	$c_1$ is a quantity of plant oil from plant $c_2=s_1$.
 nıume	spagunma	$x_{1}$ is a jointly-plant with component of mass $x_{2}$.
 nıutıuqleu	spasatlitki	$l_1$ is a quantity of nectar, of composition/material including $sa_1=l_2$ (mostly sugar), from plant $sp_1=sa_2$, liquid under conditions $l_3$.
@@ -3443,7 +3439,6 @@ rıonaomıdıu	varxasyske	$s_1$ is the atmospheric science of planet x2.
 ceuboq	vaxfanta	$x_1=f_1$ strangles $x_2=v_1$; $x_1=f_1$ prevents $x_2=v_1$ from breathing gas $x_3=v_2$.
 ceuguqshoem	vaxni'ajinru	$j_1=c_1=v_1$ (object/person) is scuba diving beneath/below/under from $c_2$ (object/water surface) in frame of reference $c_3$ breathing/respiring $v_2$ [gas], submerged in liquid $j_2$.
 ceuguqshoempoq	vaxni'ajirpre	$p_1=v_1$ is a scuba diver breathing gas $v_2$.
-ceubıu	vaxtu'u	$x_1$ is the trachea of $x_2$
 ceusoakea	vaxydjuca'a	$x_1=c_1=s_1$ is a ventilator for helping $x_2=s_2$ to breath
 ceukoaı	vaxyju'e	$x_1$ is a respiratory mask or a gas mask.
 ceujeoqtıe	vaxykevgai	$x_1$ is a facial/respiratory covering/mask that covers at least respiratory orifice(s) $x_2$.
